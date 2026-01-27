@@ -4,7 +4,6 @@ use App\Services\ShipmentExportService;
 use App\Services\GitHubService;
 use Illuminate\Support\Facades\Schedule;
 
-
 Artisan::command('daily:upload {--message=Daily automated commit}', function (ShipmentExportService $exportService, GitHubService $gitHubService)
 {
 	$this->info('Starting daily upload to GitHub...');
@@ -18,6 +17,10 @@ Artisan::command('daily:upload {--message=Daily automated commit}', function (Sh
 		{
 			$this->info("✓ Exported to: {$exportResult['filename']}");
 			$this->info("✓ Total shipments exported: {$exportResult['count']}");
+		}
+		else
+		{
+			$this->warn("⚠ {$exportResult['message']}");
 		}
 
 		$commitMessage = $this->option('message') . ' - ' . now()->format('Y-m-d H:i:s');

@@ -12,7 +12,7 @@ class ShipmentSeeder extends Seeder
 	{
 		// Create random shipments for today using factories
 		Shipment::factory()
-			->count(rand(3, 8))
+			->count(1)
 			->withProducts()
 			->create();
 	}

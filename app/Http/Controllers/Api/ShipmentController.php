@@ -46,6 +46,7 @@ class ShipmentController extends Controller
 				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
 				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
 				'status' => $shipment->status,
+				'total_packages' => $shipment->total_packages,
 				'notes' => $shipment->notes,
 				'inventory' => $shipment->inventory(),
 				'created_at' => $shipment->created_at->toIso8601String(),
@@ -84,6 +85,7 @@ class ShipmentController extends Controller
 				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
 				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
 				'status' => $shipment->status,
+				'total_packages' => $shipment->total_packages,
 				'notes' => $shipment->notes,
 				'inventory' => $shipment->inventory(),
 				'created_at' => $shipment->created_at->toIso8601String(),
@@ -97,8 +99,8 @@ class ShipmentController extends Controller
 			'tracking_number' => 'required|string|unique:shipments',
 			'supplier' => 'required|string',
 			'shipment_date' => 'required|date',
-			'expected_delivery' => 'required|date|after:shipment_date',
-			'status' => 'sometimes|in:pending,in_transit,delivered,delayed',
+			'expected_delivery' => 'required|date',
+			'status' => 'sometimes|in:pending,fulfilled',
 			'notes' => 'nullable|string',
 			'products' => 'required|array|min:1',
 			'products.*.product_id' => 'required|exists:products,id',
@@ -106,12 +108,19 @@ class ShipmentController extends Controller
 			'products.*.received_amount' => 'sometimes|integer|min:0',
 		]);
 
+		$totalPackages = 0;
+		foreach ($validated['products'] as $productData)
+		{
+			$totalPackages += $productData['requested_amount'];
+		}
+
 		$shipment = Shipment::create([
 			'tracking_number' => $validated['tracking_number'],
 			'supplier' => $validated['supplier'],
 			'shipment_date' => $validated['shipment_date'],
 			'expected_delivery' => $validated['expected_delivery'],
 			'status' => $validated['status'] ?? 'pending',
+			'total_packages' => $totalPackages,
 			'notes' => $validated['notes'] ?? null,
 		]);
 
@@ -124,6 +133,7 @@ class ShipmentController extends Controller
 		}
 
 		$shipment->load('products');
+		$shipment->updateFulfillmentStatus();
 
 		return response()->json([
 			'success' => true,
@@ -135,6 +145,7 @@ class ShipmentController extends Controller
 				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
 				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
 				'status' => $shipment->status,
+				'total_packages' => $shipment->total_packages,
 				'notes' => $shipment->notes,
 				'inventory' => $shipment->inventory(),
 			]
@@ -158,7 +169,7 @@ class ShipmentController extends Controller
 			'supplier' => 'sometimes|string',
 			'shipment_date' => 'sometimes|date',
 			'expected_delivery' => 'sometimes|date',
-			'status' => 'sometimes|in:pending,in_transit,delivered,delayed',
+			'status' => 'sometimes|in:pending,fulfilled',
 			'notes' => 'nullable|string',
 			'products' => 'sometimes|array',
 			'products.*.product_id' => 'required|exists:products,id',
@@ -166,17 +177,24 @@ class ShipmentController extends Controller
 			'products.*.received_amount' => 'sometimes|integer|min:0',
 		]);
 
-		$shipment->update(array_filter([
+		$updateData = array_filter([
 			'tracking_number' => $validated['tracking_number'] ?? null,
 			'supplier' => $validated['supplier'] ?? null,
 			'shipment_date' => $validated['shipment_date'] ?? null,
 			'expected_delivery' => $validated['expected_delivery'] ?? null,
 			'status' => $validated['status'] ?? null,
 			'notes' => $validated['notes'] ?? null,
-		]));
+		]);
 
 		if (isset($validated['products']))
 		{
+			$totalPackages = 0;
+			foreach ($validated['products'] as $productData)
+			{
+				$totalPackages += $productData['requested_amount'];
+			}
+			$updateData['total_packages'] = $totalPackages;
+
 			$shipment->products()->detach();
 			foreach ($validated['products'] as $productData)
 			{
@@ -187,7 +205,9 @@ class ShipmentController extends Controller
 			}
 		}
 
+		$shipment->update($updateData);
 		$shipment->load('products');
+		$shipment->updateFulfillmentStatus();
 
 		return response()->json([
 			'success' => true,
@@ -199,6 +219,7 @@ class ShipmentController extends Controller
 				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
 				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
 				'status' => $shipment->status,
+				'total_packages' => $shipment->total_packages,
 				'notes' => $shipment->notes,
 				'inventory' => $shipment->inventory(),
 			]
@@ -207,29 +228,34 @@ class ShipmentController extends Controller
 
 	public function todaysShipments(): JsonResponse
 	{
-		$shipments = Shipment::with('products')
+		$shipment = Shipment::with('products')
 			->whereDate('shipment_date', now()->toDateString())
 			->orderBy('created_at', 'desc')
-			->get();
+			->first();
 
-		$data = $shipments->map(function ($shipment)
+		if (!$shipment)
 		{
-			return [
-				'id' => $shipment->id,
-				'tracking_number' => $shipment->tracking_number,
-				'supplier' => $shipment->supplier,
-				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
-				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
-				'status' => $shipment->status,
-				'notes' => $shipment->notes,
-				'inventory' => $shipment->inventory(),
-				'created_at' => $shipment->created_at->toIso8601String(),
-			];
-		});
+			return response()->json([
+				'success' => false,
+				'message' => 'No shipment found for today',
+			], 404);
+		}
+
+		$data = [
+			'id' => $shipment->id,
+			'tracking_number' => $shipment->tracking_number,
+			'supplier' => $shipment->supplier,
+			'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
+			'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
+			'status' => $shipment->status,
+			'total_packages' => $shipment->total_packages,
+			'notes' => $shipment->notes,
+			'inventory' => $shipment->inventory(),
+			'created_at' => $shipment->created_at->toIso8601String(),
+		];
 
 		return response()->json([
 			'success' => true,
-			'count' => $shipments->count(),
 			'data' => $data
 		]);
 	}

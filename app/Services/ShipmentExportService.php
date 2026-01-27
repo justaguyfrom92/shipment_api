@@ -16,10 +16,19 @@ class ShipmentExportService
 			File::makeDirectory($shipmentsDir, 0755, true);
 		}
 
-		$shipments = Shipment::with('products')
+		$shipment = Shipment::with('products')
 			->whereDate('shipment_date', now()->toDateString())
 			->orderBy('created_at', 'desc')
-			->get();
+			->first();
+
+		if (!$shipment)
+		{
+			return [
+				'success' => false,
+				'message' => 'No shipment found for today',
+				'count' => 0,
+			];
+		}
 
 		$timestamp = now()->format('Y-m-d_His');
 		$filename = "{$shipmentsDir}/{$timestamp}.json";
@@ -27,23 +36,20 @@ class ShipmentExportService
 		$exportData = [
 			'generated_at' => now()->toIso8601String(),
 			'shipment_date' => now()->format('Y-m-d'),
-			'total_shipments' => $shipments->count(),
-			'shipments' => $shipments->map(function ($shipment)
-			{
-				return [
-					'id' => $shipment->id,
-					'tracking_number' => $shipment->tracking_number,
-					'supplier' => $shipment->supplier,
-					'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
-					'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
-					'status' => $shipment->status,
-					'notes' => $shipment->notes,
-					'inventory' => $shipment->products->map(function ($product)
-					{
+			'shipment' => [
+				'id' => $shipment->id,
+				'tracking_number' => $shipment->tracking_number,
+				'supplier' => $shipment->supplier,
+				'shipment_date' => $shipment->shipment_date->format('Y-m-d'),
+				'expected_delivery' => $shipment->expected_delivery->format('Y-m-d'),
+				'status' => $shipment->status,
+				'total_packages' => $shipment->total_packages,
+				'notes' => $shipment->notes,
+				'inventory' => $shipment->products->map(function ($product)
+				{
 						return $product->toArray();
-					})->values()->all(),
-				];
-			})->values()->all(),
+				})->values()->all(),
+			],
 		];
 
 		File::put($filename, json_encode($exportData, JSON_PRETTY_PRINT));
@@ -51,7 +57,7 @@ class ShipmentExportService
 		return [
 			'success' => true,
 			'filename' => $filename,
-			'count' => $shipments->count(),
+			'count' => 1,
 		];
 	}
 }

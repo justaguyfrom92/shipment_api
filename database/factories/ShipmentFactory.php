@@ -11,16 +11,16 @@ class ShipmentFactory extends Factory
 
 	public function definition(): array
 	{
-		$shipmentDate = now()->toDateString();
-		$expectedDelivery = now()->addDays($this->faker->numberBetween(1, 30))->toDateString();
+		$deliveryDate = $this->faker->dateTimeBetween('now', '+90 days');
 
 		return [
 			'tracking_number' => strtoupper($this->faker->bothify('???-########')),
-			'supplier' => $this->faker->company(),
-			'shipment_date' => $shipmentDate,
-			'expected_delivery' => $expectedDelivery,
-			'status' => $this->faker->randomElement(['pending', 'in_transit', 'delivered', 'delayed']),
+			'supplier' => 'Supplier',
+			'shipment_date' => now()->toDateString(),
+			'expected_delivery' => $deliveryDate->format('Y-m-d'),
+			'status' => 'pending',
 			'notes' => $this->faker->optional(0.6)->sentence(rand(8, 20)),
+			'total_packages' => 0,
 		];
 	}
 
@@ -28,26 +28,40 @@ class ShipmentFactory extends Factory
 	{
 		return $this->afterCreating(function (Shipment $shipment) use ($count)
 		{
-			$productCount = $count ?? rand(1, 8);
+			$productCount = $count ?? rand(5, 15);
 			$products = \App\Models\Product::inRandomOrder()->limit($productCount)->get();
+
+			if ($products->isEmpty())
+			{
+				$shipment->delete();
+				return;
+			}
+
+			$totalPackages = 0;
+			$allFulfilled = true;
 
 			foreach ($products as $product)
 			{
-				$requestedAmount = rand(1, 1000);
+				$requestedAmount = rand(1, 50);
+				$receivedAmount = rand(1, $requestedAmount);
 
-				$receivedAmount = match($shipment->status)
+				$totalPackages += $requestedAmount;
+
+				if ($receivedAmount < $requestedAmount)
 				{
-					'delivered' => $requestedAmount,
-					'in_transit' => rand(0, (int)($requestedAmount * 0.5)),
-					'delayed' => rand(0, (int)($requestedAmount * 0.3)),
-					default => 0,
-				};
+					$allFulfilled = false;
+				}
 
 				$shipment->products()->attach($product->id, [
 					'requested_amount' => $requestedAmount,
 					'received_amount' => $receivedAmount,
 				]);
 			}
+
+			$shipment->update([
+				'total_packages' => $totalPackages,
+				'status' => $allFulfilled ? 'fulfilled' : 'pending',
+			]);
 		});
 	}
 }

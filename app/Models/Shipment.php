@@ -10,18 +10,17 @@ class Shipment extends Model
 {
 	use HasFactory;
 
-	protected $fillable =
-	[
+	protected $fillable = [
 		'tracking_number',
 		'supplier',
 		'shipment_date',
 		'expected_delivery',
 		'status',
+		'total_packages',
 		'notes'
 	];
 
-	protected $casts =
-	[
+	protected $casts = [
 		'shipment_date' => 'date',
 		'expected_delivery' => 'date',
 	];
@@ -40,4 +39,21 @@ class Shipment extends Model
 			$product->toArray();
 		});
 	}
+
+	public function updateFulfillmentStatus(): void
+	{
+		$allFulfilled = true;
+
+		foreach ($this->products as $product)
+		{
+			if ($product->pivot->received_amount < $product->pivot->requested_amount)
+			{
+				$allFulfilled = false;
+				break;
+			}
+		}
+
+		$this->update(['status' => $allFulfilled ? 'fulfilled' : 'pending']);
+	}
 }
+
