@@ -18,7 +18,7 @@ class ShipmentFactory extends Factory
 			'supplier' => 'Supplier',
 			'shipment_date' => now()->toDateString(),
 			'expected_delivery' => $deliveryDate->format('Y-m-d'),
-			'status' => 'pending',
+			'status' => 'delivered',
 			'notes' => $this->faker->optional(0.6)->sentence(rand(8, 20)),
 			'total_packages' => 0,
 		];
@@ -28,7 +28,7 @@ class ShipmentFactory extends Factory
 	{
 		return $this->afterCreating(function (Shipment $shipment) use ($count)
 		{
-			$productCount = $count ?? rand(5, 15);
+			$productCount = $count ?? rand(5, 35);
 			$products = \App\Models\Product::inRandomOrder()->limit($productCount)->get();
 
 			if ($products->isEmpty())
