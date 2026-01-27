@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use Illuminate\Support\Facades\Process;
+use Illuminate\Support\Facades\File;
 
 class GitHubService
 {
@@ -11,9 +12,34 @@ class GitHubService
 		return is_dir(base_path('.git'));
 	}
 
+	public function ensureStorageTracked(): void
+	{
+		$gitignorePath = base_path('.gitignore');
+
+		if (File::exists($gitignorePath))
+		{
+			$gitignore = File::get($gitignorePath);
+
+			// Remove storage exclusions from .gitignore
+			$gitignore = preg_replace('/^\/storage$/m', '', $gitignore);
+			$gitignore = preg_replace('/^\/storage\/\*$/m', '', $gitignore);
+			$gitignore = preg_replace('/^storage\/$/m', '', $gitignore);
+			$gitignore = preg_replace('/^storage\/\*$/m', '', $gitignore);
+
+			// Clean up multiple blank lines
+			$gitignore = preg_replace("/\n{3,}/", "\n\n", $gitignore);
+
+			File::put($gitignorePath, $gitignore);
+		}
+	}
+
 	public function addChanges(): array
 	{
-		$result = Process::path(base_path())->run('git add .');
+		// Ensure storage is tracked
+		$this->ensureStorageTracked();
+
+		// Force add all files including storage
+		$result = Process::path(base_path())->run('git add -A');
 
 		return [
 			'success' => $result->successful(),

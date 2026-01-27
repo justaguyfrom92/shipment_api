@@ -3,26 +3,19 @@
 namespace App\Services;
 
 use App\Models\Shipment;
-use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Storage;
 
 class ShipmentExportService
 {
 	public function exportTodaysShipments(): array
 	{
-		$shipmentsDir = base_path('shipments');
-
-		if (!File::exists($shipmentsDir))
-		{
-			File::makeDirectory($shipmentsDir, 0755, true);
-		}
-
 		$shipments = Shipment::with('products')
 			->whereDate('shipment_date', now()->toDateString())
 			->orderBy('created_at', 'desc')
 			->get();
 
 		$timestamp = now()->format('Y-m-d_His');
-		$filename = "{$shipmentsDir}/{$timestamp}.json";
+		$filepath = "logs/shipment/{$timestamp}.json";
 
 		$exportData = [
 			'generated_at' => now()->toIso8601String(),
@@ -46,11 +39,11 @@ class ShipmentExportService
 			})->values()->all(),
 		];
 
-		File::put($filename, json_encode($exportData, JSON_PRETTY_PRINT));
+		Storage::put($filepath, json_encode($exportData, JSON_PRETTY_PRINT));
 
 		return [
 			'success' => true,
-			'filename' => $filename,
+			'filename' => storage_path("app/{$filepath}"),
 			'count' => $shipments->count(),
 		];
 	}
