@@ -11,7 +11,7 @@ class ShipmentFactory extends Factory
 
 	public function definition(): array
 	{
-		$deliveryDate = $this->faker->dateTimeBetween('now', '+90 days');
+		$deliveryDate = $this->faker->dateTimeBetween('now', '+0 days');
 
 		return [
 			'tracking_number' => strtoupper($this->faker->bothify('???-########')),
