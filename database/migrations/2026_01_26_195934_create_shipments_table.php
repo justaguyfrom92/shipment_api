@@ -18,7 +18,7 @@ return new class extends Migration
 			$table->string('supplier');
 			$table->date('shipment_date');
 			$table->date('expected_delivery');
-			$table->enum('status', ['pending', 'fulfilled'])->default('pending');
+			$table->enum('status', ['pending', 'delivered', 'fulfilled'])->default('pending');
 			$table->integer('total_packages')->default(0);
 			$table->text('notes')->nullable();
 			$table->timestamps();
