@@ -7,11 +7,14 @@ use App\Models\Shipment;
 use App\Models\Product;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
+use Carbon\Carbon;
 
 class ShipmentController extends Controller
 {
 	public function index(Request $request): JsonResponse
 	{
+		$days = (int) Carbon::now()->startOfMonth()->diffInDays(Carbon::now()) + 1;
+
 		$query = Shipment::with('products');
 
 		if ($request->has('status'))
@@ -35,7 +38,7 @@ class ShipmentController extends Controller
 		}
 
 		$shipments = $query->orderBy('shipment_date', 'desc')
-			->paginate($request->get('per_page', 15));
+			->paginate($request->get('per_page', $days));
 
 		$data = $shipments->getCollection()->map(function ($shipment)
 		{
