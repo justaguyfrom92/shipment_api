@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-27",
+    "shipment": {
+        "id": 266,
+        "tracking_number": "K4R-57543644",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-27",
+        "expected_delivery": "2025-10-22",
+        "status": "pending",
+        "total_packages": 183,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 30,
+                "received_amount": 25
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 11,
+                "received_amount": 10
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 25,
+                "received_amount": 23
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 33,
+                "received_amount": 28
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 17,
+                "received_amount": 8
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 28,
+                "received_amount": 22
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 24,
+                "received_amount": 15
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 7,
+                "received_amount": 1
+            }
+        ]
+    }
+}

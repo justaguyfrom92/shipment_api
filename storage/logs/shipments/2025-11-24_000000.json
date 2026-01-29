@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-24",
+    "shipment": {
+        "id": 355,
+        "tracking_number": "JY2-57271144",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-24",
+        "expected_delivery": "2026-01-23",
+        "status": "pending",
+        "total_packages": 297,
+        "notes": "Qui voluptas ad et dicta omnis eveniet voluptates neque eos id temporibus quidem.",
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 34,
+                "received_amount": 17
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 35,
+                "received_amount": 8
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 38,
+                "received_amount": 16
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 49,
+                "received_amount": 41
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 47,
+                "received_amount": 37
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 45,
+                "received_amount": 36
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 49,
+                "received_amount": 41
+            }
+        ]
+    }
+}

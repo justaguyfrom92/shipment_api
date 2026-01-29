@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-23",
+    "shipment": {
+        "id": 50,
+        "tracking_number": "ALT-66336248",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-23",
+        "expected_delivery": "2025-04-05",
+        "status": "pending",
+        "total_packages": 193,
+        "notes": "Sint culpa eum eos et ea aliquam error et dolor ab quidem quia illum distinctio esse hic ea.",
+        "inventory": [
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 6,
+                "received_amount": 6
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 20,
+                "received_amount": 17
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 44,
+                "received_amount": 18
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 35,
+                "received_amount": 19
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 13,
+                "received_amount": 3
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 27,
+                "received_amount": 13
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 24,
+                "received_amount": 18
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 5,
+                "received_amount": 5
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 19,
+                "received_amount": 12
+            }
+        ]
+    }
+}

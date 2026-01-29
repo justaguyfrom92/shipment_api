@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:10-06:00",
+    "shipment_date": "2025-07-07",
+    "shipment": {
+        "id": 215,
+        "tracking_number": "DWR-98965935",
+        "supplier": "Supplier",
+        "shipment_date": "2025-07-07",
+        "expected_delivery": "2025-08-01",
+        "status": "pending",
+        "total_packages": 163,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 18,
+                "received_amount": 18
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 32,
+                "received_amount": 2
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 43,
+                "received_amount": 37
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 18,
+                "received_amount": 18
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 46,
+                "received_amount": 22
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 5,
+                "received_amount": 1
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 1,
+                "received_amount": 1
+            }
+        ]
+    }
+}

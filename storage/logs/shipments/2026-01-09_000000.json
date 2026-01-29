@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-09",
+    "shipment": {
+        "id": 12,
+        "tracking_number": "GG6-89898214",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-09",
+        "expected_delivery": "2026-01-27",
+        "status": "pending",
+        "total_packages": 275,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 32,
+                "received_amount": 29
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 39,
+                "received_amount": 3
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 47,
+                "received_amount": 2
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 45,
+                "received_amount": 21
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 35,
+                "received_amount": 29
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 25,
+                "received_amount": 23
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 48,
+                "received_amount": 23
+            }
+        ]
+    }
+}

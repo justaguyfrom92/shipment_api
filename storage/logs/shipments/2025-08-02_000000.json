@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-02",
+    "shipment": {
+        "id": 241,
+        "tracking_number": "4UZ-70503805",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-02",
+        "expected_delivery": "2025-09-20",
+        "status": "pending",
+        "total_packages": 135,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 27,
+                "received_amount": 17
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 41,
+                "received_amount": 5
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 36,
+                "received_amount": 33
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 27,
+                "received_amount": 27
+            }
+        ]
+    }
+}

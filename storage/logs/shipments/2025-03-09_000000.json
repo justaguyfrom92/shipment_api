@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:06-06:00",
+    "shipment_date": "2025-03-09",
+    "shipment": {
+        "id": 95,
+        "tracking_number": "SEQ-30462222",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-09",
+        "expected_delivery": "2025-05-15",
+        "status": "pending",
+        "total_packages": 181,
+        "notes": "Quis quis omnis unde rerum praesentium eius consequatur non et fugiat perferendis aut dolores deleniti vel repudiandae a dicta eius sed nulla et ullam.",
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 20,
+                "received_amount": 1
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 42,
+                "received_amount": 33
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 6,
+                "received_amount": 4
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 14,
+                "received_amount": 1
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 25,
+                "received_amount": 7
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 21,
+                "received_amount": 18
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 19,
+                "received_amount": 6
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 16,
+                "received_amount": 5
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 13,
+                "received_amount": 2
+            }
+        ]
+    }
+}

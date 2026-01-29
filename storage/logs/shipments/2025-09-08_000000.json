@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-08",
+    "shipment": {
+        "id": 278,
+        "tracking_number": "F65-77823246",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-08",
+        "expected_delivery": "2025-09-13",
+        "status": "pending",
+        "total_packages": 133,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 39,
+                "received_amount": 17
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 24,
+                "received_amount": 5
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 14,
+                "received_amount": 13
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 37,
+                "received_amount": 11
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 19,
+                "received_amount": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:06-06:00",
+    "shipment_date": "2025-03-23",
+    "shipment": {
+        "id": 109,
+        "tracking_number": "BVI-48259519",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-23",
+        "expected_delivery": "2025-06-06",
+        "status": "pending",
+        "total_packages": 264,
+        "notes": "Est est sequi magni itaque in voluptatem ut saepe quaerat vel.",
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 36,
+                "received_amount": 10
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 33,
+                "received_amount": 27
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 41,
+                "received_amount": 41
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 6,
+                "received_amount": 6
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 48,
+                "received_amount": 25
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 41,
+                "received_amount": 12
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 44,
+                "received_amount": 9
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 13,
+                "received_amount": 1
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 2,
+                "received_amount": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-08",
+    "shipment": {
+        "id": 35,
+        "tracking_number": "HLT-84098166",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-08",
+        "expected_delivery": "2025-02-22",
+        "status": "pending",
+        "total_packages": 166,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 42,
+                "received_amount": 40
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 17,
+                "received_amount": 10
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 43,
+                "received_amount": 38
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 31,
+                "received_amount": 20
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 33,
+                "received_amount": 12
+            }
+        ]
+    }
+}

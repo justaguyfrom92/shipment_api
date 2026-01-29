@@ -20,17 +20,19 @@ class GitHubService
 		{
 			$gitignore = File::get($gitignorePath);
 
-			// Remove storage exclusions from .gitignore
-			$gitignore = preg_replace('/^\/storage$/m', '', $gitignore);
-			$gitignore = preg_replace('/^\/storage\/\*$/m', '', $gitignore);
-			$gitignore = preg_replace('/^storage\/$/m', '', $gitignore);
-			$gitignore = preg_replace('/^storage\/\*$/m', '', $gitignore);
+			// Remove all storage-related exclusions
+			$gitignore = preg_replace('/^\/storage\/?.*$/m', '', $gitignore);
+			$gitignore = preg_replace('/^storage\/?.*$/m', '', $gitignore);
 
 			// Clean up multiple blank lines
 			$gitignore = preg_replace("/\n{3,}/", "\n\n", $gitignore);
 
 			File::put($gitignorePath, $gitignore);
 		}
+
+		// Create .gitignore in storage to keep structure but track files
+		$storageGitignorePath = storage_path('.gitignore');
+		File::put($storageGitignorePath, "# Track everything in storage\n!*\n");
 	}
 
 	public function addChanges(): array
@@ -38,7 +40,10 @@ class GitHubService
 		// Ensure storage is tracked
 		$this->ensureStorageTracked();
 
-		// Force add all files including storage
+		// Force add storage folder specifically
+		Process::path(base_path())->run('git add -f storage/');
+
+		// Then add everything else
 		$result = Process::path(base_path())->run('git add -A');
 
 		return [

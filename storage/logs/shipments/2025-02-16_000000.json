@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-02-16",
+    "shipment": {
+        "id": 74,
+        "tracking_number": "OGB-48336652",
+        "supplier": "Supplier",
+        "shipment_date": "2025-02-16",
+        "expected_delivery": "2025-04-28",
+        "status": "pending",
+        "total_packages": 84,
+        "notes": "Ut tempora reiciendis voluptatem ipsum esse dolore eos ea excepturi exercitationem tempore facilis rem occaecati.",
+        "inventory": [
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 6,
+                "received_amount": 5
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 3,
+                "received_amount": 3
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 47,
+                "received_amount": 23
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 24,
+                "received_amount": 21
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 4,
+                "received_amount": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-05",
+    "shipment": {
+        "id": 336,
+        "tracking_number": "7CJ-83409635",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-05",
+        "expected_delivery": "2025-11-14",
+        "status": "pending",
+        "total_packages": 228,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 21,
+                "received_amount": 21
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 22,
+                "received_amount": 20
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 48,
+                "received_amount": 38
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 41,
+                "received_amount": 38
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 35,
+                "received_amount": 25
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 22,
+                "received_amount": 4
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 31,
+                "received_amount": 24
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 4,
+                "received_amount": 1
+            }
+        ]
+    }
+}

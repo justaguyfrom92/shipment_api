@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-10-29",
+    "shipment": {
+        "id": 329,
+        "tracking_number": "MOW-84326485",
+        "supplier": "Supplier",
+        "shipment_date": "2025-10-29",
+        "expected_delivery": "2025-12-05",
+        "status": "pending",
+        "total_packages": 135,
+        "notes": "Fugit excepturi sunt et excepturi nobis.",
+        "inventory": [
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 5,
+                "received_amount": 3
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 46,
+                "received_amount": 45
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 21,
+                "received_amount": 16
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 32,
+                "received_amount": 30
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 26,
+                "received_amount": 25
+            }
+        ]
+    }
+}

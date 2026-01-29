@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-07",
+    "shipment": {
+        "id": 154,
+        "tracking_number": "V7O-17788172",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-07",
+        "expected_delivery": "2025-07-16",
+        "status": "pending",
+        "total_packages": 113,
+        "notes": "Ut velit eum et nemo necessitatibus architecto vel.",
+        "inventory": [
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 37,
+                "received_amount": 18
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 35,
+                "received_amount": 6
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 6,
+                "received_amount": 5
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 9,
+                "received_amount": 9
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 26,
+                "received_amount": 1
+            }
+        ]
+    }
+}

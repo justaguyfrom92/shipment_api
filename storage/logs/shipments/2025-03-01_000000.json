@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-03-01",
+    "shipment": {
+        "id": 87,
+        "tracking_number": "YFC-63457515",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-01",
+        "expected_delivery": "2025-05-15",
+        "status": "pending",
+        "total_packages": 207,
+        "notes": "Dolor quia quidem nam modi reprehenderit voluptas vel hic.",
+        "inventory": [
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 40,
+                "received_amount": 21
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 8,
+                "received_amount": 1
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 16,
+                "received_amount": 13
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 38,
+                "received_amount": 23
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 50,
+                "received_amount": 45
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 38,
+                "received_amount": 21
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 17,
+                "received_amount": 5
+            }
+        ]
+    }
+}

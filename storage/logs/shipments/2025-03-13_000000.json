@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:06-06:00",
+    "shipment_date": "2025-03-13",
+    "shipment": {
+        "id": 99,
+        "tracking_number": "N7Y-31704024",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-13",
+        "expected_delivery": "2025-04-21",
+        "status": "pending",
+        "total_packages": 154,
+        "notes": "Facilis maiores amet molestiae aut velit ullam aut quo laudantium sint fuga ut vero ut minima qui unde sunt molestias amet et consequuntur.",
+        "inventory": [
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 8,
+                "received_amount": 5
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 45,
+                "received_amount": 40
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 34,
+                "received_amount": 32
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 32,
+                "received_amount": 8
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 13,
+                "received_amount": 11
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 22,
+                "received_amount": 11
+            }
+        ]
+    }
+}

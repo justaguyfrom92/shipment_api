@@ -1,0 +1,128 @@
+{
+    "generated_at": "2026-01-27T23:31:16-06:00",
+    "shipment_date": "2025-12-30",
+    "shipment": {
+        "id": 391,
+        "tracking_number": "AJH-29984122",
+        "supplier": "Supplier",
+        "shipment_date": "2025-12-30",
+        "expected_delivery": "2026-03-06",
+        "status": "pending",
+        "total_packages": 397,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 47,
+                "received_amount": 20
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 22,
+                "received_amount": 18
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 28,
+                "received_amount": 14
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 43,
+                "received_amount": 39
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 14,
+                "received_amount": 5
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 32,
+                "received_amount": 8
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 7,
+                "received_amount": 2
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 23,
+                "received_amount": 9
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 33,
+                "received_amount": 4
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 35,
+                "received_amount": 14
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 29,
+                "received_amount": 4
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 34,
+                "received_amount": 15
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 49,
+                "received_amount": 10
+            }
+        ]
+    }
+}

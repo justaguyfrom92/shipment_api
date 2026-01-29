@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-06",
+    "shipment": {
+        "id": 153,
+        "tracking_number": "R3Q-51475860",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-06",
+        "expected_delivery": "2025-06-20",
+        "status": "pending",
+        "total_packages": 242,
+        "notes": "Velit enim sunt eos distinctio quia ut necessitatibus iusto sed ipsa cupiditate et possimus sed quia voluptatem fugiat unde incidunt nisi.",
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 34,
+                "received_amount": 11
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 36,
+                "received_amount": 26
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 42,
+                "received_amount": 37
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 23,
+                "received_amount": 18
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 34,
+                "received_amount": 15
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 37,
+                "received_amount": 21
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 36,
+                "received_amount": 22
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-13",
+    "shipment": {
+        "id": 40,
+        "tracking_number": "BBV-94347997",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-13",
+        "expected_delivery": "2025-02-11",
+        "status": "pending",
+        "total_packages": 157,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 30,
+                "received_amount": 8
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 34,
+                "received_amount": 27
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 39,
+                "received_amount": 23
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 19,
+                "received_amount": 1
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 35,
+                "received_amount": 13
+            }
+        ]
+    }
+}

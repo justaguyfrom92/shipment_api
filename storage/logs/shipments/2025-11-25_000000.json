@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-25",
+    "shipment": {
+        "id": 356,
+        "tracking_number": "XKX-49516445",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-25",
+        "expected_delivery": "2026-01-04",
+        "status": "pending",
+        "total_packages": 255,
+        "notes": "Commodi et dolorem nobis aperiam voluptatum sint et ratione commodi ut quos tempore enim consectetur debitis veritatis et quo officiis.",
+        "inventory": [
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 42,
+                "received_amount": 28
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 38,
+                "received_amount": 7
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 28,
+                "received_amount": 2
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 38,
+                "received_amount": 27
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 3,
+                "received_amount": 1
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 30,
+                "received_amount": 6
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 39,
+                "received_amount": 1
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 37,
+                "received_amount": 11
+            }
+        ]
+    }
+}

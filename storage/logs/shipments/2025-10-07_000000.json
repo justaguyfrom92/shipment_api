@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:13-06:00",
+    "shipment_date": "2025-10-07",
+    "shipment": {
+        "id": 307,
+        "tracking_number": "GKC-60640357",
+        "supplier": "Supplier",
+        "shipment_date": "2025-10-07",
+        "expected_delivery": "2025-12-13",
+        "status": "pending",
+        "total_packages": 187,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 22,
+                "received_amount": 7
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 16,
+                "received_amount": 4
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 20,
+                "received_amount": 11
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 19,
+                "received_amount": 6
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 27,
+                "received_amount": 19
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 42,
+                "received_amount": 14
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 41,
+                "received_amount": 13
+            }
+        ]
+    }
+}

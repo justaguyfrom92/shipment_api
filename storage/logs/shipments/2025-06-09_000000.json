@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:31:09-06:00",
+    "shipment_date": "2025-06-09",
+    "shipment": {
+        "id": 187,
+        "tracking_number": "RVU-98586760",
+        "supplier": "Supplier",
+        "shipment_date": "2025-06-09",
+        "expected_delivery": "2025-07-08",
+        "status": "pending",
+        "total_packages": 165,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 33,
+                "received_amount": 3
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 18,
+                "received_amount": 9
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 18,
+                "received_amount": 9
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 30,
+                "received_amount": 21
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 48,
+                "received_amount": 14
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 10,
+                "received_amount": 7
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 6,
+                "received_amount": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-16",
+    "shipment": {
+        "id": 133,
+        "tracking_number": "FP5-28952327",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-16",
+        "expected_delivery": "2025-06-24",
+        "status": "pending",
+        "total_packages": 380,
+        "notes": "Impedit voluptatem possimus voluptas ut odio sit assumenda a quidem consectetur ipsam modi temporibus delectus omnis.",
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 36,
+                "received_amount": 5
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 49,
+                "received_amount": 22
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 23,
+                "received_amount": 14
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 50,
+                "received_amount": 9
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 37,
+                "received_amount": 34
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 11,
+                "received_amount": 6
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 37,
+                "received_amount": 13
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 4,
+                "received_amount": 4
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 21,
+                "received_amount": 19
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 43,
+                "received_amount": 10
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 42,
+                "received_amount": 25
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 18,
+                "received_amount": 10
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 4,
+                "received_amount": 1
+            }
+        ]
+    }
+}

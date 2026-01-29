@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-26",
+    "shipment": {
+        "id": 357,
+        "tracking_number": "GIN-54395056",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-26",
+        "expected_delivery": "2026-01-25",
+        "status": "pending",
+        "total_packages": 238,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 41,
+                "received_amount": 13
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 16,
+                "received_amount": 7
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 48,
+                "received_amount": 26
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 4,
+                "received_amount": 4
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 23,
+                "received_amount": 9
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 23,
+                "received_amount": 21
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 6,
+                "received_amount": 2
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 34,
+                "received_amount": 11
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 34,
+                "received_amount": 1
+            }
+        ]
+    }
+}

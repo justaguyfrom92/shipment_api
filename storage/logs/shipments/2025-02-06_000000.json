@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-02-06",
+    "shipment": {
+        "id": 64,
+        "tracking_number": "IXR-24553259",
+        "supplier": "Supplier",
+        "shipment_date": "2025-02-06",
+        "expected_delivery": "2025-03-15",
+        "status": "pending",
+        "total_packages": 199,
+        "notes": "Officiis soluta odio provident nemo vel harum libero voluptatem occaecati nostrum.",
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 37,
+                "received_amount": 31
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 37,
+                "received_amount": 7
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 33,
+                "received_amount": 9
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 41,
+                "received_amount": 18
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 11,
+                "received_amount": 2
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 8,
+                "received_amount": 1
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 12,
+                "received_amount": 11
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 20,
+                "received_amount": 7
+            }
+        ]
+    }
+}

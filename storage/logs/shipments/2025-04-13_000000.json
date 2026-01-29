@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-13",
+    "shipment": {
+        "id": 130,
+        "tracking_number": "HOU-51092181",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-13",
+        "expected_delivery": "2025-06-09",
+        "status": "pending",
+        "total_packages": 174,
+        "notes": "Libero incidunt consectetur quia sint qui voluptatum consequatur labore ut et maiores libero saepe distinctio suscipit quos ut sint.",
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 7,
+                "received_amount": 3
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 38,
+                "received_amount": 13
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 11,
+                "received_amount": 10
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 24,
+                "received_amount": 14
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 50,
+                "received_amount": 15
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 44,
+                "received_amount": 13
+            }
+        ]
+    }
+}

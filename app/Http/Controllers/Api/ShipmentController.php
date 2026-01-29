@@ -226,7 +226,7 @@ class ShipmentController extends Controller
 		]);
 	}
 
-	public function todaysShipments(): JsonResponse
+	public function today(): JsonResponse
 	{
 		$shipment = Shipment::with('products')
 			->whereDate('shipment_date', now()->toDateString())

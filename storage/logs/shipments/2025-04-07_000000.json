@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-07",
+    "shipment": {
+        "id": 124,
+        "tracking_number": "0WM-75242763",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-07",
+        "expected_delivery": "2025-04-11",
+        "status": "pending",
+        "total_packages": 153,
+        "notes": "Autem consequatur expedita aliquid iste odit placeat sit quisquam qui deleniti illum ullam molestiae iusto.",
+        "inventory": [
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 10,
+                "received_amount": 7
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 35,
+                "received_amount": 35
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 47,
+                "received_amount": 22
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 47,
+                "received_amount": 27
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 9,
+                "received_amount": 6
+            }
+        ]
+    }
+}

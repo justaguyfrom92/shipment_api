@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-11-28",
+    "shipment": {
+        "id": 359,
+        "tracking_number": "DIQ-64831306",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-28",
+        "expected_delivery": "2025-12-07",
+        "status": "pending",
+        "total_packages": 252,
+        "notes": "Ad laudantium repudiandae hic et temporibus beatae qui autem ipsam suscipit blanditiis.",
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 33,
+                "received_amount": 22
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 32,
+                "received_amount": 31
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 48,
+                "received_amount": 7
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 42,
+                "received_amount": 37
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 20,
+                "received_amount": 9
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 16,
+                "received_amount": 6
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 22,
+                "received_amount": 2
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 34,
+                "received_amount": 3
+            }
+        ]
+    }
+}

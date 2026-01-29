@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-12-13",
+    "shipment": {
+        "id": 374,
+        "tracking_number": "UI5-98766037",
+        "supplier": "Supplier",
+        "shipment_date": "2025-12-13",
+        "expected_delivery": "2026-02-06",
+        "status": "pending",
+        "total_packages": 154,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 36,
+                "received_amount": 29
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 18,
+                "received_amount": 12
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 41,
+                "received_amount": 2
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 17,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 38,
+                "received_amount": 11
+            }
+        ]
+    }
+}

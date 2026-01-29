@@ -34,10 +34,11 @@ class Shipment extends Model
 
 	public function inventory()
 	{
-		return $this->products->map(function ($product)
+		$inventory = $this->products->map(function ($product)
 		{
-			$product->toArray();
+			return $product->toArray();
 		});
+		return $inventory;
 	}
 
 	public function updateFulfillmentStatus(): void

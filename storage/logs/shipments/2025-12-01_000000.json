@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-12-01",
+    "shipment": {
+        "id": 362,
+        "tracking_number": "8LM-59511033",
+        "supplier": "Supplier",
+        "shipment_date": "2025-12-01",
+        "expected_delivery": "2026-01-20",
+        "status": "pending",
+        "total_packages": 124,
+        "notes": "Voluptas nostrum ut molestiae libero deleniti facilis porro qui odio omnis saepe.",
+        "inventory": [
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 6,
+                "received_amount": 4
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 36,
+                "received_amount": 24
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 46,
+                "received_amount": 30
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 30,
+                "received_amount": 8
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 4,
+                "received_amount": 2
+            }
+        ]
+    }
+}

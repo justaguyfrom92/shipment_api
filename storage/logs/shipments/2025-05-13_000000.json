@@ -1,0 +1,136 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-13",
+    "shipment": {
+        "id": 160,
+        "tracking_number": "TJU-65302328",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-13",
+        "expected_delivery": "2025-05-17",
+        "status": "pending",
+        "total_packages": 389,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 47,
+                "received_amount": 34
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 47,
+                "received_amount": 22
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 10,
+                "received_amount": 10
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 26,
+                "received_amount": 14
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 40,
+                "received_amount": 21
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 39,
+                "received_amount": 22
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 30,
+                "received_amount": 26
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 10,
+                "received_amount": 9
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 36,
+                "received_amount": 12
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 28,
+                "received_amount": 10
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 40,
+                "received_amount": 33
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 12,
+                "received_amount": 6
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 19,
+                "received_amount": 5
+            }
+        ]
+    }
+}

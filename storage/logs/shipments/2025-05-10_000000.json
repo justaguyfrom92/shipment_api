@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-10",
+    "shipment": {
+        "id": 157,
+        "tracking_number": "ICE-70336389",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-10",
+        "expected_delivery": "2025-05-29",
+        "status": "pending",
+        "total_packages": 248,
+        "notes": "Tempora veritatis laborum aut dignissimos ipsum error recusandae dolorum voluptates quia corrupti.",
+        "inventory": [
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 48,
+                "received_amount": 12
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 19,
+                "received_amount": 7
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 28,
+                "received_amount": 6
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 46,
+                "received_amount": 16
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 32,
+                "received_amount": 4
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 17,
+                "received_amount": 8
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 20,
+                "received_amount": 20
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 24,
+                "received_amount": 14
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 4,
+                "received_amount": 3
+            }
+        ]
+    }
+}

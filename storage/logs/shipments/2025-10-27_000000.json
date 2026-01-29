@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:13-06:00",
+    "shipment_date": "2025-10-27",
+    "shipment": {
+        "id": 327,
+        "tracking_number": "JDS-71262557",
+        "supplier": "Supplier",
+        "shipment_date": "2025-10-27",
+        "expected_delivery": "2025-11-16",
+        "status": "pending",
+        "total_packages": 110,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 35,
+                "received_amount": 16
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 26,
+                "received_amount": 22
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 30,
+                "received_amount": 25
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 15,
+                "received_amount": 13
+            }
+        ]
+    }
+}

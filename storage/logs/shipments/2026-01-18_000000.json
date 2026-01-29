@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-18",
+    "shipment": {
+        "id": 21,
+        "tracking_number": "ZNS-48008505",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-18",
+        "expected_delivery": "2026-03-27",
+        "status": "pending",
+        "total_packages": 180,
+        "notes": "Modi doloribus reiciendis sapiente possimus minus et ut pariatur aut sapiente.",
+        "inventory": [
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 49,
+                "received_amount": 38
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 39,
+                "received_amount": 4
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 13,
+                "received_amount": 8
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 38,
+                "received_amount": 32
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 9,
+                "received_amount": 4
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 32,
+                "received_amount": 16
+            }
+        ]
+    }
+}

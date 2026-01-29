@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-13",
+    "shipment": {
+        "id": 344,
+        "tracking_number": "SHQ-82183891",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-13",
+        "expected_delivery": "2025-11-23",
+        "status": "pending",
+        "total_packages": 159,
+        "notes": "Enim eius omnis harum non voluptatem rerum voluptatem quidem veniam.",
+        "inventory": [
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 32,
+                "received_amount": 30
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 16,
+                "received_amount": 8
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 19,
+                "received_amount": 10
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 50,
+                "received_amount": 48
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 42,
+                "received_amount": 15
+            }
+        ]
+    }
+}

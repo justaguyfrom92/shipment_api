@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-02-22",
+    "shipment": {
+        "id": 80,
+        "tracking_number": "WWA-80742156",
+        "supplier": "Supplier",
+        "shipment_date": "2025-02-22",
+        "expected_delivery": "2025-03-20",
+        "status": "pending",
+        "total_packages": 53,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 7,
+                "received_amount": 3
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 19,
+                "received_amount": 17
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 8,
+                "received_amount": 8
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 15,
+                "received_amount": 15
+            }
+        ]
+    }
+}

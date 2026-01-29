@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-28",
+    "shipment": {
+        "id": 267,
+        "tracking_number": "5CG-40265158",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-28",
+        "expected_delivery": "2025-11-18",
+        "status": "pending",
+        "total_packages": 239,
+        "notes": "Cum nisi accusantium accusamus quibusdam exercitationem vel nostrum dolores illo sit quia dolore atque praesentium.",
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 39,
+                "received_amount": 35
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 47,
+                "received_amount": 8
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 11,
+                "received_amount": 9
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 39,
+                "received_amount": 10
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 6,
+                "received_amount": 2
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 50,
+                "received_amount": 2
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 47,
+                "received_amount": 6
+            }
+        ]
+    }
+}

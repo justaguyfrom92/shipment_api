@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-28",
+    "shipment": {
+        "id": 145,
+        "tracking_number": "7LP-78165998",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-28",
+        "expected_delivery": "2025-06-24",
+        "status": "pending",
+        "total_packages": 296,
+        "notes": "Debitis repudiandae magni vitae a quia temporibus eum harum accusamus earum omnis porro corporis voluptatum voluptatem quia quia quo explicabo.",
+        "inventory": [
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 34,
+                "received_amount": 23
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 10,
+                "received_amount": 6
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 47,
+                "received_amount": 17
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 50,
+                "received_amount": 20
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 38,
+                "received_amount": 12
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 36,
+                "received_amount": 17
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 41,
+                "received_amount": 20
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 16,
+                "received_amount": 5
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 13,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 8,
+                "received_amount": 6
+            }
+        ]
+    }
+}

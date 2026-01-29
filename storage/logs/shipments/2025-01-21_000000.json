@@ -1,0 +1,128 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-21",
+    "shipment": {
+        "id": 48,
+        "tracking_number": "VDR-96563017",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-21",
+        "expected_delivery": "2025-02-06",
+        "status": "pending",
+        "total_packages": 353,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 18,
+                "received_amount": 11
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 28,
+                "received_amount": 26
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 17,
+                "received_amount": 1
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 18,
+                "received_amount": 8
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 47,
+                "received_amount": 1
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 32,
+                "received_amount": 21
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 31,
+                "received_amount": 28
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 38,
+                "received_amount": 4
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 16,
+                "received_amount": 16
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 7,
+                "received_amount": 4
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 45,
+                "received_amount": 12
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 29,
+                "received_amount": 4
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 23,
+                "received_amount": 4
+            }
+        ]
+    }
+}

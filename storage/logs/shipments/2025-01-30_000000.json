@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-30",
+    "shipment": {
+        "id": 57,
+        "tracking_number": "BNB-27787902",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-30",
+        "expected_delivery": "2025-04-28",
+        "status": "pending",
+        "total_packages": 69,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 13,
+                "received_amount": 10
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 13,
+                "received_amount": 10
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 26,
+                "received_amount": 22
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 14,
+                "received_amount": 4
+            }
+        ]
+    }
+}

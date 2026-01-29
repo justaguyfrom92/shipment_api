@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-18",
+    "shipment": {
+        "id": 257,
+        "tracking_number": "OII-11593611",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-18",
+        "expected_delivery": "2025-11-14",
+        "status": "pending",
+        "total_packages": 194,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 27,
+                "received_amount": 16
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 19,
+                "received_amount": 14
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 46,
+                "received_amount": 46
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 10,
+                "received_amount": 4
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 37,
+                "received_amount": 12
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 12,
+                "received_amount": 4
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 38,
+                "received_amount": 21
+            }
+        ]
+    }
+}

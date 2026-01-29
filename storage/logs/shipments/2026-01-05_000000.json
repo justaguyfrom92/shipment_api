@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-05",
+    "shipment": {
+        "id": 8,
+        "tracking_number": "XCK-92481762",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-05",
+        "expected_delivery": "2026-04-03",
+        "status": "pending",
+        "total_packages": 166,
+        "notes": "Saepe voluptatum dolor rerum ipsum quia voluptatem esse ducimus velit itaque in consequuntur delectus voluptatem distinctio velit nesciunt non aut distinctio ut iure repellendus repudiandae nobis qui tenetur.",
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 41,
+                "received_amount": 33
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 6,
+                "received_amount": 3
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 45,
+                "received_amount": 13
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 46,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 28,
+                "received_amount": 13
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-05",
+    "shipment": {
+        "id": 275,
+        "tracking_number": "R5Z-57710386",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-05",
+        "expected_delivery": "2025-10-07",
+        "status": "pending",
+        "total_packages": 153,
+        "notes": "Illo saepe quod ducimus ut odit quis animi ea ducimus.",
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 16,
+                "received_amount": 4
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 31,
+                "received_amount": 25
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 21,
+                "received_amount": 15
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 19,
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 23,
+                "received_amount": 2
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 38,
+                "received_amount": 23
+            }
+        ]
+    }
+}

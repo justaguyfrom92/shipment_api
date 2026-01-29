@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:13-06:00",
+    "shipment_date": "2025-10-19",
+    "shipment": {
+        "id": 319,
+        "tracking_number": "ZMP-31283939",
+        "supplier": "Supplier",
+        "shipment_date": "2025-10-19",
+        "expected_delivery": "2025-11-26",
+        "status": "pending",
+        "total_packages": 193,
+        "notes": "Quis ut recusandae harum vitae quasi voluptas officia voluptate qui laudantium aut eligendi accusamus eum hic quisquam sed.",
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 33,
+                "received_amount": 1
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 18,
+                "received_amount": 16
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 41,
+                "received_amount": 34
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 14,
+                "received_amount": 10
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 16,
+                "received_amount": 3
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 10,
+                "received_amount": 1
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 31,
+                "received_amount": 8
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 29,
+                "received_amount": 4
+            }
+        ]
+    }
+}

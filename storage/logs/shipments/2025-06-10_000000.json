@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:09-06:00",
+    "shipment_date": "2025-06-10",
+    "shipment": {
+        "id": 188,
+        "tracking_number": "EA4-71496740",
+        "supplier": "Supplier",
+        "shipment_date": "2025-06-10",
+        "expected_delivery": "2025-08-25",
+        "status": "pending",
+        "total_packages": 154,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 22,
+                "received_amount": 14
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 9,
+                "received_amount": 4
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 39,
+                "received_amount": 31
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 49,
+                "received_amount": 11
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 20,
+                "received_amount": 14
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 15,
+                "received_amount": 13
+            }
+        ]
+    }
+}

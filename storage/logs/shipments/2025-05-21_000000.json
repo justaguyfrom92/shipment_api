@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-21",
+    "shipment": {
+        "id": 168,
+        "tracking_number": "RJC-63379057",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-21",
+        "expected_delivery": "2025-07-19",
+        "status": "pending",
+        "total_packages": 169,
+        "notes": "Qui architecto occaecati qui et voluptate provident ab harum quia sed est amet ut vel et.",
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 48,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 24,
+                "received_amount": 6
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 16,
+                "received_amount": 14
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 33,
+                "received_amount": 8
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 48,
+                "received_amount": 9
+            }
+        ]
+    }
+}

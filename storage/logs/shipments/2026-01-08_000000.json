@@ -1,0 +1,112 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-08",
+    "shipment": {
+        "id": 11,
+        "tracking_number": "YI1-64021969",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-08",
+        "expected_delivery": "2026-03-31",
+        "status": "pending",
+        "total_packages": 214,
+        "notes": "Deserunt delectus voluptatum iure harum eum eos neque est quia voluptate debitis quis eveniet.",
+        "inventory": [
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 24,
+                "received_amount": 5
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 6,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 6,
+                "received_amount": 5
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 16,
+                "received_amount": 11
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 31,
+                "received_amount": 13
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 31,
+                "received_amount": 19
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 16,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 3,
+                "received_amount": 3
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 31,
+                "received_amount": 13
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 15,
+                "received_amount": 5
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 34,
+                "received_amount": 16
+            }
+        ]
+    }
+}

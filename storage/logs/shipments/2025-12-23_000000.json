@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-12-23",
+    "shipment": {
+        "id": 384,
+        "tracking_number": "TQG-21616731",
+        "supplier": "Supplier",
+        "shipment_date": "2025-12-23",
+        "expected_delivery": "2026-01-08",
+        "status": "pending",
+        "total_packages": 107,
+        "notes": "Tempora est eius praesentium ratione molestiae tempora culpa quo adipisci dicta voluptatem aspernatur ex sit odit debitis tenetur reiciendis quo quis quia est.",
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 7,
+                "received_amount": 2
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 50,
+                "received_amount": 46
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 20,
+                "received_amount": 5
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 18,
+                "received_amount": 9
+            }
+        ]
+    }
+}

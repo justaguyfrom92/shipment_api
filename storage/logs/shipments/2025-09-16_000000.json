@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-16",
+    "shipment": {
+        "id": 286,
+        "tracking_number": "T4L-35895495",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-16",
+        "expected_delivery": "2025-10-13",
+        "status": "pending",
+        "total_packages": 227,
+        "notes": "Quis amet vel quo ut velit et eaque est sit voluptatem animi voluptatem autem.",
+        "inventory": [
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 8,
+                "received_amount": 3
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 21,
+                "received_amount": 5
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 27,
+                "received_amount": 1
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 29,
+                "received_amount": 7
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 26,
+                "received_amount": 3
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 8,
+                "received_amount": 4
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 41,
+                "received_amount": 32
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 28,
+                "received_amount": 27
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 32,
+                "received_amount": 3
+            }
+        ]
+    }
+}

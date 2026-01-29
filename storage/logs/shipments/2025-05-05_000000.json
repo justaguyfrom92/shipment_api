@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-05",
+    "shipment": {
+        "id": 152,
+        "tracking_number": "XQE-74913777",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-05",
+        "expected_delivery": "2025-06-15",
+        "status": "pending",
+        "total_packages": 182,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 22,
+                "received_amount": 16
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 42,
+                "received_amount": 14
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 37,
+                "received_amount": 8
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 29,
+                "received_amount": 24
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 7,
+                "received_amount": 4
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 45,
+                "received_amount": 19
+            }
+        ]
+    }
+}

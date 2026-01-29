@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-19",
+    "shipment": {
+        "id": 22,
+        "tracking_number": "NKZ-86145495",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-19",
+        "expected_delivery": "2026-04-07",
+        "status": "pending",
+        "total_packages": 223,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 40,
+                "received_amount": 36
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 40,
+                "received_amount": 20
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 8,
+                "received_amount": 4
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 12,
+                "received_amount": 8
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 49,
+                "received_amount": 43
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 43,
+                "received_amount": 32
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 31,
+                "received_amount": 2
+            }
+        ]
+    }
+}

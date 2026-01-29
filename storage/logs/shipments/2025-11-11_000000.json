@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-11",
+    "shipment": {
+        "id": 342,
+        "tracking_number": "EMO-96889883",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-11",
+        "expected_delivery": "2025-11-25",
+        "status": "pending",
+        "total_packages": 171,
+        "notes": "At fuga neque laborum aut voluptatem ut in vel quo assumenda reiciendis qui tempore nemo sunt.",
+        "inventory": [
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 44,
+                "received_amount": 19
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 12,
+                "received_amount": 5
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 20,
+                "received_amount": 18
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 16,
+                "received_amount": 9
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 35,
+                "received_amount": 20
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 9,
+                "received_amount": 4
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 33,
+                "received_amount": 21
+            }
+        ]
+    }
+}

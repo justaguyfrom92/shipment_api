@@ -1,0 +1,136 @@
+{
+    "generated_at": "2026-01-27T23:31:06-06:00",
+    "shipment_date": "2025-03-11",
+    "shipment": {
+        "id": 97,
+        "tracking_number": "RPB-83093711",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-11",
+        "expected_delivery": "2025-05-11",
+        "status": "pending",
+        "total_packages": 426,
+        "notes": "Cum atque itaque numquam porro autem mollitia eligendi et aliquid eos officia aut sed rem qui fugiat molestiae.",
+        "inventory": [
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 11,
+                "product_name": "Linen Shirt",
+                "sku": "FRV-4027",
+                "unit_price": "2124.39",
+                "requested_amount": 41,
+                "received_amount": 5
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 47,
+                "received_amount": 38
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 44,
+                "received_amount": 36
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 43,
+                "received_amount": 23
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 40,
+                "received_amount": 33
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 39,
+                "received_amount": 35
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 18,
+                "received_amount": 15
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 29,
+                "received_amount": 28
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 39,
+                "received_amount": 35
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 21,
+                "received_amount": 11
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 50,
+                "received_amount": 43
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 3,
+                "received_amount": 2
+            }
+        ]
+    }
+}

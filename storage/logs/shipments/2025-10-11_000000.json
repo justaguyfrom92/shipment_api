@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:13-06:00",
+    "shipment_date": "2025-10-11",
+    "shipment": {
+        "id": 311,
+        "tracking_number": "YQ0-41166168",
+        "supplier": "Supplier",
+        "shipment_date": "2025-10-11",
+        "expected_delivery": "2026-01-03",
+        "status": "pending",
+        "total_packages": 109,
+        "notes": "Voluptatibus sed possimus tenetur commodi dolorem modi quisquam.",
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 19,
+                "received_amount": 4
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 42,
+                "received_amount": 10
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 38,
+                "received_amount": 20
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 7,
+                "received_amount": 6
+            }
+        ]
+    }
+}

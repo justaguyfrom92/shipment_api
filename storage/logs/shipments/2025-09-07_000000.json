@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-07",
+    "shipment": {
+        "id": 277,
+        "tracking_number": "U9D-36216123",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-07",
+        "expected_delivery": "2025-09-15",
+        "status": "pending",
+        "total_packages": 82,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 12,
+                "received_amount": 8
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 29,
+                "received_amount": 3
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 10,
+                "received_amount": 9
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 29,
+                "received_amount": 4
+            }
+        ]
+    }
+}

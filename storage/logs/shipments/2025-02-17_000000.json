@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-02-17",
+    "shipment": {
+        "id": 75,
+        "tracking_number": "W42-56428683",
+        "supplier": "Supplier",
+        "shipment_date": "2025-02-17",
+        "expected_delivery": "2025-04-20",
+        "status": "pending",
+        "total_packages": 185,
+        "notes": "Voluptatem velit praesentium voluptatem dolor consequatur illum aut quia.",
+        "inventory": [
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 15,
+                "received_amount": 1
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 14,
+                "received_amount": 13
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 14,
+                "received_amount": 14
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 34,
+                "received_amount": 10
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 25,
+                "received_amount": 7
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 10,
+                "received_amount": 1
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 28,
+                "received_amount": 6
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 36,
+                "received_amount": 7
+            }
+        ]
+    }
+}

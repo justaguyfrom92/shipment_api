@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-07",
+    "shipment": {
+        "id": 246,
+        "tracking_number": "V2P-85518333",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-07",
+        "expected_delivery": "2025-09-11",
+        "status": "pending",
+        "total_packages": 133,
+        "notes": "Velit itaque animi excepturi reiciendis numquam hic mollitia amet id voluptatem vitae nobis ab.",
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 34,
+                "received_amount": 20
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 11,
+                "received_amount": 3
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 34,
+                "received_amount": 26
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 49,
+                "received_amount": 26
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 5,
+                "received_amount": 3
+            }
+        ]
+    }
+}

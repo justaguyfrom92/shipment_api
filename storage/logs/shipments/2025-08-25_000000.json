@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-25",
+    "shipment": {
+        "id": 264,
+        "tracking_number": "W3Q-54438348",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-25",
+        "expected_delivery": "2025-09-07",
+        "status": "pending",
+        "total_packages": 273,
+        "notes": "Nihil ut reprehenderit id dolorem atque error ratione deserunt mollitia nam odio molestiae nostrum aliquam tenetur.",
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 16,
+                "received_amount": 12
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 32,
+                "received_amount": 30
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 35,
+                "received_amount": 35
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 36,
+                "received_amount": 4
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 17,
+                "received_amount": 12
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 32,
+                "received_amount": 24
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 45,
+                "received_amount": 33
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 50,
+                "received_amount": 1
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 10,
+                "received_amount": 9
+            }
+        ]
+    }
+}

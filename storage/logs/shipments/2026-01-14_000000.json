@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-14",
+    "shipment": {
+        "id": 17,
+        "tracking_number": "9ZS-40558358",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-14",
+        "expected_delivery": "2026-02-17",
+        "status": "pending",
+        "total_packages": 91,
+        "notes": "Voluptatibus error aspernatur debitis officiis omnis quia dolores deleniti impedit sint sunt odit vero eveniet aut.",
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 28,
+                "received_amount": 27
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 39,
+                "received_amount": 11
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 7,
+                "received_amount": 3
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 15,
+                "received_amount": 13
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 2,
+                "received_amount": 1
+            }
+        ]
+    }
+}

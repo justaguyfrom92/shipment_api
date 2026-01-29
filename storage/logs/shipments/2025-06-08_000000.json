@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:09-06:00",
+    "shipment_date": "2025-06-08",
+    "shipment": {
+        "id": 186,
+        "tracking_number": "K8C-21762287",
+        "supplier": "Supplier",
+        "shipment_date": "2025-06-08",
+        "expected_delivery": "2025-09-01",
+        "status": "pending",
+        "total_packages": 258,
+        "notes": "Quam sed dolores omnis qui labore aut labore sit ullam.",
+        "inventory": [
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 10,
+                "received_amount": 9
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 26,
+                "received_amount": 25
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 12,
+                "received_amount": 3
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 12,
+                "received_amount": 2
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 34,
+                "received_amount": 32
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 21,
+                "received_amount": 1
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 29,
+                "received_amount": 1
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 19,
+                "received_amount": 7
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 50,
+                "received_amount": 33
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 45,
+                "received_amount": 40
+            }
+        ]
+    }
+}

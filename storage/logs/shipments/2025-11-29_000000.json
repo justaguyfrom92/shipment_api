@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-11-29",
+    "shipment": {
+        "id": 360,
+        "tracking_number": "QFI-98519294",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-29",
+        "expected_delivery": "2025-12-18",
+        "status": "pending",
+        "total_packages": 207,
+        "notes": "Sed ut recusandae quasi voluptate et eius eos explicabo earum nihil.",
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 40,
+                "received_amount": 32
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 42,
+                "received_amount": 32
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 24,
+                "received_amount": 12
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 24,
+                "received_amount": 14
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 38,
+                "received_amount": 29
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 39,
+                "received_amount": 6
+            }
+        ]
+    }
+}

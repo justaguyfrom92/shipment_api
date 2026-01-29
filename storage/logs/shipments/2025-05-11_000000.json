@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-11",
+    "shipment": {
+        "id": 158,
+        "tracking_number": "QL4-78382883",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-11",
+        "expected_delivery": "2025-05-16",
+        "status": "pending",
+        "total_packages": 139,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 10,
+                "received_amount": 4
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 19,
+                "received_amount": 9
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 24,
+                "received_amount": 2
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 34,
+                "received_amount": 11
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 49,
+                "received_amount": 31
+            }
+        ]
+    }
+}

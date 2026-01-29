@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-03",
+    "shipment": {
+        "id": 273,
+        "tracking_number": "Q7D-19839893",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-03",
+        "expected_delivery": "2025-11-19",
+        "status": "pending",
+        "total_packages": 161,
+        "notes": "Consectetur maiores deserunt aut fugiat et nesciunt porro voluptatem.",
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 45,
+                "received_amount": 44
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 18,
+                "received_amount": 12
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 45,
+                "received_amount": 43
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 14,
+                "received_amount": 6
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 39,
+                "received_amount": 33
+            }
+        ]
+    }
+}

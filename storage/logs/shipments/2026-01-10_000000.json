@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:30:51-06:00",
+    "shipment_date": "2026-01-10",
+    "shipment": {
+        "id": 13,
+        "tracking_number": "Y3F-25023430",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-10",
+        "expected_delivery": "2026-01-23",
+        "status": "pending",
+        "total_packages": 162,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 25,
+                "received_amount": 23
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 50,
+                "received_amount": 2
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 13,
+                "received_amount": 8
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 36,
+                "received_amount": 22
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 38,
+                "received_amount": 22
+            }
+        ]
+    }
+}

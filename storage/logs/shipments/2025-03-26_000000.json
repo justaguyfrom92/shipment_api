@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:06-06:00",
+    "shipment_date": "2025-03-26",
+    "shipment": {
+        "id": 112,
+        "tracking_number": "EIB-46300213",
+        "supplier": "Supplier",
+        "shipment_date": "2025-03-26",
+        "expected_delivery": "2025-06-10",
+        "status": "pending",
+        "total_packages": 119,
+        "notes": "Eum qui non eius minima dolor adipisci amet est itaque id aut et labore illo aperiam molestias id quia.",
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 18,
+                "received_amount": 13
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 16,
+                "received_amount": 15
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 10,
+                "received_amount": 8
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 28,
+                "received_amount": 5
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 38,
+                "received_amount": 3
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 8,
+                "received_amount": 1
+            }
+        ]
+    }
+}

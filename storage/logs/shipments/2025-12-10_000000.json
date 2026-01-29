@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:15-06:00",
+    "shipment_date": "2025-12-10",
+    "shipment": {
+        "id": 371,
+        "tracking_number": "KWM-22045210",
+        "supplier": "Supplier",
+        "shipment_date": "2025-12-10",
+        "expected_delivery": "2026-02-06",
+        "status": "pending",
+        "total_packages": 103,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 7,
+                "received_amount": 3
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 10,
+                "received_amount": 2
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 46,
+                "received_amount": 21
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 33,
+                "received_amount": 5
+            }
+        ]
+    }
+}

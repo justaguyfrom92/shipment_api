@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-25",
+    "shipment": {
+        "id": 172,
+        "tracking_number": "JEP-44833841",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-25",
+        "expected_delivery": "2025-05-28",
+        "status": "pending",
+        "total_packages": 188,
+        "notes": "Culpa id cum laudantium accusamus quia cum qui id cupiditate magni.",
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 50,
+                "received_amount": 24
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 34,
+                "received_amount": 32
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 35,
+                "received_amount": 10
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 46,
+                "received_amount": 8
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 23,
+                "received_amount": 3
+            }
+        ]
+    }
+}

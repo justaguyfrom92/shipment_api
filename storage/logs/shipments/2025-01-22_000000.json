@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-22",
+    "shipment": {
+        "id": 49,
+        "tracking_number": "CYE-27072282",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-22",
+        "expected_delivery": "2025-04-21",
+        "status": "pending",
+        "total_packages": 98,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 29,
+                "received_amount": 18
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 21,
+                "received_amount": 6
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 18,
+                "received_amount": 9
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 10,
+                "received_amount": 2
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 20,
+                "received_amount": 18
+            }
+        ]
+    }
+}

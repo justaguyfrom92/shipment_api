@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:08-06:00",
+    "shipment_date": "2025-05-14",
+    "shipment": {
+        "id": 161,
+        "tracking_number": "Y9Z-19198585",
+        "supplier": "Supplier",
+        "shipment_date": "2025-05-14",
+        "expected_delivery": "2025-07-01",
+        "status": "pending",
+        "total_packages": 178,
+        "notes": "Exercitationem non deserunt earum ut vero saepe et suscipit corrupti explicabo.",
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 21,
+                "received_amount": 20
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 47,
+                "received_amount": 46
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 39,
+                "received_amount": 27
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 50,
+                "received_amount": 7
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 13,
+                "received_amount": 8
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 6,
+                "received_amount": 1
+            }
+        ]
+    }
+}

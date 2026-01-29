@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-01-27T23:31:04-06:00",
+    "shipment_date": "2025-01-25",
+    "shipment": {
+        "id": 52,
+        "tracking_number": "HX1-76015964",
+        "supplier": "Supplier",
+        "shipment_date": "2025-01-25",
+        "expected_delivery": "2025-02-19",
+        "status": "pending",
+        "total_packages": 153,
+        "notes": "Et consequatur ullam vel est eum tempore porro et vero voluptatem quidem accusamus enim quae recusandae ad fugiat incidunt corporis.",
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 44,
+                "received_amount": 44
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 26,
+                "received_amount": 19
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 38,
+                "received_amount": 10
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 21,
+                "received_amount": 12
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 10,
+                "received_amount": 3
+            }
+        ]
+    }
+}

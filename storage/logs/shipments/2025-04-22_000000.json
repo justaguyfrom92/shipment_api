@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-22",
+    "shipment": {
+        "id": 139,
+        "tracking_number": "6S1-18292752",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-22",
+        "expected_delivery": "2025-07-15",
+        "status": "pending",
+        "total_packages": 153,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 14,
+                "received_amount": 6
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 11,
+                "received_amount": 10
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 13,
+                "received_amount": 11
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 44,
+                "received_amount": 20
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 43,
+                "received_amount": 18
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 28,
+                "received_amount": 3
+            }
+        ]
+    }
+}

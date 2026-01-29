@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-29",
+    "shipment": {
+        "id": 268,
+        "tracking_number": "RER-73875925",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-29",
+        "expected_delivery": "2025-09-25",
+        "status": "pending",
+        "total_packages": 230,
+        "notes": "Earum a sit omnis repellat dolores qui architecto et rem dolor error fuga et dignissimos qui ut rem ea consequatur.",
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 32,
+                "received_amount": 4
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 39,
+                "received_amount": 18
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 9,
+                "received_amount": 6
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 30,
+                "received_amount": 26
+            },
+            {
+                "product_id": 9,
+                "product_name": "USB-C Wall Charger",
+                "sku": "ATL-1810",
+                "unit_price": "2493.35",
+                "requested_amount": 41,
+                "received_amount": 35
+            },
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 32,
+                "received_amount": 9
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 26,
+                "received_amount": 11
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 19,
+                "received_amount": 15
+            }
+        ]
+    }
+}

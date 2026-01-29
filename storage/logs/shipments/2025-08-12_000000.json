@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-12",
+    "shipment": {
+        "id": 251,
+        "tracking_number": "0Z7-38141387",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-12",
+        "expected_delivery": "2025-10-03",
+        "status": "pending",
+        "total_packages": 171,
+        "notes": "Iste autem sit aspernatur omnis sapiente illum repudiandae eius magnam totam.",
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 18,
+                "received_amount": 18
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 33,
+                "received_amount": 32
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 47,
+                "received_amount": 5
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 31,
+                "received_amount": 29
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 16,
+                "received_amount": 14
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 26,
+                "received_amount": 9
+            }
+        ]
+    }
+}

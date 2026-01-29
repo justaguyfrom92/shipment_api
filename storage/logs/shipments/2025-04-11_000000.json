@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:07-06:00",
+    "shipment_date": "2025-04-11",
+    "shipment": {
+        "id": 128,
+        "tracking_number": "AXG-11075139",
+        "supplier": "Supplier",
+        "shipment_date": "2025-04-11",
+        "expected_delivery": "2025-05-13",
+        "status": "pending",
+        "total_packages": 182,
+        "notes": "Exercitationem quibusdam et sint autem voluptatem voluptas magnam qui minus laborum.",
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 46,
+                "received_amount": 15
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 26,
+                "received_amount": 17
+            },
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 46,
+                "received_amount": 43
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 22,
+                "received_amount": 20
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 42,
+                "received_amount": 12
+            }
+        ]
+    }
+}

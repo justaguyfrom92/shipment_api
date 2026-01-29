@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:14-06:00",
+    "shipment_date": "2025-11-17",
+    "shipment": {
+        "id": 348,
+        "tracking_number": "LQN-99620443",
+        "supplier": "Supplier",
+        "shipment_date": "2025-11-17",
+        "expected_delivery": "2026-01-12",
+        "status": "pending",
+        "total_packages": 142,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 24,
+                "received_amount": 9
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 32,
+                "received_amount": 32
+            },
+            {
+                "product_id": 19,
+                "product_name": "Canned Salsa",
+                "sku": "MVG-7890",
+                "unit_price": "23.87",
+                "requested_amount": 24,
+                "received_amount": 24
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 29,
+                "received_amount": 13
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 11,
+                "received_amount": 8
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 22,
+                "received_amount": 10
+            }
+        ]
+    }
+}

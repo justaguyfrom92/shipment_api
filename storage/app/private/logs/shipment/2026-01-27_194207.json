@@ -1,0 +1,206 @@
+{
+    "generated_at": "2026-01-27T19:42:07+00:00",
+    "shipment_date": "2026-01-27",
+    "total_shipments": 5,
+    "shipments": [
+        {
+            "id": 1,
+            "tracking_number": "YFS-98412519",
+            "supplier": "Ernser, Haag and Gutmann",
+            "shipment_date": "2026-01-27",
+            "expected_delivery": "2026-01-31",
+            "status": "pending",
+            "notes": null,
+            "inventory": [
+                {
+                    "product_id": 22,
+                    "product_name": "et et repudiandae et",
+                    "sku": "EXE-0242",
+                    "unit_price": "1640.74",
+                    "requested_amount": 850,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 28,
+                    "product_name": "iste assumenda occaecati",
+                    "sku": "HYI-9210",
+                    "unit_price": "1540.44",
+                    "requested_amount": 699,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 1,
+                    "product_name": "tempora consequatur impedit ipsam",
+                    "sku": "HWP-7611",
+                    "unit_price": "303.99",
+                    "requested_amount": 85,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "voluptatem pariatur voluptatibus nesciunt",
+                    "sku": "EBB-1600",
+                    "unit_price": "3038.39",
+                    "requested_amount": 345,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "consectetur qui",
+                    "sku": "QLP-2445",
+                    "unit_price": "171.44",
+                    "requested_amount": 90,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "voluptatem magni",
+                    "sku": "AZI-1086",
+                    "unit_price": "295.26",
+                    "requested_amount": 808,
+                    "received_amount": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tracking_number": "ZLA-80009973",
+            "supplier": "Haley and Sons",
+            "shipment_date": "2026-01-27",
+            "expected_delivery": "2026-02-22",
+            "status": "delivered",
+            "notes": null,
+            "inventory": [
+                {
+                    "product_id": 14,
+                    "product_name": "repellat ut architecto",
+                    "sku": "TSP-6871",
+                    "unit_price": "276.21",
+                    "requested_amount": 122,
+                    "received_amount": 122
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "quia debitis quibusdam commodi",
+                    "sku": "IPC-6693",
+                    "unit_price": "3897.49",
+                    "requested_amount": 578,
+                    "received_amount": 578
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "tracking_number": "LCF-33290999",
+            "supplier": "Gleichner-Trantow",
+            "shipment_date": "2026-01-27",
+            "expected_delivery": "2026-02-05",
+            "status": "delivered",
+            "notes": "Eos possimus adipisci ipsa quo corrupti optio saepe incidunt voluptatum ullam voluptatibus animi.",
+            "inventory": [
+                {
+                    "product_id": 19,
+                    "product_name": "doloribus voluptatum porro magnam",
+                    "sku": "ZYU-1008",
+                    "unit_price": "2773.43",
+                    "requested_amount": 539,
+                    "received_amount": 539
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "consectetur qui",
+                    "sku": "QLP-2445",
+                    "unit_price": "171.44",
+                    "requested_amount": 915,
+                    "received_amount": 915
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "tracking_number": "ZNM-84931467",
+            "supplier": "Macejkovic-Runolfsdottir",
+            "shipment_date": "2026-01-27",
+            "expected_delivery": "2026-02-09",
+            "status": "pending",
+            "notes": null,
+            "inventory": [
+                {
+                    "product_id": 14,
+                    "product_name": "repellat ut architecto",
+                    "sku": "TSP-6871",
+                    "unit_price": "276.21",
+                    "requested_amount": 307,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "voluptatem magni",
+                    "sku": "AZI-1086",
+                    "unit_price": "295.26",
+                    "requested_amount": 757,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "consectetur qui",
+                    "sku": "QLP-2445",
+                    "unit_price": "171.44",
+                    "requested_amount": 103,
+                    "received_amount": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "tracking_number": "BTM-95142763",
+            "supplier": "Boyle-Leffler",
+            "shipment_date": "2026-01-27",
+            "expected_delivery": "2026-01-30",
+            "status": "pending",
+            "notes": "Assumenda ex aut quod ipsa consequatur non sit dignissimos laborum.",
+            "inventory": [
+                {
+                    "product_id": 8,
+                    "product_name": "non fuga",
+                    "sku": "QBH-0947",
+                    "unit_price": "4540.38",
+                    "requested_amount": 626,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 29,
+                    "product_name": "et eius",
+                    "sku": "YMD-0056",
+                    "unit_price": "2550.06",
+                    "requested_amount": 855,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 30,
+                    "product_name": "quaerat harum",
+                    "sku": "MHS-0018",
+                    "unit_price": "3241.42",
+                    "requested_amount": 980,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "vel ut aut expedita",
+                    "sku": "RDU-2522",
+                    "unit_price": "2970.42",
+                    "requested_amount": 608,
+                    "received_amount": 0
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "voluptatem pariatur voluptatibus nesciunt",
+                    "sku": "EBB-1600",
+                    "unit_price": "3038.39",
+                    "requested_amount": 626,
+                    "received_amount": 0
+                }
+            ]
+        }
+    ]
+}

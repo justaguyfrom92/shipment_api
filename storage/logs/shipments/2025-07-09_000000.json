@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:10-06:00",
+    "shipment_date": "2025-07-09",
+    "shipment": {
+        "id": 217,
+        "tracking_number": "AXJ-71800499",
+        "supplier": "Supplier",
+        "shipment_date": "2025-07-09",
+        "expected_delivery": "2025-10-02",
+        "status": "pending",
+        "total_packages": 220,
+        "notes": "Vero et et et quia soluta id.",
+        "inventory": [
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 34,
+                "received_amount": 23
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 19,
+                "received_amount": 1
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 35,
+                "received_amount": 15
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 41,
+                "received_amount": 33
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 27,
+                "received_amount": 19
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 11,
+                "received_amount": 4
+            },
+            {
+                "product_id": 30,
+                "product_name": "Solar Deck Light",
+                "sku": "JPQ-8362",
+                "unit_price": "4626.14",
+                "requested_amount": 23,
+                "received_amount": 23
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 28,
+                "received_amount": 18
+            }
+        ]
+    }
+}

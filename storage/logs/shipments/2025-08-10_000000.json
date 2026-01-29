@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-10",
+    "shipment": {
+        "id": 249,
+        "tracking_number": "9SA-90993753",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-10",
+        "expected_delivery": "2025-11-03",
+        "status": "pending",
+        "total_packages": 117,
+        "notes": "Qui magni nisi eos incidunt autem quam aliquam numquam reiciendis voluptas.",
+        "inventory": [
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 20,
+                "product_name": "Mega Bloks Town Set",
+                "sku": "ERU-4164",
+                "unit_price": "4437.70",
+                "requested_amount": 3,
+                "received_amount": 3
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 40,
+                "received_amount": 17
+            },
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 50,
+                "received_amount": 24
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 23,
+                "received_amount": 15
+            }
+        ]
+    }
+}

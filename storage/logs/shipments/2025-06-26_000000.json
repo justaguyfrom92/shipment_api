@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-01-27T23:31:09-06:00",
+    "shipment_date": "2025-06-26",
+    "shipment": {
+        "id": 204,
+        "tracking_number": "QWF-37880435",
+        "supplier": "Supplier",
+        "shipment_date": "2025-06-26",
+        "expected_delivery": "2025-07-11",
+        "status": "pending",
+        "total_packages": 299,
+        "notes": "Numquam hic omnis ut sapiente ab ut quia molestias.",
+        "inventory": [
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 48,
+                "received_amount": 24
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 36,
+                "received_amount": 29
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 31,
+                "received_amount": 24
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 26,
+                "received_amount": 2
+            },
+            {
+                "product_id": 12,
+                "product_name": "4K Monitor",
+                "sku": "ZMW-6402",
+                "unit_price": "2245.36",
+                "requested_amount": 33,
+                "received_amount": 32
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 28,
+                "received_amount": 15
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 45,
+                "received_amount": 14
+            },
+            {
+                "product_id": 24,
+                "product_name": "Reading Glasses",
+                "sku": "UMZ-7932",
+                "unit_price": "3648.05",
+                "requested_amount": 9,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 14,
+                "received_amount": 10
+            },
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 29,
+                "received_amount": 20
+            }
+        ]
+    }
+}

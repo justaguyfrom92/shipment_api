@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:11-06:00",
+    "shipment_date": "2025-08-19",
+    "shipment": {
+        "id": 258,
+        "tracking_number": "5PL-24034818",
+        "supplier": "Supplier",
+        "shipment_date": "2025-08-19",
+        "expected_delivery": "2025-09-20",
+        "status": "pending",
+        "total_packages": 195,
+        "notes": "Velit qui dolorem totam qui ut harum reiciendis dolor.",
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Venom DVD",
+                "sku": "QQQ-6476",
+                "unit_price": "521.73",
+                "requested_amount": 47,
+                "received_amount": 39
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 9,
+                "received_amount": 1
+            },
+            {
+                "product_id": 14,
+                "product_name": "Rechargeable Reading Lamp",
+                "sku": "EQL-8313",
+                "unit_price": "900.57",
+                "requested_amount": 29,
+                "received_amount": 2
+            },
+            {
+                "product_id": 11,
+                "product_name": "Linen Shirt",
+                "sku": "FRV-4027",
+                "unit_price": "2124.39",
+                "requested_amount": 49,
+                "received_amount": 10
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 28,
+                "received_amount": 26
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 33,
+                "received_amount": 6
+            }
+        ]
+    }
+}

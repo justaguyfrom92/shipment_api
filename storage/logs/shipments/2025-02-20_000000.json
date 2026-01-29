@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-01-27T23:31:05-06:00",
+    "shipment_date": "2025-02-20",
+    "shipment": {
+        "id": 78,
+        "tracking_number": "X0A-46699761",
+        "supplier": "Supplier",
+        "shipment_date": "2025-02-20",
+        "expected_delivery": "2025-04-15",
+        "status": "pending",
+        "total_packages": 95,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 17,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 32,
+                "received_amount": 25
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 28,
+                "product_name": "Toy Laptop",
+                "sku": "DIF-3687",
+                "unit_price": "528.08",
+                "requested_amount": 24,
+                "received_amount": 8
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 21,
+                "received_amount": 10
+            }
+        ]
+    }
+}

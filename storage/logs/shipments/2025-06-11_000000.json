@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-01-27T23:31:09-06:00",
+    "shipment_date": "2025-06-11",
+    "shipment": {
+        "id": 189,
+        "tracking_number": "BRC-34149104",
+        "supplier": "Supplier",
+        "shipment_date": "2025-06-11",
+        "expected_delivery": "2025-09-04",
+        "status": "pending",
+        "total_packages": 243,
+        "notes": "Est fuga incidunt qui aut fuga adipisci ipsum officiis non nulla ipsam et occaecati voluptatibus enim est mollitia corporis repellendus perspiciatis ut totam.",
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "The Little Mermaid Series",
+                "sku": "HLV-3567",
+                "unit_price": "3273.97",
+                "requested_amount": 45,
+                "received_amount": 7
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 45,
+                "received_amount": 28
+            },
+            {
+                "product_id": 4,
+                "product_name": "Toy Coin Trick Set",
+                "sku": "TJB-6638",
+                "unit_price": "466.16",
+                "requested_amount": 49,
+                "received_amount": 37
+            },
+            {
+                "product_id": 13,
+                "product_name": "Portable Air Compressor",
+                "sku": "PNG-7125",
+                "unit_price": "3770.73",
+                "requested_amount": 24,
+                "received_amount": 21
+            },
+            {
+                "product_id": 18,
+                "product_name": "Toy Toy Car Track",
+                "sku": "KGL-0284",
+                "unit_price": "1584.93",
+                "requested_amount": 47,
+                "received_amount": 43
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 33,
+                "received_amount": 11
+            }
+        ]
+    }
+}

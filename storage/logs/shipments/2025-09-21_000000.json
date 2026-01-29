@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-27T23:31:12-06:00",
+    "shipment_date": "2025-09-21",
+    "shipment": {
+        "id": 291,
+        "tracking_number": "1XX-74263303",
+        "supplier": "Supplier",
+        "shipment_date": "2025-09-21",
+        "expected_delivery": "2025-12-18",
+        "status": "pending",
+        "total_packages": 251,
+        "notes": "Dicta accusamus sed ea nihil ipsa culpa facere temporibus aperiam exercitationem impedit molestiae placeat qui.",
+        "inventory": [
+            {
+                "product_id": 16,
+                "product_name": "Micro USB Cable",
+                "sku": "CJO-8735",
+                "unit_price": "854.91",
+                "requested_amount": 14,
+                "received_amount": 4
+            },
+            {
+                "product_id": 27,
+                "product_name": "LED Strip Lights",
+                "sku": "CEG-7319",
+                "unit_price": "4872.55",
+                "requested_amount": 17,
+                "received_amount": 10
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 23,
+                "received_amount": 8
+            },
+            {
+                "product_id": 5,
+                "product_name": "Canned Collard Greens with Bacon",
+                "sku": "HFC-5992",
+                "unit_price": "11.18",
+                "requested_amount": 7,
+                "received_amount": 4
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 23,
+                "received_amount": 3
+            },
+            {
+                "product_id": 29,
+                "product_name": "Plastic Drawer Tower",
+                "sku": "PSB-1335",
+                "unit_price": "2902.56",
+                "requested_amount": 35,
+                "received_amount": 20
+            },
+            {
+                "product_id": 15,
+                "product_name": "Magnetic Drawing Board",
+                "sku": "ERY-9167",
+                "unit_price": "4417.58",
+                "requested_amount": 50,
+                "received_amount": 49
+            },
+            {
+                "product_id": 7,
+                "product_name": "Wireless Earbuds",
+                "sku": "WMN-0435",
+                "unit_price": "1197.02",
+                "requested_amount": 39,
+                "received_amount": 21
+            },
+            {
+                "product_id": 2,
+                "product_name": "Money Heist DVD",
+                "sku": "XYC-9526",
+                "unit_price": "723.49",
+                "requested_amount": 43,
+                "received_amount": 1
+            }
+        ]
+    }
+}
