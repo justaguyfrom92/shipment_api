@@ -1,111 +1,55 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-11",
     "shipment": {
-        "id": 372,
-        "tracking_number": "FL7-70128103",
+        "id": 346,
+        "tracking_number": "YFW-16152547",
         "supplier": "Supplier",
         "shipment_date": "2025-12-11",
-        "expected_delivery": "2026-01-16",
+        "expected_delivery": "2025-12-11",
         "status": "pending",
-        "total_packages": 254,
-        "notes": null,
+        "total_packages": 150,
+        "notes": "Eum sunt qui est quia mollitia quasi neque delectus illum ratione.",
         "inventory": [
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 3,
-                "received_amount": 3
-            },
-            {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 7,
-                "received_amount": 6
-            },
-            {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 30,
-                "received_amount": 9
-            },
-            {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 20,
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 24,
                 "received_amount": 13
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 11,
-                "received_amount": 9
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 30,
+                "received_amount": 25
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 24,
-                "received_amount": 17
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 47,
+                "received_amount": 38
             },
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 19,
-                "received_amount": 18
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 41,
+                "received_amount": 7
             },
             {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 46,
-                "received_amount": 12
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 43,
-                "received_amount": 10
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 34,
-                "received_amount": 1
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 7,
-                "received_amount": 6
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 10,
-                "received_amount": 8
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 8,
+                "received_amount": 2
             }
         ]
     }

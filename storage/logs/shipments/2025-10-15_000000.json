@@ -1,119 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:13-06:00",
+    "generated_at": "2026-01-29T12:22:36-06:00",
     "shipment_date": "2025-10-15",
     "shipment": {
-        "id": 315,
-        "tracking_number": "DNA-69802000",
+        "id": 289,
+        "tracking_number": "0PK-59812617",
         "supplier": "Supplier",
         "shipment_date": "2025-10-15",
-        "expected_delivery": "2025-12-12",
+        "expected_delivery": "2025-10-15",
         "status": "pending",
-        "total_packages": 325,
-        "notes": null,
+        "total_packages": 199,
+        "notes": "Occaecati eos voluptatem ut est quidem earum.",
         "inventory": [
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 38,
-                "received_amount": 23
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 9,
-                "received_amount": 8
-            },
-            {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 40,
-                "received_amount": 3
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 45,
-                "received_amount": 40
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 16,
-                "received_amount": 1
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 5,
-                "received_amount": 3
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 44,
-                "received_amount": 3
-            },
-            {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 33,
-                "received_amount": 8
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 10,
-                "received_amount": 1
-            },
-            {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 12,
-                "received_amount": 6
-            },
-            {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 31,
-                "received_amount": 22
-            },
-            {
                 "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 31,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 9,
                 "received_amount": 9
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 11,
-                "received_amount": 11
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 19,
+                "received_amount": 7
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 13,
+                "received_amount": 4
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 41,
+                "received_amount": 39
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 6,
+                "received_amount": 3
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 45,
+                "received_amount": 28
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 7,
+                "received_amount": 7
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 45,
+                "received_amount": 5
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 6,
+                "received_amount": 4
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 8,
+                "received_amount": 6
             }
         ]
     }

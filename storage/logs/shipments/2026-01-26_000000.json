@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-29T12:22:41-06:00",
+    "shipment_date": "2026-01-26",
+    "shipment": {
+        "id": 392,
+        "tracking_number": "NPC-54773300",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-26",
+        "expected_delivery": "2026-01-26",
+        "status": "pending",
+        "total_packages": 288,
+        "notes": "Aut suscipit dolor eius et excepturi enim eum corrupti recusandae non accusamus molestias nostrum quod est incidunt eaque.",
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 45,
+                "received_amount": 23
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 27,
+                "received_amount": 2
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 29,
+                "received_amount": 26
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 27,
+                "received_amount": 8
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 31,
+                "received_amount": 31
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 47,
+                "received_amount": 37
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 40,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 38,
+                "received_amount": 18
+            }
+        ]
+    }
+}

@@ -1,87 +1,111 @@
 {
-    "generated_at": "2026-01-27T23:31:06-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-03-07",
     "shipment": {
-        "id": 93,
-        "tracking_number": "YYD-47177547",
+        "id": 67,
+        "tracking_number": "9UT-23747819",
         "supplier": "Supplier",
         "shipment_date": "2025-03-07",
-        "expected_delivery": "2025-04-09",
+        "expected_delivery": "2025-03-07",
         "status": "pending",
-        "total_packages": 341,
-        "notes": "Dolorem alias modi qui aut magni eveniet minima molestiae numquam tenetur maxime.",
+        "total_packages": 299,
+        "notes": "Dolorem blanditiis laboriosam voluptas dicta sed modi soluta perspiciatis itaque quidem enim a quia id.",
         "inventory": [
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 35,
-                "received_amount": 10
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 24,
+                "received_amount": 22
             },
             {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 44,
-                "received_amount": 2
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 42,
-                "received_amount": 23
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 42,
-                "received_amount": 35
-            },
-            {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 44,
-                "received_amount": 11
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 50,
-                "received_amount": 12
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 44,
-                "received_amount": 5
-            },
-            {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 11,
-                "received_amount": 4
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 36,
+                "received_amount": 24
             },
             {
                 "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 44,
+                "received_amount": 31
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 33,
+                "received_amount": 33
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 47,
+                "received_amount": 33
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 13,
+                "received_amount": 12
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 30,
+                "received_amount": 18
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 18,
+                "received_amount": 14
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 10,
+                "received_amount": 7
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 10,
+                "received_amount": 9
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
                 "requested_amount": 29,
-                "received_amount": 3
+                "received_amount": 27
             }
         ]
     }

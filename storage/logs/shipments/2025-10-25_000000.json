@@ -1,111 +1,71 @@
 {
-    "generated_at": "2026-01-27T23:31:13-06:00",
+    "generated_at": "2026-01-29T12:22:37-06:00",
     "shipment_date": "2025-10-25",
     "shipment": {
-        "id": 325,
-        "tracking_number": "BES-62771075",
+        "id": 299,
+        "tracking_number": "ABE-90336942",
         "supplier": "Supplier",
         "shipment_date": "2025-10-25",
-        "expected_delivery": "2025-11-17",
+        "expected_delivery": "2025-10-25",
         "status": "pending",
-        "total_packages": 384,
-        "notes": null,
+        "total_packages": 204,
+        "notes": "Cupiditate ex in sed non et consequatur et accusantium laborum in qui esse et molestiae odio vel et vitae.",
         "inventory": [
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 47,
-                "received_amount": 17
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 41,
-                "received_amount": 10
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 9,
-                "received_amount": 4
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 19,
-                "received_amount": 5
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 7,
-                "received_amount": 1
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 17,
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 16,
                 "received_amount": 16
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 50,
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 32,
                 "received_amount": 19
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 49,
-                "received_amount": 36
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 46,
+                "received_amount": 6
             },
             {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 1,
-                "received_amount": 1
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 50,
-                "received_amount": 8
-            },
-            {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 47,
-                "received_amount": 20
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 16,
+                "received_amount": 7
             },
             {
                 "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 47,
-                "received_amount": 46
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 25,
+                "received_amount": 9
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 26,
+                "received_amount": 13
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 43,
+                "received_amount": 32
             }
         ]
     }

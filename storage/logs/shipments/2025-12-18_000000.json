@@ -1,79 +1,127 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-18",
     "shipment": {
-        "id": 379,
-        "tracking_number": "EMK-99394287",
+        "id": 353,
+        "tracking_number": "MO0-30119371",
         "supplier": "Supplier",
         "shipment_date": "2025-12-18",
-        "expected_delivery": "2026-01-13",
+        "expected_delivery": "2025-12-18",
         "status": "pending",
-        "total_packages": 206,
-        "notes": "Molestiae dicta fugiat impedit a explicabo qui autem libero.",
+        "total_packages": 383,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 8,
-                "received_amount": 6
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 43,
+                "received_amount": 23
             },
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 27,
-                "received_amount": 3
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 31,
-                "received_amount": 2
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 19,
-                "received_amount": 17
-            },
-            {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 50,
-                "received_amount": 38
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 14,
+                "received_amount": 14
             },
             {
                 "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 25,
-                "received_amount": 8
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 11,
+                "received_amount": 11
             },
             {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 19,
-                "received_amount": 12
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 9,
+                "received_amount": 7
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 29,
+                "received_amount": 10
             },
             {
                 "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 27,
-                "received_amount": 6
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 46,
+                "received_amount": 14
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 31,
+                "received_amount": 26
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 37,
+                "received_amount": 7
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 25,
+                "received_amount": 5
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 8,
+                "received_amount": 5
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 47,
+                "received_amount": 3
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 50,
+                "received_amount": 35
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 28,
+                "received_amount": 3
             }
         ]
     }

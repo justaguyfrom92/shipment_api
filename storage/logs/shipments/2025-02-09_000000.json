@@ -1,71 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:05-06:00",
+    "generated_at": "2026-01-29T12:22:28-06:00",
     "shipment_date": "2025-02-09",
     "shipment": {
-        "id": 67,
-        "tracking_number": "UVU-14778591",
+        "id": 41,
+        "tracking_number": "ZYG-68908465",
         "supplier": "Supplier",
         "shipment_date": "2025-02-09",
-        "expected_delivery": "2025-02-15",
+        "expected_delivery": "2025-02-09",
         "status": "pending",
-        "total_packages": 187,
-        "notes": "Nostrum quis quia in maiores architecto neque et eius saepe voluptate laudantium aut voluptatem eveniet sunt aperiam quae in magni.",
+        "total_packages": 201,
+        "notes": "Quos cupiditate quia molestiae fuga deserunt nostrum quia culpa itaque mollitia et alias.",
         "inventory": [
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 44,
-                "received_amount": 40
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 44,
-                "received_amount": 2
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 11,
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 2,
                 "received_amount": 1
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 4,
-                "received_amount": 2
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 25,
+                "received_amount": 17
             },
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 32,
-                "received_amount": 32
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 10,
+                "received_amount": 9
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 24,
+                "received_amount": 7
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
                 "requested_amount": 39,
-                "received_amount": 38
+                "received_amount": 30
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 13,
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 21,
+                "received_amount": 19
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 19,
+                "received_amount": 3
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 15,
                 "received_amount": 10
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 46,
+                "received_amount": 28
             }
         ]
     }

@@ -1,86 +1,86 @@
 {
-    "generated_at": "2026-01-27T23:31:04-06:00",
+    "generated_at": "2026-01-29T12:22:28-06:00",
     "shipment_date": "2025-01-19",
     "shipment": {
-        "id": 46,
-        "tracking_number": "ZG7-92105997",
+        "id": 20,
+        "tracking_number": "6LU-89460456",
         "supplier": "Supplier",
         "shipment_date": "2025-01-19",
-        "expected_delivery": "2025-02-16",
+        "expected_delivery": "2025-01-19",
         "status": "pending",
-        "total_packages": 227,
-        "notes": null,
+        "total_packages": 236,
+        "notes": "Magnam rem et recusandae quod libero voluptatem voluptates ut nemo autem adipisci et.",
         "inventory": [
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 30,
-                "received_amount": 20
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 11,
-                "received_amount": 1
-            },
-            {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 19,
-                "received_amount": 3
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 17,
-                "received_amount": 15
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 22,
+                "received_amount": 16
             },
             {
                 "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 27,
-                "received_amount": 7
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 21,
+                "received_amount": 13
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 29,
-                "received_amount": 1
-            },
-            {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 44,
-                "received_amount": 38
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 20,
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 23,
                 "received_amount": 11
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 30,
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 22,
+                "received_amount": 19
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 42,
+                "received_amount": 23
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 12,
+                "received_amount": 5
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 27,
+                "received_amount": 11
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 29,
+                "received_amount": 22
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 38,
                 "received_amount": 13
             }
         ]

@@ -1,87 +1,79 @@
 {
-    "generated_at": "2026-01-27T23:31:09-06:00",
+    "generated_at": "2026-01-29T12:22:32-06:00",
     "shipment_date": "2025-06-12",
     "shipment": {
-        "id": 190,
-        "tracking_number": "NL6-76514783",
+        "id": 164,
+        "tracking_number": "FWV-69096359",
         "supplier": "Supplier",
         "shipment_date": "2025-06-12",
-        "expected_delivery": "2025-09-10",
+        "expected_delivery": "2025-06-12",
         "status": "pending",
-        "total_packages": 315,
-        "notes": "Esse accusamus veritatis temporibus praesentium est maiores rerum nemo aut quis accusantium quia velit odit autem excepturi.",
+        "total_packages": 126,
+        "notes": "Eaque molestiae aut iste vel sint voluptates ipsum sed quam tenetur voluptatum corporis culpa deserunt doloremque.",
         "inventory": [
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 45,
-                "received_amount": 9
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 44,
-                "received_amount": 43
-            },
-            {
                 "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
                 "requested_amount": 2,
-                "received_amount": 2
+                "received_amount": 1
             },
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 50,
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 35,
+                "received_amount": 33
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 21,
+                "received_amount": 12
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 3,
                 "received_amount": 3
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 46,
-                "received_amount": 41
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 2,
+                "received_amount": 1
             },
             {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 16,
-                "received_amount": 13
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 41,
+                "received_amount": 33
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 26,
-                "received_amount": 7
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 19,
+                "received_amount": 11
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 40,
-                "received_amount": 25
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 46,
-                "received_amount": 13
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 3,
+                "received_amount": 3
             }
         ]
     }

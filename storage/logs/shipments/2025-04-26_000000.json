@@ -1,55 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:07-06:00",
+    "generated_at": "2026-01-29T12:22:31-06:00",
     "shipment_date": "2025-04-26",
     "shipment": {
-        "id": 143,
-        "tracking_number": "BBA-40178047",
+        "id": 117,
+        "tracking_number": "AV2-72334908",
         "supplier": "Supplier",
         "shipment_date": "2025-04-26",
-        "expected_delivery": "2025-05-05",
+        "expected_delivery": "2025-04-26",
         "status": "pending",
-        "total_packages": 117,
-        "notes": "Velit cum natus qui et est beatae et adipisci harum delectus et assumenda totam modi.",
+        "total_packages": 265,
+        "notes": "Minus aut voluptas atque et doloremque cumque quis quo quas ipsa rerum.",
         "inventory": [
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 43,
-                "received_amount": 36
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 46,
+                "received_amount": 11
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 31,
+                "received_amount": 25
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 40,
+                "received_amount": 18
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 48,
+                "received_amount": 26
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
                 "requested_amount": 13,
-                "received_amount": 12
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 14,
+                "received_amount": 7
             },
             {
                 "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 18,
-                "received_amount": 8
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 38,
+                "received_amount": 34
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 32,
-                "received_amount": 14
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 3,
+                "received_amount": 3
             },
             {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 11,
-                "received_amount": 8
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 8,
+                "received_amount": 7
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 24,
+                "received_amount": 21
             }
         ]
     }

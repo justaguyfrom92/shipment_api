@@ -1,63 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-01",
     "shipment": {
-        "id": 362,
-        "tracking_number": "8LM-59511033",
+        "id": 336,
+        "tracking_number": "VIX-36710370",
         "supplier": "Supplier",
         "shipment_date": "2025-12-01",
-        "expected_delivery": "2026-01-20",
+        "expected_delivery": "2025-12-01",
         "status": "pending",
-        "total_packages": 124,
-        "notes": "Voluptas nostrum ut molestiae libero deleniti facilis porro qui odio omnis saepe.",
+        "total_packages": 241,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 6,
-                "received_amount": 4
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 7,
+                "received_amount": 6
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 36,
-                "received_amount": 24
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 38,
+                "received_amount": 27
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 46,
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 44,
                 "received_amount": 30
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 30,
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 6,
+                "received_amount": 3
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 20,
                 "received_amount": 8
             },
             {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 2,
-                "received_amount": 1
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 28,
+                "received_amount": 10
             },
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 4,
-                "received_amount": 2
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 31,
+                "received_amount": 28
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 42,
+                "received_amount": 32
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 25,
+                "received_amount": 7
             }
         ]
     }

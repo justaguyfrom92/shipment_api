@@ -1,87 +1,71 @@
 {
-    "generated_at": "2026-01-27T23:31:05-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-03-04",
     "shipment": {
-        "id": 90,
-        "tracking_number": "JAG-30610868",
+        "id": 64,
+        "tracking_number": "TJF-91878321",
         "supplier": "Supplier",
         "shipment_date": "2025-03-04",
-        "expected_delivery": "2025-04-11",
+        "expected_delivery": "2025-03-04",
         "status": "pending",
-        "total_packages": 177,
-        "notes": "Animi aut placeat non vel aut numquam neque eum eos ipsa exercitationem molestiae dignissimos.",
+        "total_packages": 242,
+        "notes": "Enim magni odio et eos ut et perspiciatis rerum iure dolorem ea repudiandae consequatur repudiandae aut.",
         "inventory": [
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 24,
-                "received_amount": 24
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 40,
+                "received_amount": 26
             },
             {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 41,
-                "received_amount": 32
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 3,
-                "received_amount": 2
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 20,
-                "received_amount": 8
-            },
-            {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 13,
-                "received_amount": 7
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 15,
+                "received_amount": 12
             },
             {
                 "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 21,
-                "received_amount": 20
-            },
-            {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 4,
-                "received_amount": 2
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
                 "requested_amount": 46,
-                "received_amount": 17
+                "received_amount": 36
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 5,
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 26,
+                "received_amount": 19
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 42,
                 "received_amount": 2
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 43,
+                "received_amount": 21
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 30,
+                "received_amount": 14
             }
         ]
     }

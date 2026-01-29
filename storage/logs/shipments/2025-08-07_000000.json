@@ -1,55 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:11-06:00",
+    "generated_at": "2026-01-29T12:22:34-06:00",
     "shipment_date": "2025-08-07",
     "shipment": {
-        "id": 246,
-        "tracking_number": "V2P-85518333",
+        "id": 220,
+        "tracking_number": "GPS-59202745",
         "supplier": "Supplier",
         "shipment_date": "2025-08-07",
-        "expected_delivery": "2025-09-11",
+        "expected_delivery": "2025-08-07",
         "status": "pending",
-        "total_packages": 133,
-        "notes": "Velit itaque animi excepturi reiciendis numquam hic mollitia amet id voluptatem vitae nobis ab.",
+        "total_packages": 132,
+        "notes": "Non molestias consequuntur exercitationem rem laborum facilis et ut non ut.",
         "inventory": [
             {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 34,
-                "received_amount": 20
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 32,
+                "received_amount": 14
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 16,
+                "received_amount": 9
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 43,
+                "received_amount": 28
             },
             {
                 "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 11,
-                "received_amount": 3
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 15,
+                "received_amount": 10
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 12,
+                "received_amount": 9
             },
             {
                 "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 34,
-                "received_amount": 26
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 49,
-                "received_amount": 26
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 5,
-                "received_amount": 3
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 14,
+                "received_amount": 6
             }
         ]
     }

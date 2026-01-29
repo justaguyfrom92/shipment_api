@@ -1,111 +1,79 @@
 {
-    "generated_at": "2026-01-27T23:31:14-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-11-27",
     "shipment": {
-        "id": 358,
-        "tracking_number": "IQJ-52721419",
+        "id": 332,
+        "tracking_number": "PSD-52450743",
         "supplier": "Supplier",
         "shipment_date": "2025-11-27",
-        "expected_delivery": "2025-11-28",
+        "expected_delivery": "2025-11-27",
         "status": "pending",
-        "total_packages": 289,
-        "notes": "Omnis omnis alias expedita adipisci consectetur et odio distinctio omnis suscipit non earum dolor consequatur.",
+        "total_packages": 184,
+        "notes": "Veniam temporibus rerum qui facere ducimus ut nesciunt libero magnam qui occaecati.",
         "inventory": [
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 35,
-                "received_amount": 29
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 28,
-                "received_amount": 2
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 14,
-                "received_amount": 14
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 29,
-                "received_amount": 12
-            },
-            {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 12,
-                "received_amount": 12
-            },
-            {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 14,
-                "received_amount": 13
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 41,
-                "received_amount": 8
-            },
-            {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 34,
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 22,
                 "received_amount": 6
             },
             {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 8,
-                "received_amount": 4
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 15,
+                "received_amount": 9
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 23,
-                "received_amount": 8
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 42,
+                "received_amount": 42
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 30,
-                "received_amount": 10
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 4,
+                "received_amount": 2
             },
             {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 21,
-                "received_amount": 12
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 37,
+                "received_amount": 36
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 25,
+                "received_amount": 6
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 32,
+                "received_amount": 11
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 7,
+                "received_amount": 6
             }
         ]
     }

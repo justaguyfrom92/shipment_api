@@ -1,71 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-03",
     "shipment": {
-        "id": 364,
-        "tracking_number": "TVB-70801673",
+        "id": 338,
+        "tracking_number": "0KS-64375760",
         "supplier": "Supplier",
         "shipment_date": "2025-12-03",
-        "expected_delivery": "2026-01-19",
+        "expected_delivery": "2025-12-03",
         "status": "pending",
-        "total_packages": 195,
-        "notes": null,
+        "total_packages": 60,
+        "notes": "Tempora optio voluptas neque aut nesciunt quae rerum ut esse aliquid voluptatem quis occaecati et quis vitae et facilis ex velit aut.",
         "inventory": [
             {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 37,
-                "received_amount": 3
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 16,
-                "received_amount": 6
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 27,
-                "received_amount": 27
-            },
-            {
                 "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 21,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 14,
                 "received_amount": 11
             },
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 45,
-                "received_amount": 37
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 11,
+                "received_amount": 11
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 8,
+                "received_amount": 1
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 21,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 3,
+                "received_amount": 1
             },
             {
                 "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 18,
-                "received_amount": 14
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 31,
-                "received_amount": 24
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 3,
+                "received_amount": 2
             }
         ]
     }

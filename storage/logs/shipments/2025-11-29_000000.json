@@ -1,63 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-11-29",
     "shipment": {
-        "id": 360,
-        "tracking_number": "QFI-98519294",
+        "id": 334,
+        "tracking_number": "WIX-35411374",
         "supplier": "Supplier",
         "shipment_date": "2025-11-29",
-        "expected_delivery": "2025-12-18",
+        "expected_delivery": "2025-11-29",
         "status": "pending",
-        "total_packages": 207,
-        "notes": "Sed ut recusandae quasi voluptate et eius eos explicabo earum nihil.",
+        "total_packages": 261,
+        "notes": "Voluptatem recusandae velit autem quisquam labore dolorem ut voluptatem quis omnis eum ipsum vitae et odit autem vel odio sunt hic beatae quia veritatis voluptas non magnam.",
         "inventory": [
             {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 40,
-                "received_amount": 32
-            },
-            {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 42,
-                "received_amount": 32
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 24,
-                "received_amount": 12
-            },
-            {
                 "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 24,
-                "received_amount": 14
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 22,
+                "received_amount": 13
             },
             {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 38,
-                "received_amount": 29
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 31,
+                "received_amount": 25
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 32,
+                "received_amount": 16
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 33,
+                "received_amount": 15
             },
             {
                 "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 39,
-                "received_amount": 6
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 32,
+                "received_amount": 7
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 13,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 46,
+                "received_amount": 20
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 28,
+                "received_amount": 1
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 24,
+                "received_amount": 1
             }
         ]
     }

@@ -1,55 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:11-06:00",
+    "generated_at": "2026-01-29T12:22:34-06:00",
     "shipment_date": "2025-08-10",
     "shipment": {
-        "id": 249,
-        "tracking_number": "9SA-90993753",
+        "id": 223,
+        "tracking_number": "MRI-51353059",
         "supplier": "Supplier",
         "shipment_date": "2025-08-10",
-        "expected_delivery": "2025-11-03",
+        "expected_delivery": "2025-08-10",
         "status": "pending",
-        "total_packages": 117,
-        "notes": "Qui magni nisi eos incidunt autem quam aliquam numquam reiciendis voluptas.",
+        "total_packages": 322,
+        "notes": "Dolore velit dolorem vitae et ratione id nisi tempora nesciunt.",
         "inventory": [
             {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 27,
+                "received_amount": 14
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
                 "requested_amount": 1,
                 "received_amount": 1
             },
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 3,
-                "received_amount": 3
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 11,
+                "received_amount": 10
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 40,
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 41,
+                "received_amount": 31
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 37,
+                "received_amount": 30
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 43,
+                "received_amount": 23
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 41,
+                "received_amount": 34
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 47,
+                "received_amount": 26
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 36,
+                "received_amount": 21
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 38,
                 "received_amount": 17
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 50,
-                "received_amount": 24
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 23,
-                "received_amount": 15
             }
         ]
     }

@@ -1,71 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:08-06:00",
+    "generated_at": "2026-01-29T12:22:31-06:00",
     "shipment_date": "2025-05-08",
     "shipment": {
-        "id": 155,
-        "tracking_number": "CJR-83930116",
+        "id": 129,
+        "tracking_number": "EAX-86126816",
         "supplier": "Supplier",
         "shipment_date": "2025-05-08",
-        "expected_delivery": "2025-06-06",
+        "expected_delivery": "2025-05-08",
         "status": "pending",
-        "total_packages": 209,
-        "notes": "Nemo impedit nulla labore doloremque et quis ab velit non dignissimos.",
+        "total_packages": 193,
+        "notes": "Sunt sit itaque enim qui quia quasi illo libero officia eligendi quisquam ipsam sit qui omnis.",
         "inventory": [
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 34,
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 6,
+                "received_amount": 5
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 22,
+                "received_amount": 9
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 49,
+                "received_amount": 46
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 37,
+                "received_amount": 18
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 6,
+                "received_amount": 5
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 43,
                 "received_amount": 12
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 32,
-                "received_amount": 29
-            },
-            {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 22,
-                "received_amount": 7
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 25,
+                "received_amount": 24
             },
             {
                 "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 39,
-                "received_amount": 20
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 39,
-                "received_amount": 37
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 30,
-                "received_amount": 11
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 13,
-                "received_amount": 11
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 1,
+                "received_amount": 1
             }
         ]
     }

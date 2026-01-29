@@ -1,63 +1,119 @@
 {
-    "generated_at": "2026-01-27T23:31:13-06:00",
+    "generated_at": "2026-01-29T12:22:37-06:00",
     "shipment_date": "2025-10-28",
     "shipment": {
-        "id": 328,
-        "tracking_number": "JKJ-61071702",
+        "id": 302,
+        "tracking_number": "JGL-32759971",
         "supplier": "Supplier",
         "shipment_date": "2025-10-28",
-        "expected_delivery": "2026-01-18",
+        "expected_delivery": "2025-10-28",
         "status": "pending",
-        "total_packages": 183,
-        "notes": "Ad sint placeat itaque eaque exercitationem minus et voluptatem et animi doloribus totam vel beatae quidem fuga.",
+        "total_packages": 325,
+        "notes": "Aut eius odio odio itaque quo aut aut voluptatem aliquid blanditiis qui voluptas repellendus quidem sapiente enim quos tempore et vero dolores perferendis.",
         "inventory": [
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 11,
-                "received_amount": 1
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 9,
+                "received_amount": 9
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 29,
-                "received_amount": 13
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 3,
+                "received_amount": 2
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 49,
-                "received_amount": 10
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 32,
+                "received_amount": 19
             },
             {
                 "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 42,
-                "received_amount": 17
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 7,
+                "received_amount": 1
             },
             {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 25,
-                "received_amount": 23
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 41,
+                "received_amount": 19
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 27,
-                "received_amount": 26
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 28,
+                "received_amount": 24
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 41,
+                "received_amount": 28
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 39,
+                "received_amount": 7
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 5,
+                "received_amount": 5
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 43,
+                "received_amount": 42
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 9,
+                "received_amount": 6
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 20,
+                "received_amount": 7
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 48,
+                "received_amount": 6
             }
         ]
     }

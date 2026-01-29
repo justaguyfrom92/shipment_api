@@ -1,71 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-13",
     "shipment": {
-        "id": 374,
-        "tracking_number": "UI5-98766037",
+        "id": 348,
+        "tracking_number": "TJM-41116868",
         "supplier": "Supplier",
         "shipment_date": "2025-12-13",
-        "expected_delivery": "2026-02-06",
+        "expected_delivery": "2025-12-13",
         "status": "pending",
-        "total_packages": 154,
+        "total_packages": 236,
         "notes": null,
         "inventory": [
             {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 2,
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 5,
                 "received_amount": 1
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 36,
-                "received_amount": 29
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 38,
+                "received_amount": 25
             },
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 18,
-                "received_amount": 12
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 23,
+                "received_amount": 8
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 34,
+                "received_amount": 26
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 38,
+                "received_amount": 3
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 31,
+                "received_amount": 2
             },
             {
                 "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 2,
-                "received_amount": 2
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 10,
+                "received_amount": 10
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 41,
-                "received_amount": 2
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 24,
+                "received_amount": 16
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 14,
+                "received_amount": 4
             },
             {
                 "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 17,
-                "received_amount": 5
-            },
-            {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 38,
-                "received_amount": 11
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 19,
+                "received_amount": 17
             }
         ]
     }

@@ -1,119 +1,71 @@
 {
-    "generated_at": "2026-01-27T23:31:13-06:00",
+    "generated_at": "2026-01-29T12:22:36-06:00",
     "shipment_date": "2025-10-01",
     "shipment": {
-        "id": 301,
-        "tracking_number": "16S-31030712",
+        "id": 275,
+        "tracking_number": "KBY-27782363",
         "supplier": "Supplier",
         "shipment_date": "2025-10-01",
-        "expected_delivery": "2025-12-11",
+        "expected_delivery": "2025-10-01",
         "status": "pending",
-        "total_packages": 388,
+        "total_packages": 167,
         "notes": null,
         "inventory": [
             {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 36,
-                "received_amount": 33
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
                 "requested_amount": 10,
                 "received_amount": 6
             },
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 50,
-                "received_amount": 29
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 23,
-                "received_amount": 11
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 36,
+                "received_amount": 14
             },
             {
                 "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 9,
-                "received_amount": 2
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 15,
+                "received_amount": 5
             },
             {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 38,
-                "received_amount": 31
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 44,
+                "received_amount": 13
             },
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 11,
-                "received_amount": 9
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 24,
-                "received_amount": 2
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 28,
-                "received_amount": 26
-            },
-            {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 41,
-                "received_amount": 30
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 41,
-                "received_amount": 1
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 22,
+                "received_amount": 21
             },
             {
                 "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 49,
-                "received_amount": 22
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 6,
+                "received_amount": 3
             },
             {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 28,
-                "received_amount": 26
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 34,
+                "received_amount": 4
             }
         ]
     }

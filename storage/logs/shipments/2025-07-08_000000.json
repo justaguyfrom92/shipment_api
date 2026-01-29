@@ -1,71 +1,119 @@
 {
-    "generated_at": "2026-01-27T23:31:10-06:00",
+    "generated_at": "2026-01-29T12:22:33-06:00",
     "shipment_date": "2025-07-08",
     "shipment": {
-        "id": 216,
-        "tracking_number": "NQ9-27993173",
+        "id": 190,
+        "tracking_number": "PS2-24818381",
         "supplier": "Supplier",
         "shipment_date": "2025-07-08",
-        "expected_delivery": "2025-09-07",
+        "expected_delivery": "2025-07-08",
         "status": "pending",
-        "total_packages": 179,
-        "notes": "Voluptatem non sit blanditiis voluptatibus ipsa odio officia beatae voluptatem rem asperiores illum sequi adipisci velit.",
+        "total_packages": 278,
+        "notes": null,
         "inventory": [
             {
                 "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 27,
-                "received_amount": 23
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 8,
-                "received_amount": 1
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 2,
-                "received_amount": 1
-            },
-            {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 37,
-                "received_amount": 27
-            },
-            {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 28,
-                "received_amount": 10
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 18,
+                "received_amount": 6
             },
             {
                 "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 46,
-                "received_amount": 10
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 20,
+                "received_amount": 3
             },
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 19,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 21,
+                "received_amount": 5
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
                 "requested_amount": 31,
-                "received_amount": 28
+                "received_amount": 31
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 10,
+                "received_amount": 6
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 40,
+                "received_amount": 33
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 41,
+                "received_amount": 16
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 16,
+                "received_amount": 16
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 27,
+                "received_amount": 24
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 26,
+                "received_amount": 20
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 4,
+                "received_amount": 4
             }
         ]
     }

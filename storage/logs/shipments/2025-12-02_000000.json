@@ -1,111 +1,111 @@
 {
-    "generated_at": "2026-01-27T23:31:15-06:00",
+    "generated_at": "2026-01-29T12:22:38-06:00",
     "shipment_date": "2025-12-02",
     "shipment": {
-        "id": 363,
-        "tracking_number": "MFU-86325740",
+        "id": 337,
+        "tracking_number": "OJR-99272465",
         "supplier": "Supplier",
         "shipment_date": "2025-12-02",
-        "expected_delivery": "2026-01-08",
+        "expected_delivery": "2025-12-02",
         "status": "pending",
-        "total_packages": 421,
-        "notes": "Repellendus distinctio libero quisquam ut qui eos non reiciendis voluptates et impedit sit culpa tenetur ut odit mollitia ad dolore tempora inventore occaecati.",
+        "total_packages": 377,
+        "notes": "Tenetur qui qui rem amet enim est expedita qui et sit.",
         "inventory": [
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 44,
-                "received_amount": 35
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 34,
+                "received_amount": 21
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 45,
-                "received_amount": 9
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 29,
-                "received_amount": 7
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 24,
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 22,
                 "received_amount": 11
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 22,
-                "received_amount": 8
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 34,
+                "received_amount": 32
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 46,
+                "received_amount": 4
             },
             {
                 "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 36,
-                "received_amount": 7
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 37,
+                "received_amount": 21
             },
             {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 21,
-                "received_amount": 12
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 18,
+                "received_amount": 8
             },
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 44,
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 29,
+                "received_amount": 14
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 14,
+                "received_amount": 9
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 34,
+                "received_amount": 18
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 26,
                 "received_amount": 5
             },
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 36,
+                "received_amount": 25
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
                 "requested_amount": 47,
-                "received_amount": 1
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 20,
-                "received_amount": 3
-            },
-            {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 42,
-                "received_amount": 20
-            },
-            {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 47,
-                "received_amount": 18
+                "received_amount": 6
             }
         ]
     }

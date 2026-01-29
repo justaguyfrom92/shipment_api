@@ -1,95 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:13-06:00",
+    "generated_at": "2026-01-29T12:22:36-06:00",
     "shipment_date": "2025-10-20",
     "shipment": {
-        "id": 320,
-        "tracking_number": "DMG-46186805",
+        "id": 294,
+        "tracking_number": "9PP-92467783",
         "supplier": "Supplier",
         "shipment_date": "2025-10-20",
-        "expected_delivery": "2025-11-26",
+        "expected_delivery": "2025-10-20",
         "status": "pending",
-        "total_packages": 278,
-        "notes": "Asperiores nesciunt minus est eum maiores mollitia ut quasi maxime aut nihil beatae aut distinctio et autem totam ad sint modi delectus vero.",
+        "total_packages": 190,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 44,
-                "received_amount": 15
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 16,
+                "received_amount": 8
             },
             {
                 "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 35,
-                "received_amount": 22
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 18,
+                "received_amount": 16
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 39,
-                "received_amount": 1
-            },
-            {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 10,
-                "received_amount": 6
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 49,
-                "received_amount": 38
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 4,
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 7,
                 "received_amount": 3
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 18,
-                "received_amount": 17
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 21,
+                "received_amount": 10
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 29,
-                "received_amount": 9
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 16,
+                "received_amount": 11
             },
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 17,
-                "received_amount": 7
-            },
-            {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
                 "requested_amount": 33,
-                "received_amount": 32
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 11,
+                "received_amount": 8
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 41,
+                "received_amount": 18
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 20,
+                "received_amount": 18
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 7,
+                "received_amount": 3
             }
         ]
     }

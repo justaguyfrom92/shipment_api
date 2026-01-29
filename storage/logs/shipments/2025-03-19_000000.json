@@ -1,54 +1,54 @@
 {
-    "generated_at": "2026-01-27T23:31:06-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-03-19",
     "shipment": {
-        "id": 105,
-        "tracking_number": "55S-29358620",
+        "id": 79,
+        "tracking_number": "63M-62431882",
         "supplier": "Supplier",
         "shipment_date": "2025-03-19",
-        "expected_delivery": "2025-05-14",
+        "expected_delivery": "2025-03-19",
         "status": "pending",
-        "total_packages": 181,
-        "notes": "Facilis voluptatibus quia ut aut nihil asperiores et magni perferendis debitis consequatur dolorem et alias.",
+        "total_packages": 95,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 4,
+                "received_amount": 3
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
                 "requested_amount": 48,
-                "received_amount": 24
+                "received_amount": 27
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 43,
-                "received_amount": 20
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 22,
+                "received_amount": 12
             },
             {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 48,
-                "received_amount": 39
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 20,
+                "received_amount": 16
             },
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 32,
-                "received_amount": 31
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 10,
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 1,
                 "received_amount": 1
             }
         ]

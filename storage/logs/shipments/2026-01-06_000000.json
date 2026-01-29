@@ -1,71 +1,79 @@
 {
-    "generated_at": "2026-01-27T23:30:51-06:00",
+    "generated_at": "2026-01-29T12:22:39-06:00",
     "shipment_date": "2026-01-06",
     "shipment": {
-        "id": 9,
-        "tracking_number": "PQ2-66366565",
+        "id": 372,
+        "tracking_number": "5MO-98936896",
         "supplier": "Supplier",
         "shipment_date": "2026-01-06",
-        "expected_delivery": "2026-01-17",
+        "expected_delivery": "2026-01-06",
         "status": "pending",
-        "total_packages": 216,
+        "total_packages": 200,
         "notes": null,
         "inventory": [
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 32,
-                "received_amount": 13
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 5,
+                "received_amount": 3
             },
             {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 35,
-                "received_amount": 22
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 24,
+                "received_amount": 6
             },
             {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 43,
-                "received_amount": 40
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 38,
+                "received_amount": 9
             },
             {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 50,
-                "received_amount": 20
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 36,
+                "received_amount": 31
             },
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 2,
-                "received_amount": 2
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 4,
+                "received_amount": 3
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 29,
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 16,
                 "received_amount": 7
             },
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 25,
-                "received_amount": 16
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 50,
+                "received_amount": 39
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 27,
+                "received_amount": 24
             }
         ]
     }

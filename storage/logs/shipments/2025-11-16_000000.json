@@ -1,55 +1,79 @@
 {
-    "generated_at": "2026-01-27T23:31:14-06:00",
+    "generated_at": "2026-01-29T12:22:37-06:00",
     "shipment_date": "2025-11-16",
     "shipment": {
-        "id": 347,
-        "tracking_number": "HJ2-16064611",
+        "id": 321,
+        "tracking_number": "8GP-53310183",
         "supplier": "Supplier",
         "shipment_date": "2025-11-16",
-        "expected_delivery": "2026-01-09",
+        "expected_delivery": "2025-11-16",
         "status": "pending",
-        "total_packages": 128,
-        "notes": null,
+        "total_packages": 167,
+        "notes": "Aut et itaque numquam est quidem et recusandae voluptas inventore.",
         "inventory": [
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 5,
-                "received_amount": 5
-            },
-            {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 24,
-                "received_amount": 19
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 13,
-                "received_amount": 12
-            },
-            {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 41,
-                "received_amount": 5
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 20,
+                "received_amount": 7
             },
             {
                 "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 45,
-                "received_amount": 28
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 27,
+                "received_amount": 7
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 37,
+                "received_amount": 22
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 20,
+                "received_amount": 11
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 17,
+                "received_amount": 14
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 36,
+                "received_amount": 26
             }
         ]
     }

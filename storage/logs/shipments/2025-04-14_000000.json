@@ -1,133 +1,101 @@
 {
-    "generated_at": "2026-01-27T23:31:07-06:00",
+    "generated_at": "2026-01-29T12:22:30-06:00",
     "shipment_date": "2025-04-14",
     "shipment": {
-        "id": 131,
-        "tracking_number": "HHF-82063096",
+        "id": 105,
+        "tracking_number": "DLU-54747686",
         "supplier": "Supplier",
         "shipment_date": "2025-04-14",
-        "expected_delivery": "2025-04-20",
+        "expected_delivery": "2025-04-14",
         "status": "pending",
-        "total_packages": 407,
+        "total_packages": 304,
         "notes": null,
         "inventory": [
             {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 27,
-                "received_amount": 22
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 35,
+                "received_amount": 25
             },
             {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 1,
-                "received_amount": 1
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 11,
-                "received_amount": 2
-            },
-            {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 45,
-                "received_amount": 28
-            },
-            {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 12,
-                "received_amount": 10
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 34,
-                "received_amount": 26
-            },
-            {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 15,
-                "received_amount": 2
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 48,
-                "received_amount": 10
-            },
-            {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 48,
-                "received_amount": 41
-            },
-            {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 37,
-                "received_amount": 17
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 42,
-                "received_amount": 26
-            },
-            {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 20,
-                "received_amount": 13
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 47,
-                "received_amount": 44
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 36,
+                "received_amount": 19
             },
             {
                 "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 18,
-                "received_amount": 9
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 33,
+                "received_amount": 16
             },
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 47,
+                "received_amount": 19
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 34,
+                "received_amount": 16
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 5,
+                "received_amount": 3
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 23,
+                "received_amount": 14
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 47,
+                "received_amount": 26
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 24,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 18,
+                "received_amount": 14
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
                 "requested_amount": 2,
                 "received_amount": 1
             }

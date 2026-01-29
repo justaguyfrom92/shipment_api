@@ -1,111 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:07-06:00",
+    "generated_at": "2026-01-29T12:22:31-06:00",
     "shipment_date": "2025-04-29",
     "shipment": {
-        "id": 146,
-        "tracking_number": "S1D-63615619",
+        "id": 120,
+        "tracking_number": "QNI-11964689",
         "supplier": "Supplier",
         "shipment_date": "2025-04-29",
-        "expected_delivery": "2025-04-30",
+        "expected_delivery": "2025-04-29",
         "status": "pending",
-        "total_packages": 325,
-        "notes": null,
+        "total_packages": 188,
+        "notes": "Asperiores quos illum quia voluptatum aut pariatur aperiam error quibusdam officia sed doloribus et iure at dicta sed dolores.",
         "inventory": [
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 47,
-                "received_amount": 42
-            },
-            {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 7,
-                "received_amount": 4
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 15,
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 42,
                 "received_amount": 12
             },
             {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 22,
-                "received_amount": 20
-            },
-            {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 19,
-                "received_amount": 13
-            },
-            {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 24,
-                "received_amount": 4
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 36,
-                "received_amount": 7
-            },
-            {
                 "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 24,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 38,
                 "received_amount": 15
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 28,
-                "received_amount": 15
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 30,
-                "received_amount": 27
-            },
-            {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 45,
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 37,
                 "received_amount": 31
             },
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 28,
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 29,
                 "received_amount": 9
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 10,
+                "received_amount": 6
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 32,
+                "received_amount": 27
             }
         ]
     }

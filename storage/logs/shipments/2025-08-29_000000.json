@@ -1,87 +1,119 @@
 {
-    "generated_at": "2026-01-27T23:31:11-06:00",
+    "generated_at": "2026-01-29T12:22:35-06:00",
     "shipment_date": "2025-08-29",
     "shipment": {
-        "id": 268,
-        "tracking_number": "RER-73875925",
+        "id": 242,
+        "tracking_number": "SZH-26193802",
         "supplier": "Supplier",
         "shipment_date": "2025-08-29",
-        "expected_delivery": "2025-09-25",
+        "expected_delivery": "2025-08-29",
         "status": "pending",
-        "total_packages": 230,
-        "notes": "Earum a sit omnis repellat dolores qui architecto et rem dolor error fuga et dignissimos qui ut rem ea consequatur.",
+        "total_packages": 284,
+        "notes": "Maxime voluptatem quia impedit quaerat provident sit perferendis voluptas molestias sapiente dolores eaque.",
         "inventory": [
             {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 32,
-                "received_amount": 4
-            },
-            {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
                 "requested_amount": 39,
-                "received_amount": 18
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 9,
-                "received_amount": 6
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 30,
-                "received_amount": 26
+                "received_amount": 14
             },
             {
                 "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 41,
-                "received_amount": 35
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 22,
+                "received_amount": 10
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 32,
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 8,
+                "received_amount": 7
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 42,
+                "received_amount": 27
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 14,
+                "received_amount": 8
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 19,
                 "received_amount": 9
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 26,
-                "received_amount": 11
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 6,
+                "received_amount": 3
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 2,
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 23,
                 "received_amount": 2
             },
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 19,
-                "received_amount": 15
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 18,
+                "received_amount": 11
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 31,
+                "received_amount": 23
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 7,
+                "received_amount": 3
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 39,
+                "received_amount": 14
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 16,
+                "received_amount": 12
             }
         ]
     }

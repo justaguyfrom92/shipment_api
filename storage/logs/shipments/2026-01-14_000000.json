@@ -1,55 +1,103 @@
 {
-    "generated_at": "2026-01-27T23:30:51-06:00",
+    "generated_at": "2026-01-29T12:22:39-06:00",
     "shipment_date": "2026-01-14",
     "shipment": {
-        "id": 17,
-        "tracking_number": "9ZS-40558358",
+        "id": 380,
+        "tracking_number": "L4I-32034846",
         "supplier": "Supplier",
         "shipment_date": "2026-01-14",
-        "expected_delivery": "2026-02-17",
+        "expected_delivery": "2026-01-14",
         "status": "pending",
-        "total_packages": 91,
-        "notes": "Voluptatibus error aspernatur debitis officiis omnis quia dolores deleniti impedit sint sunt odit vero eveniet aut.",
+        "total_packages": 218,
+        "notes": "Velit ullam deleniti quibusdam dolorem incidunt necessitatibus doloremque quia dolorum est et sed veritatis tempore quia dolor ratione esse amet quo illo at deserunt.",
         "inventory": [
             {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 28,
-                "received_amount": 27
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 6,
+                "received_amount": 6
             },
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 39,
-                "received_amount": 11
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 16,
+                "received_amount": 14
             },
             {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 7,
-                "received_amount": 3
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 5,
+                "received_amount": 5
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 15,
-                "received_amount": 13
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 12,
+                "received_amount": 5
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 33,
+                "received_amount": 30
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 24,
+                "received_amount": 24
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
                 "requested_amount": 2,
                 "received_amount": 1
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 38,
+                "received_amount": 5
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 17,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 40,
+                "received_amount": 37
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 25,
+                "received_amount": 10
             }
         ]
     }

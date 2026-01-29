@@ -1,71 +1,119 @@
 {
-    "generated_at": "2026-01-27T23:31:11-06:00",
+    "generated_at": "2026-01-29T12:22:34-06:00",
     "shipment_date": "2025-08-23",
     "shipment": {
-        "id": 262,
-        "tracking_number": "5ZQ-20405766",
+        "id": 236,
+        "tracking_number": "PQL-38881247",
         "supplier": "Supplier",
         "shipment_date": "2025-08-23",
-        "expected_delivery": "2025-09-19",
+        "expected_delivery": "2025-08-23",
         "status": "pending",
-        "total_packages": 107,
-        "notes": null,
+        "total_packages": 334,
+        "notes": "Placeat earum saepe voluptas esse ut numquam nisi labore ipsa expedita ad sed vero at.",
         "inventory": [
             {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 9,
+                "received_amount": 5
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
                 "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 38,
+                "received_amount": 26
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 6,
+                "received_amount": 1
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 44,
+                "received_amount": 27
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
                 "requested_amount": 9,
                 "received_amount": 3
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 15,
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 30,
+                "received_amount": 30
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 39,
+                "received_amount": 14
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 31,
+                "received_amount": 3
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 37,
+                "received_amount": 22
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 37,
+                "received_amount": 28
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 4,
                 "received_amount": 2
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 11,
-                "received_amount": 10
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 24,
-                "received_amount": 13
-            },
-            {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 17,
-                "received_amount": 5
-            },
-            {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 8,
-                "received_amount": 6
-            },
-            {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 23,
-                "received_amount": 11
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 46,
+                "received_amount": 15
             }
         ]
     }

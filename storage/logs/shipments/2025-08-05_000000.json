@@ -1,95 +1,55 @@
 {
-    "generated_at": "2026-01-27T23:31:11-06:00",
+    "generated_at": "2026-01-29T12:22:34-06:00",
     "shipment_date": "2025-08-05",
     "shipment": {
-        "id": 244,
-        "tracking_number": "YR5-74292595",
+        "id": 218,
+        "tracking_number": "WB7-97243405",
         "supplier": "Supplier",
         "shipment_date": "2025-08-05",
-        "expected_delivery": "2025-09-23",
+        "expected_delivery": "2025-08-05",
         "status": "pending",
-        "total_packages": 245,
-        "notes": "Non doloremque alias autem minima aut illum earum inventore.",
+        "total_packages": 129,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 49,
-                "received_amount": 21
-            },
-            {
-                "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 1,
-                "received_amount": 1
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 33,
-                "received_amount": 5
-            },
-            {
                 "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 4,
-                "received_amount": 2
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 11,
+                "received_amount": 5
             },
             {
                 "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 38,
-                "received_amount": 21
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 44,
+                "received_amount": 1
             },
             {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 16,
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 29,
                 "received_amount": 12
             },
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 24,
-                "received_amount": 12
-            },
-            {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 6,
-                "received_amount": 5
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 36,
+                "received_amount": 18
             },
             {
                 "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 43,
-                "received_amount": 38
-            },
-            {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 31,
-                "received_amount": 23
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 9,
+                "received_amount": 2
             }
         ]
     }

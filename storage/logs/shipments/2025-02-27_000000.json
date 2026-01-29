@@ -1,71 +1,103 @@
 {
-    "generated_at": "2026-01-27T23:31:05-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-02-27",
     "shipment": {
-        "id": 85,
-        "tracking_number": "G9P-89298946",
+        "id": 59,
+        "tracking_number": "SXJ-88766143",
         "supplier": "Supplier",
         "shipment_date": "2025-02-27",
-        "expected_delivery": "2025-03-22",
+        "expected_delivery": "2025-02-27",
         "status": "pending",
-        "total_packages": 145,
-        "notes": null,
+        "total_packages": 344,
+        "notes": "Eos minima harum enim sapiente laborum possimus est est nisi reiciendis dolorum voluptas autem omnis ut enim dolorem.",
         "inventory": [
             {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 31,
-                "received_amount": 5
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 45,
+                "received_amount": 3
             },
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 5,
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 20,
                 "received_amount": 2
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 49,
-                "received_amount": 15
-            },
-            {
                 "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 13,
-                "received_amount": 7
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 29,
+                "received_amount": 3
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 23,
-                "received_amount": 11
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 20,
+                "received_amount": 20
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 42,
+                "received_amount": 38
             },
             {
                 "product_id": 11,
-                "product_name": "Linen Shirt",
-                "sku": "FRV-4027",
-                "unit_price": "2124.39",
-                "requested_amount": 20,
-                "received_amount": 14
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 4,
+                "received_amount": 2
             },
             {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 43,
+                "received_amount": 5
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 49,
+                "received_amount": 43
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 39,
+                "received_amount": 35
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
                 "requested_amount": 4,
-                "received_amount": 1
+                "received_amount": 3
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 49,
+                "received_amount": 47
             }
         ]
     }

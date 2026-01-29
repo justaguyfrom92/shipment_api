@@ -1,79 +1,55 @@
 {
-    "generated_at": "2026-01-27T23:31:10-06:00",
+    "generated_at": "2026-01-29T12:22:34-06:00",
     "shipment_date": "2025-07-28",
     "shipment": {
-        "id": 236,
-        "tracking_number": "QFM-80805785",
+        "id": 210,
+        "tracking_number": "BCP-38793690",
         "supplier": "Supplier",
         "shipment_date": "2025-07-28",
-        "expected_delivery": "2025-08-03",
+        "expected_delivery": "2025-07-28",
         "status": "pending",
-        "total_packages": 187,
-        "notes": "Totam molestiae tempora itaque et sint laudantium ipsum sint.",
+        "total_packages": 134,
+        "notes": null,
         "inventory": [
             {
                 "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 16,
-                "received_amount": 5
-            },
-            {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 36,
-                "received_amount": 3
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 19,
-                "received_amount": 7
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 10,
+                "received_amount": 10
             },
             {
                 "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 23,
-                "received_amount": 4
-            },
-            {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 28,
-                "received_amount": 21
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
                 "requested_amount": 48,
-                "received_amount": 26
+                "received_amount": 48
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 1,
-                "received_amount": 1
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 9,
+                "received_amount": 6
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 16,
-                "received_amount": 15
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 28,
+                "received_amount": 17
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 39,
+                "received_amount": 38
             }
         ]
     }

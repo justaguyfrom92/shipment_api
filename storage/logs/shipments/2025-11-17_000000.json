@@ -1,63 +1,79 @@
 {
-    "generated_at": "2026-01-27T23:31:14-06:00",
+    "generated_at": "2026-01-29T12:22:37-06:00",
     "shipment_date": "2025-11-17",
     "shipment": {
-        "id": 348,
-        "tracking_number": "LQN-99620443",
+        "id": 322,
+        "tracking_number": "6A8-71964457",
         "supplier": "Supplier",
         "shipment_date": "2025-11-17",
-        "expected_delivery": "2026-01-12",
+        "expected_delivery": "2025-11-17",
         "status": "pending",
-        "total_packages": 142,
-        "notes": null,
+        "total_packages": 240,
+        "notes": "Id et odit soluta iure et error perferendis nulla quasi doloribus delectus odio non voluptatum itaque qui.",
         "inventory": [
             {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 24,
-                "received_amount": 9
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 8,
+                "received_amount": 5
             },
             {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 32,
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 49,
                 "received_amount": 32
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 24,
-                "received_amount": 24
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 35,
+                "received_amount": 12
             },
             {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 29,
-                "received_amount": 13
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 49,
+                "received_amount": 7
             },
             {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 11,
-                "received_amount": 8
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 36,
+                "received_amount": 27
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
                 "requested_amount": 22,
                 "received_amount": 10
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 39,
+                "received_amount": 6
             }
         ]
     }

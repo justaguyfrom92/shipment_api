@@ -1,119 +1,55 @@
 {
-    "generated_at": "2026-01-27T23:31:14-06:00",
+    "generated_at": "2026-01-29T12:22:37-06:00",
     "shipment_date": "2025-10-30",
     "shipment": {
-        "id": 330,
-        "tracking_number": "8PY-26151710",
+        "id": 304,
+        "tracking_number": "ZRA-92815320",
         "supplier": "Supplier",
         "shipment_date": "2025-10-30",
-        "expected_delivery": "2025-12-19",
+        "expected_delivery": "2025-10-30",
         "status": "pending",
-        "total_packages": 368,
-        "notes": "Ut eos consequatur omnis tempore fugiat exercitationem nisi ducimus labore ullam et consequuntur vero nihil repellat debitis perspiciatis perferendis officiis accusamus ut et sint.",
+        "total_packages": 102,
+        "notes": "Aut et sed perspiciatis voluptatibus modi eligendi delectus iure ut.",
         "inventory": [
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 39,
-                "received_amount": 19
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 34,
-                "received_amount": 4
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 35,
-                "received_amount": 34
-            },
-            {
-                "product_id": 10,
-                "product_name": "Toy Drum",
-                "sku": "EZT-6464",
-                "unit_price": "2848.74",
-                "requested_amount": 42,
-                "received_amount": 34
-            },
-            {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 39,
-                "received_amount": 9
-            },
-            {
-                "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 8,
-                "received_amount": 2
-            },
-            {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 9,
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 40,
                 "received_amount": 7
             },
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 21,
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 6,
                 "received_amount": 1
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 47,
-                "received_amount": 25
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 20,
+                "received_amount": 14
             },
             {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 6,
-                "received_amount": 5
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 5,
+                "received_amount": 4
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 4,
-                "received_amount": 3
-            },
-            {
-                "product_id": 29,
-                "product_name": "Plastic Drawer Tower",
-                "sku": "PSB-1335",
-                "unit_price": "2902.56",
-                "requested_amount": 47,
-                "received_amount": 32
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 37,
-                "received_amount": 17
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 31,
+                "received_amount": 20
             }
         ]
     }

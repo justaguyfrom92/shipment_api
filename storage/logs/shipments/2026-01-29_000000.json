@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-01-29T12:14:46-06:00",
+    "shipment_date": "2026-01-29",
+    "shipment": {
+        "id": 394,
+        "tracking_number": "LZJ-44118582",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-29",
+        "expected_delivery": "2026-01-29",
+        "status": "pending",
+        "total_packages": 198,
+        "notes": "Omnis aliquid autem molestiae non quia fugit voluptas eos non expedita.",
+        "inventory": [
+            {
+                "product_id": 23,
+                "product_name": "Chocolate Chip Cookies",
+                "sku": "KDY-4488",
+                "unit_price": "3894.69",
+                "requested_amount": 23,
+                "received_amount": 9
+            },
+            {
+                "product_id": 26,
+                "product_name": "Cat Grooming Brush",
+                "sku": "FDF-6679",
+                "unit_price": "3641.28",
+                "requested_amount": 38,
+                "received_amount": 7
+            },
+            {
+                "product_id": 21,
+                "product_name": "Wedges",
+                "sku": "SGK-7178",
+                "unit_price": "297.29",
+                "requested_amount": 31,
+                "received_amount": 11
+            },
+            {
+                "product_id": 8,
+                "product_name": "Breathable Running Tank",
+                "sku": "YTU-8527",
+                "unit_price": "2588.71",
+                "requested_amount": 18,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Pilates Ring",
+                "sku": "YTD-2767",
+                "unit_price": "607.22",
+                "requested_amount": 8,
+                "received_amount": 2
+            },
+            {
+                "product_id": 22,
+                "product_name": "Mindhunter DVD",
+                "sku": "FZT-2696",
+                "unit_price": "2511.57",
+                "requested_amount": 6,
+                "received_amount": 6
+            },
+            {
+                "product_id": 10,
+                "product_name": "Toy Drum",
+                "sku": "EZT-6464",
+                "unit_price": "2848.74",
+                "requested_amount": 27,
+                "received_amount": 23
+            },
+            {
+                "product_id": 25,
+                "product_name": "Fidget Puzzle Cube",
+                "sku": "HET-3249",
+                "unit_price": "4648.22",
+                "requested_amount": 45,
+                "received_amount": 44
+            },
+            {
+                "product_id": 17,
+                "product_name": "Fruit Leather Strips",
+                "sku": "IYA-9079",
+                "unit_price": "3375.27",
+                "requested_amount": 2,
+                "received_amount": 1
+            }
+        ]
+    }
+}

@@ -105,13 +105,11 @@ class CreateShipmentCommand extends Command
 
 	private function createShipmentForDate(Carbon $shipmentDate): Shipment
 	{
-		$deliveryDate = $shipmentDate->copy()->addDays(rand(1, 90));
-
 		$shipment = Shipment::create([
 			'tracking_number' => strtoupper(Str::random(3) . '-' . rand(10000000, 99999999)),
 			'supplier' => 'Supplier',
 			'shipment_date' => $shipmentDate->toDateString(),
-			'expected_delivery' => $deliveryDate->toDateString(),
+			'expected_delivery' => $shipmentDate->toDateString(),
 			'status' => 'pending',
 			'notes' => fake()->optional(0.6)->sentence(rand(8, 20)),
 			'total_packages' => 0,

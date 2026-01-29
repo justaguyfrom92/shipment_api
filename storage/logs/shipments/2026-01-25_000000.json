@@ -1,71 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:30:15-06:00",
+    "generated_at": "2026-01-29T12:22:41-06:00",
     "shipment_date": "2026-01-25",
     "shipment": {
-        "id": 3,
-        "tracking_number": "QE0-50350559",
+        "id": 391,
+        "tracking_number": "KLJ-30917992",
         "supplier": "Supplier",
         "shipment_date": "2026-01-25",
-        "expected_delivery": "2026-02-15",
+        "expected_delivery": "2026-01-25",
         "status": "pending",
-        "total_packages": 211,
-        "notes": null,
+        "total_packages": 239,
+        "notes": "Dicta est nesciunt est perferendis quae reiciendis eos adipisci nihil adipisci doloribus cumque.",
         "inventory": [
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 47,
-                "received_amount": 45
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 40,
+                "received_amount": 19
             },
             {
-                "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 47,
-                "received_amount": 43
-            },
-            {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 34,
-                "received_amount": 34
-            },
-            {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 24,
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 25,
                 "received_amount": 7
             },
             {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 8,
-                "received_amount": 8
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 48,
+                "received_amount": 7
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
                 "requested_amount": 15,
+                "received_amount": 2
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 45,
+                "received_amount": 39
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 8,
                 "received_amount": 4
             },
             {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 36,
-                "received_amount": 24
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 8,
+                "received_amount": 7
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 4,
+                "received_amount": 4
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 46,
+                "received_amount": 1
             }
         ]
     }

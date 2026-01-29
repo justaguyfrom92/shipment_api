@@ -1,95 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:05-06:00",
+    "generated_at": "2026-01-29T12:22:28-06:00",
     "shipment_date": "2025-02-05",
     "shipment": {
-        "id": 63,
-        "tracking_number": "SNK-29356412",
+        "id": 37,
+        "tracking_number": "NKE-79406726",
         "supplier": "Supplier",
         "shipment_date": "2025-02-05",
-        "expected_delivery": "2025-03-25",
+        "expected_delivery": "2025-02-05",
         "status": "pending",
-        "total_packages": 244,
-        "notes": "Sequi numquam atque ut sint vero alias sint cupiditate est quia et possimus molestias animi quod quidem aut.",
+        "total_packages": 227,
+        "notes": "Dolores eum soluta blanditiis perferendis blanditiis sapiente natus perferendis quaerat ut consequatur voluptatibus quae consequatur.",
         "inventory": [
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 29,
-                "received_amount": 3
-            },
-            {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 21,
-                "received_amount": 6
-            },
-            {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 6,
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 11,
                 "received_amount": 4
             },
             {
-                "product_id": 23,
-                "product_name": "Chocolate Chip Cookies",
-                "sku": "KDY-4488",
-                "unit_price": "3894.69",
-                "requested_amount": 13,
-                "received_amount": 5
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 49,
+                "received_amount": 32
             },
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 2,
-                "received_amount": 2
-            },
-            {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 34,
-                "received_amount": 7
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 43,
+                "received_amount": 20
             },
             {
                 "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 37,
-                "received_amount": 15
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 36,
+                "received_amount": 20
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 16,
-                "received_amount": 12
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 49,
+                "received_amount": 14
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 46,
-                "received_amount": 44
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 40,
-                "received_amount": 3
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 39,
+                "received_amount": 18
             }
         ]
     }

@@ -1,62 +1,62 @@
 {
-    "generated_at": "2026-01-27T23:31:06-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-03-13",
     "shipment": {
-        "id": 99,
-        "tracking_number": "N7Y-31704024",
+        "id": 73,
+        "tracking_number": "P1K-28649161",
         "supplier": "Supplier",
         "shipment_date": "2025-03-13",
-        "expected_delivery": "2025-04-21",
+        "expected_delivery": "2025-03-13",
         "status": "pending",
-        "total_packages": 154,
-        "notes": "Facilis maiores amet molestiae aut velit ullam aut quo laudantium sint fuga ut vero ut minima qui unde sunt molestias amet et consequuntur.",
+        "total_packages": 157,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 30,
+                "received_amount": 29
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 42,
+                "received_amount": 30
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
                 "requested_amount": 8,
-                "received_amount": 5
+                "received_amount": 4
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 45,
-                "received_amount": 40
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 50,
+                "received_amount": 6
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 34,
-                "received_amount": 32
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 16,
+                "received_amount": 13
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 32,
-                "received_amount": 8
-            },
-            {
-                "product_id": 2,
-                "product_name": "Money Heist DVD",
-                "sku": "XYC-9526",
-                "unit_price": "723.49",
-                "requested_amount": 13,
-                "received_amount": 11
-            },
-            {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 22,
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 11,
                 "received_amount": 11
             }
         ]

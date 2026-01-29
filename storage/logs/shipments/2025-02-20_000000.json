@@ -1,55 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:05-06:00",
+    "generated_at": "2026-01-29T12:22:29-06:00",
     "shipment_date": "2025-02-20",
     "shipment": {
-        "id": 78,
-        "tracking_number": "X0A-46699761",
+        "id": 52,
+        "tracking_number": "JB3-86977130",
         "supplier": "Supplier",
         "shipment_date": "2025-02-20",
-        "expected_delivery": "2025-04-15",
+        "expected_delivery": "2025-02-20",
         "status": "pending",
-        "total_packages": 95,
-        "notes": null,
+        "total_packages": 190,
+        "notes": "Qui aliquam fugiat maxime et ut consequuntur exercitationem fuga saepe doloribus maxime laborum qui ipsum consequuntur facilis possimus id neque eum.",
         "inventory": [
             {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 17,
-                "received_amount": 2
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 41,
+                "received_amount": 40
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
-                "requested_amount": 32,
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 33,
+                "received_amount": 32
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 31,
                 "received_amount": 25
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 1,
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 44,
+                "received_amount": 29
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 3,
                 "received_amount": 1
             },
             {
-                "product_id": 28,
-                "product_name": "Toy Laptop",
-                "sku": "DIF-3687",
-                "unit_price": "528.08",
-                "requested_amount": 24,
-                "received_amount": 8
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 5,
+                "received_amount": 3
             },
             {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 21,
-                "received_amount": 10
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 25,
+                "received_amount": 7
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 3,
+                "received_amount": 2
             }
         ]
     }

@@ -1,71 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:30:51-06:00",
+    "generated_at": "2026-01-29T12:22:41-06:00",
     "shipment_date": "2026-01-19",
     "shipment": {
-        "id": 22,
-        "tracking_number": "NKZ-86145495",
+        "id": 385,
+        "tracking_number": "LIL-46991719",
         "supplier": "Supplier",
         "shipment_date": "2026-01-19",
-        "expected_delivery": "2026-04-07",
+        "expected_delivery": "2026-01-19",
         "status": "pending",
-        "total_packages": 223,
-        "notes": null,
+        "total_packages": 252,
+        "notes": "Voluptatibus id ad voluptate omnis cum unde autem enim.",
         "inventory": [
             {
-                "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 40,
-                "received_amount": 36
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 40,
-                "received_amount": 20
-            },
-            {
-                "product_id": 13,
-                "product_name": "Portable Air Compressor",
-                "sku": "PNG-7125",
-                "unit_price": "3770.73",
-                "requested_amount": 8,
-                "received_amount": 4
-            },
-            {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 12,
-                "received_amount": 8
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
                 "requested_amount": 49,
-                "received_amount": 43
+                "received_amount": 21
             },
             {
                 "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 43,
-                "received_amount": 32
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 23,
+                "received_amount": 6
             },
             {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 31,
-                "received_amount": 2
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 38,
+                "received_amount": 25
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 20,
+                "received_amount": 16
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 30,
+                "received_amount": 19
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 23,
+                "received_amount": 4
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 37,
+                "received_amount": 13
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 28,
+                "received_amount": 5
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 4,
+                "received_amount": 3
             }
         ]
     }

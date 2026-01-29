@@ -1,63 +1,55 @@
 {
-    "generated_at": "2026-01-27T23:31:04-06:00",
+    "generated_at": "2026-01-29T12:22:27-06:00",
     "shipment_date": "2025-01-07",
     "shipment": {
-        "id": 34,
-        "tracking_number": "R4H-47374946",
+        "id": 8,
+        "tracking_number": "XTZ-45223873",
         "supplier": "Supplier",
         "shipment_date": "2025-01-07",
-        "expected_delivery": "2025-02-20",
+        "expected_delivery": "2025-01-07",
         "status": "pending",
-        "total_packages": 198,
-        "notes": "Reprehenderit voluptas culpa ratione aut quo exercitationem et occaecati quia tempore eum ratione laboriosam est molestias dolorum magnam voluptatem dignissimos dolores dolor ea at excepturi molestiae cum.",
+        "total_packages": 139,
+        "notes": "Qui laboriosam sit ad quos voluptas pariatur aliquid a qui ut dolores dignissimos ut cumque aliquam et ut id ipsum quae sunt.",
         "inventory": [
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 15,
-                "received_amount": 2
-            },
-            {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 34,
-                "received_amount": 30
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 50,
-                "received_amount": 40
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
                 "requested_amount": 20,
-                "received_amount": 20
+                "received_amount": 8
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 41,
+                "received_amount": 31
             },
             {
                 "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 37,
-                "received_amount": 23
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 43,
+                "received_amount": 25
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 42,
-                "received_amount": 30
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 33,
+                "received_amount": 5
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 2,
+                "received_amount": 1
             }
         ]
     }

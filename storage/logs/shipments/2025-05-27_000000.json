@@ -1,87 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:08-06:00",
+    "generated_at": "2026-01-29T12:22:32-06:00",
     "shipment_date": "2025-05-27",
     "shipment": {
-        "id": 174,
-        "tracking_number": "JWI-69605346",
+        "id": 148,
+        "tracking_number": "F0P-64081740",
         "supplier": "Supplier",
         "shipment_date": "2025-05-27",
-        "expected_delivery": "2025-06-12",
+        "expected_delivery": "2025-05-27",
         "status": "pending",
-        "total_packages": 217,
-        "notes": "Iure ipsam eum molestias nihil itaque voluptatibus doloremque eius possimus qui et voluptas aut repellendus id.",
+        "total_packages": 171,
+        "notes": "Sint vel quibusdam quis corporis numquam et minus quam maxime ut eaque rem quae.",
         "inventory": [
             {
-                "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 9,
-                "received_amount": 5
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 20,
+                "received_amount": 19
             },
             {
-                "product_id": 12,
-                "product_name": "4K Monitor",
-                "sku": "ZMW-6402",
-                "unit_price": "2245.36",
-                "requested_amount": 50,
-                "received_amount": 39
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 22,
+                "received_amount": 20
             },
             {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 26,
-                "received_amount": 17
-            },
-            {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 31,
-                "received_amount": 6
-            },
-            {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 5,
-                "received_amount": 5
-            },
-            {
-                "product_id": 21,
-                "product_name": "Wedges",
-                "sku": "SGK-7178",
-                "unit_price": "297.29",
-                "requested_amount": 27,
-                "received_amount": 23
-            },
-            {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 42,
-                "received_amount": 2
-            },
-            {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 14,
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 25,
                 "received_amount": 13
             },
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 13,
-                "received_amount": 10
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 43,
+                "received_amount": 31
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 16,
+                "received_amount": 4
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 45,
+                "received_amount": 31
             }
         ]
     }

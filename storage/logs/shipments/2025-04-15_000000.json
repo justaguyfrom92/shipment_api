@@ -1,71 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:31:07-06:00",
+    "generated_at": "2026-01-29T12:22:30-06:00",
     "shipment_date": "2025-04-15",
     "shipment": {
-        "id": 132,
-        "tracking_number": "ZIR-93405727",
+        "id": 106,
+        "tracking_number": "0E3-20088652",
         "supplier": "Supplier",
         "shipment_date": "2025-04-15",
-        "expected_delivery": "2025-06-20",
+        "expected_delivery": "2025-04-15",
         "status": "pending",
-        "total_packages": 197,
-        "notes": "Aperiam unde omnis earum et debitis molestias maxime aliquid rem.",
+        "total_packages": 157,
+        "notes": "Et sed consequatur et pariatur est consequatur nostrum deleniti nulla veritatis autem vel.",
         "inventory": [
             {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 37,
-                "received_amount": 19
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 4,
+                "received_amount": 3
             },
             {
-                "product_id": 14,
-                "product_name": "Rechargeable Reading Lamp",
-                "sku": "EQL-8313",
-                "unit_price": "900.57",
-                "requested_amount": 13,
-                "received_amount": 4
-            },
-            {
-                "product_id": 4,
-                "product_name": "Toy Coin Trick Set",
-                "sku": "TJB-6638",
-                "unit_price": "466.16",
-                "requested_amount": 30,
-                "received_amount": 6
-            },
-            {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
                 "requested_amount": 33,
                 "received_amount": 18
             },
             {
-                "product_id": 16,
-                "product_name": "Micro USB Cable",
-                "sku": "CJO-8735",
-                "unit_price": "854.91",
-                "requested_amount": 27,
-                "received_amount": 22
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 8,
+                "received_amount": 3
             },
             {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 44,
-                "received_amount": 38
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 30,
+                "received_amount": 24
             },
             {
-                "product_id": 17,
-                "product_name": "Fruit Leather Strips",
-                "sku": "IYA-9079",
-                "unit_price": "3375.27",
-                "requested_amount": 13,
-                "received_amount": 7
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 42,
+                "received_amount": 10
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 40,
+                "received_amount": 16
             }
         ]
     }

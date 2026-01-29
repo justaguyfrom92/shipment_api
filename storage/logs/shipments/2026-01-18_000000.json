@@ -1,63 +1,63 @@
 {
-    "generated_at": "2026-01-27T23:30:51-06:00",
+    "generated_at": "2026-01-29T12:22:41-06:00",
     "shipment_date": "2026-01-18",
     "shipment": {
-        "id": 21,
-        "tracking_number": "ZNS-48008505",
+        "id": 384,
+        "tracking_number": "TTQ-43668130",
         "supplier": "Supplier",
         "shipment_date": "2026-01-18",
-        "expected_delivery": "2026-03-27",
+        "expected_delivery": "2026-01-18",
         "status": "pending",
-        "total_packages": 180,
-        "notes": "Modi doloribus reiciendis sapiente possimus minus et ut pariatur aut sapiente.",
+        "total_packages": 159,
+        "notes": "Iusto odit fugiat hic aspernatur voluptatem eligendi dolores incidunt qui.",
         "inventory": [
             {
-                "product_id": 15,
-                "product_name": "Magnetic Drawing Board",
-                "sku": "ERY-9167",
-                "unit_price": "4417.58",
-                "requested_amount": 49,
-                "received_amount": 38
-            },
-            {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 39,
-                "received_amount": 4
-            },
-            {
                 "product_id": 1,
-                "product_name": "Venom DVD",
-                "sku": "QQQ-6476",
-                "unit_price": "521.73",
-                "requested_amount": 13,
-                "received_amount": 8
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 21,
+                "received_amount": 14
             },
             {
-                "product_id": 3,
-                "product_name": "Pilates Ring",
-                "sku": "YTD-2767",
-                "unit_price": "607.22",
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 40,
+                "received_amount": 22
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 17,
+                "received_amount": 3
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 42,
+                "received_amount": 9
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
                 "requested_amount": 38,
-                "received_amount": 32
-            },
-            {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 9,
-                "received_amount": 4
-            },
-            {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 32,
-                "received_amount": 16
+                "received_amount": 9
             }
         ]
     }

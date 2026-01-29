@@ -1,63 +1,95 @@
 {
-    "generated_at": "2026-01-27T23:31:09-06:00",
+    "generated_at": "2026-01-29T12:22:32-06:00",
     "shipment_date": "2025-06-18",
     "shipment": {
-        "id": 196,
-        "tracking_number": "ZC3-67400406",
+        "id": 170,
+        "tracking_number": "I6A-18343868",
         "supplier": "Supplier",
         "shipment_date": "2025-06-18",
-        "expected_delivery": "2025-09-14",
+        "expected_delivery": "2025-06-18",
         "status": "pending",
-        "total_packages": 87,
-        "notes": "Consequatur commodi quo minima mollitia cupiditate ut totam sit deleniti est non.",
+        "total_packages": 324,
+        "notes": null,
         "inventory": [
             {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 31,
-                "received_amount": 14
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 41,
+                "received_amount": 34
             },
             {
-                "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 4,
-                "received_amount": 1
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 48,
+                "received_amount": 23
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 22,
+                "received_amount": 13
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 35,
+                "received_amount": 10
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 42,
+                "received_amount": 30
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 14,
+                "received_amount": 11
             },
             {
                 "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
-                "requested_amount": 16,
-                "received_amount": 7
-            },
-            {
-                "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 9,
-                "received_amount": 3
-            },
-            {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 16,
-                "received_amount": 6
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 25,
+                "received_amount": 15
             },
             {
                 "product_id": 30,
-                "product_name": "Solar Deck Light",
-                "sku": "JPQ-8362",
-                "unit_price": "4626.14",
-                "requested_amount": 11,
-                "received_amount": 2
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 37,
+                "received_amount": 27
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 34,
+                "received_amount": 25
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 26,
+                "received_amount": 24
             }
         ]
     }

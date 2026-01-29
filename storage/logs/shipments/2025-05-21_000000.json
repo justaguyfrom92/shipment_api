@@ -1,55 +1,87 @@
 {
-    "generated_at": "2026-01-27T23:31:08-06:00",
+    "generated_at": "2026-01-29T12:22:31-06:00",
     "shipment_date": "2025-05-21",
     "shipment": {
-        "id": 168,
-        "tracking_number": "RJC-63379057",
+        "id": 142,
+        "tracking_number": "AED-70518564",
         "supplier": "Supplier",
         "shipment_date": "2025-05-21",
-        "expected_delivery": "2025-07-19",
+        "expected_delivery": "2025-05-21",
         "status": "pending",
-        "total_packages": 169,
-        "notes": "Qui architecto occaecati qui et voluptate provident ab harum quia sed est amet ut vel et.",
+        "total_packages": 259,
+        "notes": "Sed ab commodi id ducimus expedita est.",
         "inventory": [
             {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 48,
-                "received_amount": 5
-            },
-            {
-                "product_id": 18,
-                "product_name": "Toy Toy Car Track",
-                "sku": "KGL-0284",
-                "unit_price": "1584.93",
-                "requested_amount": 24,
-                "received_amount": 6
-            },
-            {
-                "product_id": 26,
-                "product_name": "Cat Grooming Brush",
-                "sku": "FDF-6679",
-                "unit_price": "3641.28",
-                "requested_amount": 16,
-                "received_amount": 14
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 43,
+                "received_amount": 21
             },
             {
                 "product_id": 6,
-                "product_name": "The Little Mermaid Series",
-                "sku": "HLV-3567",
-                "unit_price": "3273.97",
-                "requested_amount": 33,
-                "received_amount": 8
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 41,
+                "received_amount": 23
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 17,
+                "received_amount": 6
             },
             {
                 "product_id": 20,
-                "product_name": "Mega Bloks Town Set",
-                "sku": "ERU-4164",
-                "unit_price": "4437.70",
-                "requested_amount": 48,
-                "received_amount": 9
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 29,
+                "received_amount": 10
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 13,
+                "received_amount": 6
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 37,
+                "received_amount": 19
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 27,
+                "received_amount": 22
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 38,
+                "received_amount": 38
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 14,
+                "received_amount": 4
             }
         ]
     }

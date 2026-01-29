@@ -1,87 +1,71 @@
 {
-    "generated_at": "2026-01-27T23:30:51-06:00",
+    "generated_at": "2026-01-29T12:22:41-06:00",
     "shipment_date": "2026-01-17",
     "shipment": {
-        "id": 20,
-        "tracking_number": "YVM-86876344",
+        "id": 383,
+        "tracking_number": "XLH-22441163",
         "supplier": "Supplier",
         "shipment_date": "2026-01-17",
-        "expected_delivery": "2026-03-25",
+        "expected_delivery": "2026-01-17",
         "status": "pending",
-        "total_packages": 211,
-        "notes": "Perspiciatis omnis nobis provident id aut soluta sint laboriosam asperiores non aspernatur quos qui.",
+        "total_packages": 170,
+        "notes": "Dolores quo deserunt vel aut et consequatur alias vitae porro debitis aut quibusdam aut pariatur molestiae quo.",
         "inventory": [
             {
-                "product_id": 9,
-                "product_name": "USB-C Wall Charger",
-                "sku": "ATL-1810",
-                "unit_price": "2493.35",
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
                 "requested_amount": 47,
-                "received_amount": 8
+                "received_amount": 1
             },
             {
-                "product_id": 19,
-                "product_name": "Canned Salsa",
-                "sku": "MVG-7890",
-                "unit_price": "23.87",
-                "requested_amount": 32,
-                "received_amount": 25
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 2,
+                "received_amount": 2
             },
             {
-                "product_id": 27,
-                "product_name": "LED Strip Lights",
-                "sku": "CEG-7319",
-                "unit_price": "4872.55",
-                "requested_amount": 26,
-                "received_amount": 15
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 16,
+                "received_amount": 4
             },
             {
-                "product_id": 25,
-                "product_name": "Fidget Puzzle Cube",
-                "sku": "HET-3249",
-                "unit_price": "4648.22",
-                "requested_amount": 6,
-                "received_amount": 5
-            },
-            {
-                "product_id": 8,
-                "product_name": "Breathable Running Tank",
-                "sku": "YTU-8527",
-                "unit_price": "2588.71",
-                "requested_amount": 9,
-                "received_amount": 7
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 38,
+                "received_amount": 14
             },
             {
                 "product_id": 7,
-                "product_name": "Wireless Earbuds",
-                "sku": "WMN-0435",
-                "unit_price": "1197.02",
-                "requested_amount": 2,
-                "received_amount": 1
-            },
-            {
-                "product_id": 5,
-                "product_name": "Canned Collard Greens with Bacon",
-                "sku": "HFC-5992",
-                "unit_price": "11.18",
-                "requested_amount": 20,
-                "received_amount": 1
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 7,
+                "received_amount": 3
             },
             {
                 "product_id": 22,
-                "product_name": "Mindhunter DVD",
-                "sku": "FZT-2696",
-                "unit_price": "2511.57",
-                "requested_amount": 43,
-                "received_amount": 16
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 14,
+                "received_amount": 10
             },
             {
-                "product_id": 24,
-                "product_name": "Reading Glasses",
-                "sku": "UMZ-7932",
-                "unit_price": "3648.05",
-                "requested_amount": 26,
-                "received_amount": 23
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 46,
+                "received_amount": 26
             }
         ]
     }
