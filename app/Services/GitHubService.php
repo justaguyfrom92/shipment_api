@@ -108,7 +108,6 @@ class GitHubService
 
 		if (!$this->hasChanges())
 		{
-echo('0');
 			return [
 				'success' => true,
 				'message' => 'No changes to commit',
@@ -116,7 +115,7 @@ echo('0');
 		}
 		else
 		{
-echo('here');
+echo('changes were made and committed');
 		}
 
 		$commitResult = $this->commit($commitMessage);
