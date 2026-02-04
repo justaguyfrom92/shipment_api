@@ -17,7 +17,8 @@ class DailyUploadCommand extends Command
 
 		try
 		{
-			//echo('Exporting today\'s shipment data...');
+			/***
+			echo('Exporting today\'s shipment data...');
 			$exportResult = $exportService->exportTodaysShipments();
 
 			if ($exportResult['success'])
@@ -30,13 +31,14 @@ class DailyUploadCommand extends Command
 				echo("⚠ {$exportResult['message']}");
 			}
 
+			***/
 			$commitMessage = $this->option('message') . ' - ' . now()->format('Y-m-d H:i:s');
-			echo('Uploading to GitHub...');
-
 			$uploadResult = $gitHubService->uploadToGitHub($commitMessage);
 
 			if ($uploadResult['success'])
 			{
+				echo('Uploaded to GitHub...');
+
 				echo('✓ ' . $uploadResult['message']);
 				return self::SUCCESS;
 			}

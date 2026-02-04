@@ -113,6 +113,10 @@ class GitHubService
 				'message' => 'No changes to commit',
 			];
 		}
+		else
+		{
+echo('here');
+		}
 
 		$commitResult = $this->commit($commitMessage);
 		if (!$commitResult['success'])
