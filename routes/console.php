@@ -17,7 +17,8 @@ Schedule::command('shipment:create',['--start-date' => now()->toDateTimeString()
 
 
 Schedule::command('daily:upload')
-	//->dailyAt('12:46')
+	->everyMinute()
+	//->dailyAt('12:50:00')
 	->appendOutputTo(storage_path('logs/commands.log'))
 	->onSuccess(function ()
         {
