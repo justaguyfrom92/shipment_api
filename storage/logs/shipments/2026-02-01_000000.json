@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-02-03T23:52:05-06:00",
+    "shipment_date": "2026-02-01",
+    "shipment": {
+        "id": 397,
+        "tracking_number": "VVN-90618786",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-01",
+        "expected_delivery": "2026-02-01",
+        "status": "pending",
+        "total_packages": 210,
+        "notes": "Quidem possimus officia sed minus libero ipsam modi sapiente in quis molestias itaque aspernatur ut voluptatem dignissimos quidem rerum ut ipsam.",
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 45,
+                "received_amount": 22
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 42,
+                "received_amount": 28
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 8,
+                "received_amount": 5
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 23,
+                "received_amount": 7
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 34,
+                "received_amount": 34
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 35,
+                "received_amount": 20
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 19,
+                "received_amount": 18
+            }
+        ]
+    }
+}

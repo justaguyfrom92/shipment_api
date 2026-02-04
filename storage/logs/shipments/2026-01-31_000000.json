@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-02-03T23:52:05-06:00",
+    "shipment_date": "2026-01-31",
+    "shipment": {
+        "id": 396,
+        "tracking_number": "BHW-20371255",
+        "supplier": "Supplier",
+        "shipment_date": "2026-01-31",
+        "expected_delivery": "2026-01-31",
+        "status": "pending",
+        "total_packages": 142,
+        "notes": "Ab enim qui est architecto velit atque dolorum et perferendis non numquam vel quia dolores.",
+        "inventory": [
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 43,
+                "received_amount": 21
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 34,
+                "received_amount": 14
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 3,
+                "received_amount": 3
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 31,
+                "received_amount": 6
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 31,
+                "received_amount": 25
+            }
+        ]
+    }
+}
