@@ -20,6 +20,11 @@ Schedule::command('daily:upload')
 	->everyMinute()
 	//->dailyAt('12:50:00')
 	->appendOutputTo(storage_path('logs/commands.log'))
+	->before(function ()
+	{
+		file_put_contents(storage_path('logs/test.log'), 'User: ' . get_current_user() . ' at ' . now() . "\n", FILE_APPEND);
+	});
+	/**
 	->onSuccess(function ()
         {
                 file_put_contents(storage_path('logs/test.log'), 'ran at ' . now() . "\n", FILE_APPEND);
@@ -28,3 +33,4 @@ Schedule::command('daily:upload')
         {
                 file_put_contents(storage_path('logs/test.log'), 'error at ' . now() . "\n", FILE_APPEND);
         });
+	**/
