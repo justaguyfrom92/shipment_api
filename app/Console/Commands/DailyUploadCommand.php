@@ -13,11 +13,11 @@ class DailyUploadCommand extends Command
 
 	public function handle(ShipmentExportService $exportService, GitHubService $gitHubService): int
 	{
-		echo('Starting daily upload to GitHub...');
+		//echo('Starting daily upload to GitHub...');
 
 		try
 		{
-			echo('Exporting today\'s shipment data...');
+			//echo('Exporting today\'s shipment data...');
 			$exportResult = $exportService->exportTodaysShipments();
 
 			if ($exportResult['success'])
@@ -52,7 +52,6 @@ class DailyUploadCommand extends Command
 		}
 		catch (\Exception $e)
 		{
-dd($e);
 			echo('Error during upload: ' . $e->getMessage());
 			return self::FAILURE;
 		}
