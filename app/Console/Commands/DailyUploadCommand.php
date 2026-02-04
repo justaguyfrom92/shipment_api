@@ -13,46 +13,47 @@ class DailyUploadCommand extends Command
 
 	public function handle(ShipmentExportService $exportService, GitHubService $gitHubService): int
 	{
-		$this->info('Starting daily upload to GitHub...');
+		echo('Starting daily upload to GitHub...');
 
 		try
 		{
-			$this->info('Exporting today\'s shipment data...');
+			echo('Exporting today\'s shipment data...');
 			$exportResult = $exportService->exportTodaysShipments();
 
 			if ($exportResult['success'])
 			{
-				$this->info("✓ Exported to: {$exportResult['filename']}");
-				$this->info("✓ Total shipments exported: {$exportResult['count']}");
+				echo("✓ Exported to: {$exportResult['filename']}");
+				echo("✓ Total shipments exported: {$exportResult['count']}");
 			}
 			else
 			{
-				$this->warn("⚠ {$exportResult['message']}");
+				echo("⚠ {$exportResult['message']}");
 			}
 
 			$commitMessage = $this->option('message') . ' - ' . now()->format('Y-m-d H:i:s');
-			$this->info('Uploading to GitHub...');
+			echo('Uploading to GitHub...');
 
 			$uploadResult = $gitHubService->uploadToGitHub($commitMessage);
 
 			if ($uploadResult['success'])
 			{
-				$this->info('✓ ' . $uploadResult['message']);
+				echo('✓ ' . $uploadResult['message']);
 				return self::SUCCESS;
 			}
 			else
 			{
-				$this->error('✗ ' . $uploadResult['message']);
+				echo('✗ ' . $uploadResult['message']);
 				if (isset($uploadResult['error']))
 				{
-					$this->error($uploadResult['error']);
+					echo($uploadResult['error']);
 				}
 				return self::FAILURE;
 			}
 		}
 		catch (\Exception $e)
 		{
-			$this->error('Error during upload: ' . $e->getMessage());
+dd($e);
+			echo('Error during upload: ' . $e->getMessage());
 			return self::FAILURE;
 		}
 	}

@@ -21,10 +21,10 @@ class CreateShipmentCommand extends Command
 
 		if (!$startDate)
 		{
-			$this->error('You must provide --start-date');
-			$this->info('Examples:');
-			$this->info('  php artisan shipment:create --start-date=2026-01-15');
-			$this->info('  php artisan shipment:create --start-date=2026-01-01 --end-date=2026-01-31');
+			echo('You must provide --start-date');
+			echo('Examples:');
+			echo('  php artisan shipment:create --start-date=2026-01-15');
+			echo('  php artisan shipment:create --start-date=2026-01-01 --end-date=2026-01-31');
 			return self::FAILURE;
 		}
 
@@ -37,24 +37,24 @@ class CreateShipmentCommand extends Command
 
 			if ($start->greaterThan($end))
 			{
-				$this->error('Start date must be before or equal to end date');
+				echo('Start date must be before or equal to end date');
 				return self::FAILURE;
 			}
 
 			$productCount = Product::count();
 			if ($productCount === 0)
 			{
-				$this->error('No products exist. Please seed products first.');
+				echo('No products exist. Please seed products first.');
 				return self::FAILURE;
 			}
 
 			if ($start->equalTo($end))
 			{
-				$this->info("Creating shipment for {$start->format('Y-m-d')}...");
+				echo("Creating shipment for {$start->format('Y-m-d')}...");
 			}
 			else
 			{
-				$this->info("Creating shipments from {$start->format('Y-m-d')} to {$end->format('Y-m-d')}...");
+				echo("Creating shipments from {$start->format('Y-m-d')} to {$end->format('Y-m-d')}...");
 			}
 
 			$created = 0;
@@ -67,38 +67,38 @@ class CreateShipmentCommand extends Command
 
 				if ($existingShipment)
 				{
-					$this->warn("  Skipped {$current->format('Y-m-d')} - already exists");
+					echo("  Skipped {$current->format('Y-m-d')} - already exists");
 					$skipped++;
 					$current->addDay();
 					continue;
 				}
 
 				$shipment = $this->createShipmentForDate($current);
-				$this->info("  ✓ Created shipment for {$current->format('Y-m-d')} - {$shipment->tracking_number}");
+				echo("  ✓ Created shipment for {$current->format('Y-m-d')} - {$shipment->tracking_number}");
 
 				// Export shipment log
 				$exportResult = $exportService->exportShipmentForDate($current);
 				if ($exportResult['success'])
 				{
-					$this->info("    ✓ Exported log: {$exportResult['filename']}");
+					echo("    ✓ Exported log: {$exportResult['filename']}");
 				}
 
 				$created++;
 				$current->addDay();
 			}
 
-			$this->info("\nSummary:");
-			$this->info("  Created: {$created}");
+			echo("\nSummary:");
+			echo("  Created: {$created}");
 			if ($skipped > 0)
 			{
-				$this->info("  Skipped: {$skipped}");
+				echo("  Skipped: {$skipped}");
 			}
 
 			return self::SUCCESS;
 		}
 		catch (\Exception $e)
 		{
-			$this->error('Error creating shipments: ' . $e->getMessage());
+			echo('Error creating shipments: ' . $e->getMessage());
 			return self::FAILURE;
 		}
 	}
