@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-02-04T13:30:01-06:00",
+    "shipment_date": "2026-02-04",
+    "shipment": {
+        "id": 400,
+        "tracking_number": "0UP-29141764",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-04",
+        "expected_delivery": "2026-02-04",
+        "status": "pending",
+        "total_packages": 238,
+        "notes": "Blanditiis voluptatem dolorem et saepe nisi ratione eos.",
+        "inventory": [
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 10,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 26,
+                "received_amount": 1
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 22,
+                "received_amount": 7
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 9,
+                "received_amount": 7
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 34,
+                "received_amount": 28
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 33,
+                "received_amount": 4
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 34,
+                "received_amount": 7
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 16,
+                "received_amount": 6
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 45,
+                "received_amount": 44
+            }
+        ]
+    }
+}

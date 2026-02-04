@@ -5,32 +5,10 @@ use Illuminate\Support\Facades\Schedule;
 
 Schedule::command('shipment:create',['--start-date' => now()->toDateTimeString()])
 	->dailyAt('01:00')
-	->appendOutputTo(storage_path('logs/commands.log'))
-	->onSuccess(function ()
-	{
-		file_put_contents(storage_path('logs/test.log'), 'ran at ' . now() . "\n", FILE_APPEND);
-	})
-	->onFailure(function ()
-        {
-                file_put_contents(storage_path('logs/test.log'), 'error at ' . now() . "\n", FILE_APPEND);
-        });
+	->appendOutputTo(storage_path('logs/scheduled-commands.log'));
 
 
 Schedule::command('daily:upload')
 	->everyMinute()
 	//->dailyAt('12:50:00')
-	->appendOutputTo(storage_path('logs/commands.log'))
-	->before(function ()
-	{
-		file_put_contents(storage_path('logs/test.log'), 'User: ' . get_current_user() . ' at ' . now() . "\n", FILE_APPEND);
-	});
-	/**
-	->onSuccess(function ()
-        {
-                file_put_contents(storage_path('logs/test.log'), 'ran at ' . now() . "\n", FILE_APPEND);
-        })
-	->onFailure(function ()
-        {
-                file_put_contents(storage_path('logs/test.log'), 'error at ' . now() . "\n", FILE_APPEND);
-        });
-	**/
+	->appendOutputTo(storage_path('logs/schedule-commands.log'));
