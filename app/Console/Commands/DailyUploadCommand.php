@@ -37,9 +37,8 @@ class DailyUploadCommand extends Command
 
 			if ($uploadResult['success'])
 			{
-				echo('Uploaded to GitHub...');
-
-				echo('✓ ' . $uploadResult['message']);
+				//echo('Uploaded to GitHub...');
+				//echo('✓ ' . $uploadResult['message']);
 				return self::SUCCESS;
 			}
 			else
