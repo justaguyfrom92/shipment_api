@@ -3,4 +3,8 @@
   ⇂ '/usr/bin/php8.2' 'artisan' daily:upload >> 'storage/logs/scheduled-commands.log' 2>&1  
 
 
-  2026-02-04 13:36:01 Running ['artisan' daily:upload] Starting daily upload to GitHub...Exporting today's shipment data...✓ Exported to: /var/www/html/php/laravel/laravel12/shipment_api/storage/logs/shipments/2026-02-04_133601.json✓ Total shipments exported: 1Uploading to GitHub...
+  2026-02-04 13:36:01 Running ['artisan' daily:upload] Starting daily upload to GitHub...Exporting today's shipment data...✓ Exported to: /var/www/html/php/laravel/laravel12/shipment_api/storage/logs/shipments/2026-02-04_133601.json✓ Total shipments exported: 1Uploading to GitHub...✓ Successfully uploaded to GitHub............... 3s DONE
+  ⇂ '/usr/bin/php8.2' 'artisan' daily:upload >> 'storage/logs/scheduled-commands.log' 2>&1  
+
+
+  2026-02-04 13:37:02 Running ['artisan' daily:upload] Starting daily upload to GitHub...Exporting today's shipment data...✓ Exported to: /var/www/html/php/laravel/laravel12/shipment_api/storage/logs/shipments/2026-02-04_133702.json✓ Total shipments exported: 1Uploading to GitHub...
