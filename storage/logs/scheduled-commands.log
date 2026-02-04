@@ -31,4 +31,8 @@
   ⇂ '/usr/bin/php8.2' 'artisan' daily:upload >> 'storage/logs/scheduled-commands.log' 2>&1  
 
 
-  2026-02-04 13:43:01 Running ['artisan' daily:upload] 
+  2026-02-04 13:43:01 Running ['artisan' daily:upload] hereUploaded to GitHub...✓ Successfully uploaded to GitHub......... 953.03ms DONE
+  ⇂ '/usr/bin/php8.2' 'artisan' daily:upload >> 'storage/logs/scheduled-commands.log' 2>&1  
+
+
+  2026-02-04 13:44:01 Running ['artisan' daily:upload] 
