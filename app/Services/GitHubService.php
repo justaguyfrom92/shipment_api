@@ -115,7 +115,7 @@ class GitHubService
 		}
 		else
 		{
-echo('changes were made and committed');
+//echo('changes were made and committed');
 		}
 
 		$commitResult = $this->commit($commitMessage);
