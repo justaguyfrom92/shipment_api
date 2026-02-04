@@ -108,6 +108,7 @@ class GitHubService
 
 		if (!$this->hasChanges())
 		{
+echo('0');
 			return [
 				'success' => true,
 				'message' => 'No changes to commit',
