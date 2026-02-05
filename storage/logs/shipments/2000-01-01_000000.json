@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-02-05T11:58:08-06:00",
+    "shipment_date": "2000-01-01",
+    "shipment": {
+        "id": 404,
+        "tracking_number": "DRT-70320783",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-01",
+        "expected_delivery": "2000-01-01",
+        "status": "pending",
+        "total_packages": 135,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 36,
+                "received_amount": 15
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 33,
+                "received_amount": 29
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 24,
+                "received_amount": 9
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 11,
+                "received_amount": 6
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 12,
+                "received_amount": 7
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 19,
+                "received_amount": 3
+            }
+        ]
+    }
+}
