@@ -37,24 +37,45 @@ class GitHubService
 
 	public function hasRelevantChanges(): bool
 	{
+		$allFiles = [];
+
+		// Check for modified/staged files
 		$result = Process::path(base_path())->run('git diff --name-only');
-		$changedFiles = trim($result->output());
+		$modifiedFiles = trim($result->output());
 
-		if (empty($changedFiles))
+		if (!empty($modifiedFiles))
 		{
-			// Also check for untracked files
-			$result = Process::path(base_path())->run('git ls-files --others --exclude-standard');
-			$changedFiles = trim($result->output());
-
-			if (empty($changedFiles))
-			{
-				return false;
-			}
+			$allFiles = array_merge($allFiles, explode("\n", $modifiedFiles));
 		}
 
-		$changedFilesArray = explode("\n", $changedFiles);
+		// Check for staged changes
+		$result = Process::path(base_path())->run('git diff --cached --name-only');
+		$stagedFiles = trim($result->output());
 
-		foreach ($changedFilesArray as $file)
+		if (!empty($stagedFiles))
+		{
+			$allFiles = array_merge($allFiles, explode("\n", $stagedFiles));
+		}
+
+		// Check for untracked files (this is the key part for new files)
+		$result = Process::path(base_path())->run('git ls-files --others --exclude-standard');
+		$untrackedFiles = trim($result->output());
+
+		if (!empty($untrackedFiles))
+		{
+			$allFiles = array_merge($allFiles, explode("\n", $untrackedFiles));
+		}
+
+		// Filter out empty entries
+		$allFiles = array_filter($allFiles, fn($file) => !empty($file));
+
+		if (empty($allFiles))
+		{
+			return false;
+		}
+
+		// Check if any file is relevant (not schedule-commands.log)
+		foreach ($allFiles as $file)
 		{
 			// Exclude only the schedule commands log file
 			if (str_ends_with($file, 'schedule-commands.log'))

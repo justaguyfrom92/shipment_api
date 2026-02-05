@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-02-05T12:05:04-06:00",
+    "shipment_date": "2000-01-02",
+    "shipment": {
+        "id": 405,
+        "tracking_number": "RFY-72865154",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-02",
+        "expected_delivery": "2000-01-02",
+        "status": "pending",
+        "total_packages": 90,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 14,
+                "received_amount": 11
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 41,
+                "received_amount": 13
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 20,
+                "received_amount": 15
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 14,
+                "received_amount": 7
+            }
+        ]
+    }
+}
