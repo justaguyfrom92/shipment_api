@@ -2,57 +2,40 @@
 
 namespace App\Console\Commands;
 
-use App\Services\ShipmentExportService;
 use App\Services\GitHubService;
 use Illuminate\Console\Command;
 
 class DailyUploadCommand extends Command
 {
-	protected $signature = 'daily:upload {--message=Daily automated commit}';
-	protected $description = 'Export today\'s shipments and upload to GitHub';
+	protected $signature = 'daily:upload';
+	protected $description = 'Upload changes to GitHub if there are app file changes';
 
-	public function handle(ShipmentExportService $exportService, GitHubService $gitHubService): int
+	public function handle(GitHubService $gitHubService): int
 	{
-		//echo('Starting daily upload to GitHub...');
+		$this->info('Starting daily upload to GitHub...');
 
 		try
 		{
-			/***
-			echo('Exporting today\'s shipment data...');
-			$exportResult = $exportService->exportTodaysShipments();
-
-			if ($exportResult['success'])
-			{
-				echo("✓ Exported to: {$exportResult['filename']}");
-				echo("✓ Total shipments exported: {$exportResult['count']}");
-			}
-			else
-			{
-				echo("⚠ {$exportResult['message']}");
-			}
-
-			***/
 			$uploadResult = $gitHubService->uploadToGitHub();
 
 			if ($uploadResult['success'])
 			{
-				//echo('Uploaded to GitHub...');
-				//echo('✓ ' . $uploadResult['message']);
+				$this->info('✓ ' . $uploadResult['message']);
 				return self::SUCCESS;
 			}
 			else
 			{
-				echo('✗ ' . $uploadResult['message']);
+				$this->error('✗ ' . $uploadResult['message']);
 				if (isset($uploadResult['error']))
 				{
-					echo($uploadResult['error']);
+					$this->error($uploadResult['error']);
 				}
 				return self::FAILURE;
 			}
 		}
 		catch (\Exception $e)
 		{
-			echo('Error during upload: ' . $e->getMessage());
+			$this->error('Error during upload: ' . $e->getMessage());
 			return self::FAILURE;
 		}
 	}

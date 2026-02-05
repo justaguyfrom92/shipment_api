@@ -53,7 +53,7 @@ class ShipmentExportService
 				'notes' => $shipment->notes,
 				'inventory' => $shipment->products->map(function ($product)
 				{
-					return $product->toArray();
+					return $product->toInventoryArray();
 				})->values()->all(),
 			],
 		];

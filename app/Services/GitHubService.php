@@ -35,8 +35,42 @@ class GitHubService
 		File::put($storageGitignorePath, "# Track everything in storage\n!*\n");
 	}
 
+	public function hasAppChanges(): bool
+	{
+		$result = Process::path(base_path())->run('git diff --name-only');
+		$changedFiles = trim($result->output());
+
+		if (empty($changedFiles))
+		{
+			return false;
+		}
+
+		$changedFilesArray = explode("\n", $changedFiles);
+
+		foreach ($changedFilesArray as $file)
+		{
+			// Only check for app file changes, not storage/logs
+			if (!str_starts_with($file, 'storage/logs/'))
+			{
+				return true;
+			}
+		}
+
+		return false;
+	}
+
 	public function addChanges(): array
 	{
+		// Only add if there are app changes
+		if (!$this->hasAppChanges())
+		{
+			return [
+				'success' => true,
+				'output' => 'No app changes to add',
+				'error' => '',
+			];
+		}
+
 		// Ensure storage is tracked
 		$this->ensureStorageTracked();
 
@@ -96,6 +130,15 @@ class GitHubService
 			];
 		}
 
+		// Check if there are app changes (not just log files)
+		if (!$this->hasAppChanges())
+		{
+			return [
+				'success' => true,
+				'message' => 'No app changes to commit',
+			];
+		}
+
 		$addResult = $this->addChanges();
 		if (!$addResult['success'])
 		{
@@ -106,21 +149,16 @@ class GitHubService
 			];
 		}
 
-		$changes = $this->hasChanges();
-
-		if (!$changes)
+		if (!$this->hasChanges())
 		{
 			return [
 				'success' => true,
 				'message' => 'No changes to commit',
 			];
 		}
-		else
-		{
-//echo('changes were made and committed');
-		}
 
-		$commitResult = $this->commit('updated files :'.now());
+		$commitMessage = 'Daily automated commit - ' . now()->format('Y-m-d H:i:s');
+		$commitResult = $this->commit($commitMessage);
 		if (!$commitResult['success'])
 		{
 			return [
