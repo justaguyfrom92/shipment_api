@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-02-05T12:28:28-06:00",
+    "shipment_date": "2000-01-05",
+    "shipment": {
+        "id": 408,
+        "tracking_number": "STR-10852994",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-05",
+        "expected_delivery": "2000-01-05",
+        "status": "pending",
+        "total_packages": 238,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 41,
+                "received_amount": 13
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 22,
+                "received_amount": 15
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 30,
+                "received_amount": 11
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 50,
+                "received_amount": 15
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 21,
+                "received_amount": 16
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 24,
+                "received_amount": 23
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 6,
+                "received_amount": 1
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 11,
+                "received_amount": 6
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 31,
+                "received_amount": 20
+            }
+        ]
+    }
+}

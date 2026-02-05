@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-02-05T12:29:10-06:00",
+    "shipment_date": "2000-01-06",
+    "shipment": {
+        "id": 409,
+        "tracking_number": "4YZ-42653880",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-06",
+        "expected_delivery": "2000-01-06",
+        "status": "pending",
+        "total_packages": 154,
+        "notes": "Voluptates nihil enim odit eos a at iure animi quis modi ex veniam quia molestiae velit hic odit minus.",
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 28,
+                "received_amount": 26
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 48,
+                "received_amount": 45
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 28,
+                "received_amount": 5
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 43,
+                "received_amount": 4
+            }
+        ]
+    }
+}
