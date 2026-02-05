@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-02-05T12:22:19-06:00",
+    "shipment_date": "2000-01-03",
+    "shipment": {
+        "id": 406,
+        "tracking_number": "DUK-58334707",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-03",
+        "expected_delivery": "2000-01-03",
+        "status": "pending",
+        "total_packages": 336,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 41,
+                "received_amount": 25
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 14,
+                "received_amount": 11
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 36,
+                "received_amount": 35
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 27,
+                "received_amount": 2
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 48,
+                "received_amount": 2
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 42,
+                "received_amount": 12
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 37,
+                "received_amount": 22
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 27,
+                "received_amount": 8
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 36,
+                "received_amount": 21
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 28,
+                "received_amount": 16
+            }
+        ]
+    }
+}

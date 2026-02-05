@@ -37,48 +37,32 @@ class GitHubService
 
 	public function hasRelevantChanges(): bool
 	{
-		$allFiles = [];
+		// Use git status --porcelain which shows ALL changes (modified, untracked, staged)
+		$result = Process::path(base_path())->run('git status --porcelain');
+		$statusOutput = trim($result->output());
 
-		// Check for modified/staged files
-		$result = Process::path(base_path())->run('git diff --name-only');
-		$modifiedFiles = trim($result->output());
-
-		if (!empty($modifiedFiles))
-		{
-			$allFiles = array_merge($allFiles, explode("\n", $modifiedFiles));
-		}
-
-		// Check for staged changes
-		$result = Process::path(base_path())->run('git diff --cached --name-only');
-		$stagedFiles = trim($result->output());
-
-		if (!empty($stagedFiles))
-		{
-			$allFiles = array_merge($allFiles, explode("\n", $stagedFiles));
-		}
-
-		// Check for untracked files (this is the key part for new files)
-		$result = Process::path(base_path())->run('git ls-files --others --exclude-standard');
-		$untrackedFiles = trim($result->output());
-
-		if (!empty($untrackedFiles))
-		{
-			$allFiles = array_merge($allFiles, explode("\n", $untrackedFiles));
-		}
-
-		// Filter out empty entries
-		$allFiles = array_filter($allFiles, fn($file) => !empty($file));
-
-		if (empty($allFiles))
+		if (empty($statusOutput))
 		{
 			return false;
 		}
 
-		// Check if any file is relevant (not schedule-commands.log)
-		foreach ($allFiles as $file)
+		$lines = explode("\n", $statusOutput);
+
+		foreach ($lines as $line)
 		{
+			// Parse git status output: "XY filename"
+			// X = index status, Y = working tree status
+			// ?? = untracked, M = modified, A = added, etc.
+			if (empty(trim($line)))
+			{
+				continue;
+			}
+
+			// Extract filename (everything after first 3 characters)
+			$filename = trim(substr($line, 3));
+
 			// Exclude only the schedule commands log file
-			if (str_ends_with($file, 'schedule-commands.log'))
+			if (str_ends_with($filename, 'schedule-commands.log'))
 			{
 				continue;
 			}
@@ -160,6 +144,9 @@ class GitHubService
 				'message' => 'Git repository not initialized',
 			];
 		}
+
+		// Ensure storage is tracked first
+		$this->ensureStorageTracked();
 
 		// Check if there are relevant changes (excluding schedule commands log)
 		if (!$this->hasRelevantChanges())
