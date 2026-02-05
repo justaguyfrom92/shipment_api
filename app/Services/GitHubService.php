@@ -35,25 +35,35 @@ class GitHubService
 		File::put($storageGitignorePath, "# Track everything in storage\n!*\n");
 	}
 
-	public function hasAppChanges(): bool
+	public function hasRelevantChanges(): bool
 	{
 		$result = Process::path(base_path())->run('git diff --name-only');
 		$changedFiles = trim($result->output());
 
 		if (empty($changedFiles))
 		{
-			return false;
+			// Also check for untracked files
+			$result = Process::path(base_path())->run('git ls-files --others --exclude-standard');
+			$changedFiles = trim($result->output());
+
+			if (empty($changedFiles))
+			{
+				return false;
+			}
 		}
 
 		$changedFilesArray = explode("\n", $changedFiles);
 
 		foreach ($changedFilesArray as $file)
 		{
-			// Only check for app file changes, not storage/logs
-			if (!str_starts_with($file, 'storage/logs/'))
+			// Exclude only the schedule commands log file
+			if (str_ends_with($file, 'schedule-commands.log'))
 			{
-				return true;
+				continue;
 			}
+
+			// Any other file change is relevant (including storage/logs files)
+			return true;
 		}
 
 		return false;
@@ -61,12 +71,12 @@ class GitHubService
 
 	public function addChanges(): array
 	{
-		// Only add if there are app changes
-		if (!$this->hasAppChanges())
+		// Only add if there are relevant changes
+		if (!$this->hasRelevantChanges())
 		{
 			return [
 				'success' => true,
-				'output' => 'No app changes to add',
+				'output' => 'No relevant changes to add',
 				'error' => '',
 			];
 		}
@@ -130,12 +140,12 @@ class GitHubService
 			];
 		}
 
-		// Check if there are app changes (not just log files)
-		if (!$this->hasAppChanges())
+		// Check if there are relevant changes (excluding schedule commands log)
+		if (!$this->hasRelevantChanges())
 		{
 			return [
 				'success' => true,
-				'message' => 'No app changes to commit',
+				'message' => 'No relevant changes to commit',
 			];
 		}
 

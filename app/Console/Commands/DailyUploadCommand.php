@@ -8,7 +8,7 @@ use Illuminate\Console\Command;
 class DailyUploadCommand extends Command
 {
 	protected $signature = 'daily:upload';
-	protected $description = 'Upload changes to GitHub if there are app file changes';
+	protected $description = 'Upload changes to GitHub if there are any new code updates or files created';
 
 	public function handle(GitHubService $gitHubService): int
 	{
