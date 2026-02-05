@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-02-05T12:30:34-06:00",
+    "shipment_date": "2000-01-08",
+    "shipment": {
+        "id": 411,
+        "tracking_number": "HP8-27226487",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-08",
+        "expected_delivery": "2000-01-08",
+        "status": "pending",
+        "total_packages": 273,
+        "notes": "Debitis earum ullam est dignissimos tenetur hic culpa ipsum dolorem autem atque qui.",
+        "inventory": [
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 24,
+                "received_amount": 15
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 21,
+                "received_amount": 19
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 49,
+                "received_amount": 48
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 15,
+                "received_amount": 12
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 20,
+                "received_amount": 4
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 18,
+                "received_amount": 3
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 25,
+                "received_amount": 1
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 30,
+                "received_amount": 16
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 31,
+                "received_amount": 11
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 10,
+                "received_amount": 2
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 30,
+                "received_amount": 27
+            }
+        ]
+    }
+}
