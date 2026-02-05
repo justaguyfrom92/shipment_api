@@ -73,3 +73,5 @@ Uploaded to GitHub...✓ Successfully uploaded to GitHub
   15  artisan:16
       Illuminate\Foundation\Application::handleCommand()
 
+true // app/Services/GitHubService.php:110
+true // app/Services/GitHubService.php:110

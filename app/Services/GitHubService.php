@@ -106,7 +106,10 @@ class GitHubService
 			];
 		}
 
-		if (!$this->hasChanges())
+		$changes = $this->hasChanges();
+dd($changes);
+
+		if (!$changes)
 		{
 			return [
 				'success' => true,
