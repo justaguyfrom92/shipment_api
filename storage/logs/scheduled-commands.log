@@ -51,3 +51,25 @@
   ⇂ '/usr/bin/php8.2' 'artisan' daily:upload >> 'storage/logs/scheduled-commands.log' 2>&1  
 
 Uploaded to GitHub...✓ Successfully uploaded to GitHub
+   ArgumentCountError 
+
+  Too few arguments to function App\Services\GitHubService::uploadToGitHub(), 0 passed in /var/www/html/php/laravel/laravel12/shipment_api/app/Console/Commands/DailyUploadCommand.php on line 35 and exactly 1 expected
+
+  at app/Services/GitHubService.php:89
+     85▕ 			'error' => $result->errorOutput(),
+     86▕ 		];
+     87▕ 	}
+     88▕ 
+  ➜  89▕ 	public function uploadToGitHub(string $commitMessage): array
+     90▕ 	{
+     91▕ 		if (!$this->checkGitInitialized())
+     92▕ 		{
+     93▕ 			return [
+
+  1   app/Console/Commands/DailyUploadCommand.php:35
+      App\Services\GitHubService::uploadToGitHub()
+      [2m+13 vendor frames [22m
+
+  15  artisan:16
+      Illuminate\Foundation\Application::handleCommand()
+

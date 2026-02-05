@@ -86,7 +86,7 @@ class GitHubService
 		];
 	}
 
-	public function uploadToGitHub(string $commitMessage): array
+	public function uploadToGitHub(): array
 	{
 		if (!$this->checkGitInitialized())
 		{
@@ -118,7 +118,7 @@ class GitHubService
 //echo('changes were made and committed');
 		}
 
-		$commitResult = $this->commit($commitMessage);
+		$commitResult = $this->commit('updated files :'.now());
 		if (!$commitResult['success'])
 		{
 			return [

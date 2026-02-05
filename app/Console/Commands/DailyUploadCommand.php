@@ -32,8 +32,7 @@ class DailyUploadCommand extends Command
 			}
 
 			***/
-			$commitMessage = $this->option('message') . ' - ' . now()->format('Y-m-d H:i:s');
-			$uploadResult = $gitHubService->uploadToGitHub($commitMessage);
+			$uploadResult = $gitHubService->uploadToGitHub();
 
 			if ($uploadResult['success'])
 			{
