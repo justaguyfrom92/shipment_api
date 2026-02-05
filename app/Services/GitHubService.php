@@ -107,7 +107,7 @@ class GitHubService
 		}
 
 		$changes = $this->hasChanges();
-dd($changes);
+dd($changes, now()->format('Y-m-d h:i:s'));
 
 		if (!$changes)
 		{
