@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-02-05T12:30:20-06:00",
+    "shipment_date": "2000-01-07",
+    "shipment": {
+        "id": 410,
+        "tracking_number": "YLF-79393903",
+        "supplier": "Supplier",
+        "shipment_date": "2000-01-07",
+        "expected_delivery": "2000-01-07",
+        "status": "pending",
+        "total_packages": 159,
+        "notes": "Modi voluptatem voluptatum officiis est voluptatum voluptas.",
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 20,
+                "received_amount": 15
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 18,
+                "received_amount": 6
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 5,
+                "received_amount": 3
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 32,
+                "received_amount": 7
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 32,
+                "received_amount": 4
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 48,
+                "received_amount": 43
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 4,
+                "received_amount": 3
+            }
+        ]
+    }
+}
