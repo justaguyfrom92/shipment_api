@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-02-06T01:00:01-06:00",
+    "shipment_date": "2026-02-06",
+    "shipment": {
+        "id": 413,
+        "tracking_number": "0ZP-80943341",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-06",
+        "expected_delivery": "2026-02-06",
+        "status": "pending",
+        "total_packages": 141,
+        "notes": "Magnam omnis dolorum asperiores sit sit odio eius ratione perferendis ut.",
+        "inventory": [
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 40,
+                "received_amount": 19
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 15,
+                "received_amount": 9
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 35,
+                "received_amount": 33
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 42,
+                "received_amount": 8
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 4,
+                "received_amount": 4
+            }
+        ]
+    }
+}
