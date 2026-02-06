@@ -50,24 +50,18 @@ class GitHubService
 
 		foreach ($lines as $line)
 		{
-			// Parse git status output: "XY filename"
-			// X = index status, Y = working tree status
-			// ?? = untracked, M = modified, A = added, etc.
 			if (empty(trim($line)))
 			{
 				continue;
 			}
 
-			// Extract filename (everything after first 3 characters)
 			$filename = trim(substr($line, 3));
 
-			// Exclude only the schedule commands log file
 			if (str_ends_with($filename, 'schedule-commands.log'))
 			{
 				continue;
 			}
 
-			// Any other file change is relevant (including storage/logs files)
 			return true;
 		}
 
@@ -76,7 +70,6 @@ class GitHubService
 
 	public function addChanges(): array
 	{
-		// Only add if there are relevant changes
 		if (!$this->hasRelevantChanges())
 		{
 			return [
