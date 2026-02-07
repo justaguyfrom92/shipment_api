@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-02-07T01:00:01-06:00",
+    "shipment_date": "2026-02-07",
+    "shipment": {
+        "id": 414,
+        "tracking_number": "2MS-69062410",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-07",
+        "expected_delivery": "2026-02-07",
+        "status": "pending",
+        "total_packages": 168,
+        "notes": "Impedit est eius voluptatum hic dignissimos atque.",
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 48,
+                "received_amount": 27
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 47,
+                "received_amount": 5
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 5,
+                "received_amount": 5
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 6,
+                "received_amount": 4
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 42,
+                "received_amount": 20
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 13,
+                "received_amount": 9
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 6,
+                "received_amount": 3
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 1,
+                "received_amount": 1
+            }
+        ]
+    }
+}
