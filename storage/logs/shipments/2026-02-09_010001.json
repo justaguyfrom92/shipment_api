@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-02-09T01:00:02-06:00",
+    "shipment_date": "2026-02-09",
+    "shipment": {
+        "id": 416,
+        "tracking_number": "FCF-99367333",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-09",
+        "expected_delivery": "2026-02-09",
+        "status": "pending",
+        "total_packages": 174,
+        "notes": "Hic alias sunt est nisi enim nam sunt consequatur illo.",
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 12,
+                "received_amount": 6
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 7,
+                "received_amount": 2
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 28,
+                "received_amount": 26
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 17,
+                "received_amount": 6
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 28,
+                "received_amount": 17
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 33,
+                "received_amount": 8
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 49,
+                "received_amount": 16
+            }
+        ]
+    }
+}
