@@ -1,0 +1,128 @@
+{
+    "generated_at": "2026-02-10T01:00:02-06:00",
+    "shipment_date": "2026-02-10",
+    "shipment": {
+        "id": 417,
+        "tracking_number": "M24-56143236",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-10",
+        "expected_delivery": "2026-02-10",
+        "status": "pending",
+        "total_packages": 394,
+        "notes": "Fuga architecto corporis harum quidem ex sunt nesciunt officia saepe aliquam quia minima et similique eos cumque molestiae repellendus et.",
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 45,
+                "received_amount": 40
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 10,
+                "received_amount": 5
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 12,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 44,
+                "received_amount": 2
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 45,
+                "received_amount": 34
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 22,
+                "received_amount": 21
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 48,
+                "received_amount": 35
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 26,
+                "received_amount": 6
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 5,
+                "received_amount": 1
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 34,
+                "received_amount": 14
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 11,
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 46,
+                "received_amount": 4
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 44,
+                "received_amount": 40
+            }
+        ]
+    }
+}
