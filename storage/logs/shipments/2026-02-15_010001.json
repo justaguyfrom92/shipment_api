@@ -1,0 +1,120 @@
+{
+    "generated_at": "2026-02-15T01:00:01-06:00",
+    "shipment_date": "2026-02-15",
+    "shipment": {
+        "id": 422,
+        "tracking_number": "SQU-30054947",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-15",
+        "expected_delivery": "2026-02-15",
+        "status": "pending",
+        "total_packages": 240,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 11,
+                "received_amount": 5
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 6,
+                "received_amount": 3
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 14,
+                "received_amount": 7
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 41,
+                "received_amount": 6
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 29,
+                "received_amount": 26
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 20,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 23,
+                "received_amount": 12
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 48,
+                "received_amount": 14
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 13,
+                "received_amount": 7
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 22,
+                "received_amount": 12
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 7,
+                "received_amount": 7
+            }
+        ]
+    }
+}
