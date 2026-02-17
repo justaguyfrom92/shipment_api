@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-02-17T01:00:02-06:00",
+    "shipment_date": "2026-02-17",
+    "shipment": {
+        "id": 424,
+        "tracking_number": "HLS-67421809",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-17",
+        "expected_delivery": "2026-02-17",
+        "status": "pending",
+        "total_packages": 61,
+        "notes": "Repellendus necessitatibus perferendis aperiam dolores impedit quia debitis labore nesciunt ab ut ut saepe dignissimos tempora sint totam.",
+        "inventory": [
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 11,
+                "received_amount": 3
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 23,
+                "received_amount": 21
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 9,
+                "received_amount": 1
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 5,
+                "received_amount": 4
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 13,
+                "received_amount": 2
+            }
+        ]
+    }
+}
