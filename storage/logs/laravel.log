@@ -174,3 +174,25 @@
 #17 /var/www/html/php/laravel/laravel12/shipment_api/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
 #18 {main}
 "} 
+[2026-02-20 02:00:06] local.ERROR: Scheduled command ['/usr/bin/php8.2' 'artisan' daily:upload] failed with exit code [1]. {"exception":"[object] (Exception(code: 0): Scheduled command ['/usr/bin/php8.2' 'artisan' daily:upload] failed with exit code [1]. at /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:207)
+[stacktrace]
+#0 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/View/Components/Task.php(41): Illuminate\\Console\\Scheduling\\ScheduleRunCommand->Illuminate\\Console\\Scheduling\\{closure}()
+#1 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/View/Components/Factory.php(59): Illuminate\\Console\\View\\Components\\Task->render()
+#2 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php(191): Illuminate\\Console\\View\\Components\\Factory->__call()
+#3 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php(134): Illuminate\\Console\\Scheduling\\ScheduleRunCommand->runEvent()
+#4 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Console\\Scheduling\\ScheduleRunCommand->handle()
+#5 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#6 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate\\Container\\Util::unwrapIfClosure()
+#7 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#8 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\\Container\\BoundMethod::call()
+#9 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate\\Container\\Container->call()
+#10 /var/www/html/php/laravel/laravel12/shipment_api/vendor/symfony/console/Command/Command.php(341): Illuminate\\Console\\Command->execute()
+#11 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run()
+#12 /var/www/html/php/laravel/laravel12/shipment_api/vendor/symfony/console/Application.php(1102): Illuminate\\Console\\Command->run()
+#13 /var/www/html/php/laravel/laravel12/shipment_api/vendor/symfony/console/Application.php(356): Symfony\\Component\\Console\\Application->doRunCommand()
+#14 /var/www/html/php/laravel/laravel12/shipment_api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#15 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony\\Component\\Console\\Application->run()
+#16 /var/www/html/php/laravel/laravel12/shipment_api/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#17 /var/www/html/php/laravel/laravel12/shipment_api/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#18 {main}
+"} 
