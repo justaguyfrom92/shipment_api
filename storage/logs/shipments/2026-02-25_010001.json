@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-02-25T01:00:02-06:00",
+    "shipment_date": "2026-02-25",
+    "shipment": {
+        "id": 432,
+        "tracking_number": "SJY-35381870",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-25",
+        "expected_delivery": "2026-02-25",
+        "status": "pending",
+        "total_packages": 179,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 36,
+                "received_amount": 13
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 36,
+                "received_amount": 26
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 19,
+                "received_amount": 17
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 21,
+                "received_amount": 2
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 46,
+                "received_amount": 28
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 11,
+                "received_amount": 10
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 10,
+                "received_amount": 7
+            }
+        ]
+    }
+}
