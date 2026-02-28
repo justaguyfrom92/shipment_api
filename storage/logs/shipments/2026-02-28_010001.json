@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-02-28T01:00:02-06:00",
+    "shipment_date": "2026-02-28",
+    "shipment": {
+        "id": 435,
+        "tracking_number": "XHI-77394819",
+        "supplier": "Supplier",
+        "shipment_date": "2026-02-28",
+        "expected_delivery": "2026-02-28",
+        "status": "pending",
+        "total_packages": 200,
+        "notes": "Sed et delectus est inventore natus sit doloremque quo quia quis praesentium consequuntur asperiores et praesentium.",
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 29,
+                "received_amount": 11
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 31,
+                "received_amount": 7
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 44,
+                "received_amount": 21
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 48,
+                "received_amount": 44
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 48,
+                "received_amount": 26
+            }
+        ]
+    }
+}
