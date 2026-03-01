@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-03-01T01:00:03-06:00",
+    "shipment_date": "2026-03-01",
+    "shipment": {
+        "id": 436,
+        "tracking_number": "BMZ-57703891",
+        "supplier": "Supplier",
+        "shipment_date": "2026-03-01",
+        "expected_delivery": "2026-03-01",
+        "status": "pending",
+        "total_packages": 279,
+        "notes": "Numquam qui necessitatibus et sint eum aspernatur totam perferendis consectetur sequi et blanditiis a aliquam et.",
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 34,
+                "received_amount": 3
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 31,
+                "received_amount": 21
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 12,
+                "received_amount": 3
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 20,
+                "received_amount": 9
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 21,
+                "received_amount": 11
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 10,
+                "received_amount": 1
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 31,
+                "received_amount": 11
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 48,
+                "received_amount": 21
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 40,
+                "received_amount": 25
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 32,
+                "received_amount": 13
+            }
+        ]
+    }
+}
