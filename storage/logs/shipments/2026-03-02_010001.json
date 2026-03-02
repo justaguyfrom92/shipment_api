@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-03-02T01:00:02-06:00",
+    "shipment_date": "2026-03-02",
+    "shipment": {
+        "id": 437,
+        "tracking_number": "VN1-49733013",
+        "supplier": "Supplier",
+        "shipment_date": "2026-03-02",
+        "expected_delivery": "2026-03-02",
+        "status": "pending",
+        "total_packages": 171,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 50,
+                "received_amount": 20
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 19,
+                "received_amount": 13
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 43,
+                "received_amount": 19
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 13,
+                "received_amount": 7
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 22,
+                "received_amount": 2
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 24,
+                "received_amount": 2
+            }
+        ]
+    }
+}
