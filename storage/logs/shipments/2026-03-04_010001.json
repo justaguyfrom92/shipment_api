@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-03-04T01:00:02-06:00",
+    "shipment_date": "2026-03-04",
+    "shipment": {
+        "id": 439,
+        "tracking_number": "X49-56068435",
+        "supplier": "Supplier",
+        "shipment_date": "2026-03-04",
+        "expected_delivery": "2026-03-04",
+        "status": "pending",
+        "total_packages": 141,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 34,
+                "received_amount": 1
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 24,
+                "received_amount": 3
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 26,
+                "received_amount": 13
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 46,
+                "received_amount": 1
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 11,
+                "received_amount": 4
+            }
+        ]
+    }
+}
