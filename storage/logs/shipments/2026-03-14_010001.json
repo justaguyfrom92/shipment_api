@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-03-14T01:00:01-05:00",
+    "shipment_date": "2026-03-14",
+    "shipment": {
+        "id": 449,
+        "tracking_number": "QDA-56043633",
+        "supplier": "Supplier",
+        "shipment_date": "2026-03-14",
+        "expected_delivery": "2026-03-14",
+        "status": "pending",
+        "total_packages": 238,
+        "notes": "Aut neque eius maiores natus quia et assumenda quasi voluptas deserunt.",
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 47,
+                "received_amount": 12
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 17,
+                "received_amount": 8
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 40,
+                "received_amount": 30
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 29,
+                "received_amount": 23
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 45,
+                "received_amount": 43
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 42,
+                "received_amount": 21
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 15,
+                "received_amount": 8
+            }
+        ]
+    }
+}
