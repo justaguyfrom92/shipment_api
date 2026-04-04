@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-04-04T01:00:02-05:00",
+    "shipment_date": "2026-04-04",
+    "shipment": {
+        "id": 470,
+        "tracking_number": "FFE-40928033",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-04",
+        "expected_delivery": "2026-04-04",
+        "status": "pending",
+        "total_packages": 171,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 16,
+                "received_amount": 6
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 32,
+                "received_amount": 19
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 6,
+                "received_amount": 1
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 20,
+                "received_amount": 15
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 11,
+                "received_amount": 4
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 40,
+                "received_amount": 13
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 46,
+                "received_amount": 23
+            }
+        ]
+    }
+}
