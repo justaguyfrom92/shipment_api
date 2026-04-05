@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-04-05T01:00:01-05:00",
+    "shipment_date": "2026-04-05",
+    "shipment": {
+        "id": 471,
+        "tracking_number": "ODB-44560641",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-05",
+        "expected_delivery": "2026-04-05",
+        "status": "pending",
+        "total_packages": 141,
+        "notes": "Assumenda reiciendis et nam exercitationem consequuntur quidem dolorem modi doloribus sit quam expedita ipsum natus ut similique omnis modi.",
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 16,
+                "received_amount": 16
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 46,
+                "received_amount": 5
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 44,
+                "received_amount": 29
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 18,
+                "received_amount": 1
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 16,
+                "received_amount": 9
+            }
+        ]
+    }
+}
