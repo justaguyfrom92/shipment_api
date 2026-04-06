@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-04-06T01:00:02-05:00",
+    "shipment_date": "2026-04-06",
+    "shipment": {
+        "id": 472,
+        "tracking_number": "X1D-69654751",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-06",
+        "expected_delivery": "2026-04-06",
+        "status": "pending",
+        "total_packages": 265,
+        "notes": "Quia eum asperiores dolorum ea ipsum est sit quas repudiandae et impedit.",
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 39,
+                "received_amount": 13
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 34,
+                "received_amount": 31
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 43,
+                "received_amount": 21
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 45,
+                "received_amount": 21
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 16,
+                "received_amount": 14
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 13,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 30,
+                "received_amount": 25
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 19,
+                "received_amount": 2
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 3,
+                "received_amount": 1
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 4,
+                "received_amount": 4
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 19,
+                "received_amount": 3
+            }
+        ]
+    }
+}
