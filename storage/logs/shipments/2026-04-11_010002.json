@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-04-11T01:00:02-05:00",
+    "shipment_date": "2026-04-11",
+    "shipment": {
+        "id": 477,
+        "tracking_number": "UAE-81431270",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-11",
+        "expected_delivery": "2026-04-11",
+        "status": "pending",
+        "total_packages": 135,
+        "notes": "Quo ut aut nesciunt occaecati culpa exercitationem eius ea quis id enim provident incidunt minima sint ut.",
+        "inventory": [
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 27,
+                "received_amount": 13
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 25,
+                "received_amount": 7
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 26,
+                "received_amount": 1
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 43,
+                "received_amount": 11
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 7,
+                "received_amount": 1
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 5,
+                "received_amount": 1
+            }
+        ]
+    }
+}
