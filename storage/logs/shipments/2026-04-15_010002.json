@@ -1,0 +1,112 @@
+{
+    "generated_at": "2026-04-15T01:00:03-05:00",
+    "shipment_date": "2026-04-15",
+    "shipment": {
+        "id": 479,
+        "tracking_number": "UUP-44710682",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-15",
+        "expected_delivery": "2026-04-15",
+        "status": "pending",
+        "total_packages": 294,
+        "notes": "Beatae voluptatibus molestiae sunt optio ea necessitatibus quam consequuntur repudiandae consequuntur recusandae et pariatur et et nisi.",
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 4,
+                "received_amount": 2
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 36,
+                "received_amount": 26
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 15,
+                "received_amount": 9
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 47,
+                "received_amount": 23
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 16,
+                "received_amount": 10
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 12,
+                "received_amount": 7
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 31,
+                "received_amount": 11
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 19,
+                "received_amount": 19
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 49,
+                "received_amount": 7
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 40,
+                "received_amount": 40
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 21,
+                "received_amount": 15
+            }
+        ]
+    }
+}
