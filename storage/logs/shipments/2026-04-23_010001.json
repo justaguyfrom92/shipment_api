@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-04-23T01:00:02-05:00",
+    "shipment_date": "2026-04-23",
+    "shipment": {
+        "id": 487,
+        "tracking_number": "5LA-36148325",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-23",
+        "expected_delivery": "2026-04-23",
+        "status": "pending",
+        "total_packages": 238,
+        "notes": "Non odit perferendis et quas et reiciendis quo nobis sed tempore quia eaque nobis odit dolorem unde est in neque sed illum maiores recusandae rerum architecto.",
+        "inventory": [
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 42,
+                "received_amount": 2
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 50,
+                "received_amount": 38
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 48,
+                "received_amount": 7
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 50,
+                "received_amount": 11
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 28,
+                "received_amount": 6
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 20,
+                "received_amount": 12
+            }
+        ]
+    }
+}
