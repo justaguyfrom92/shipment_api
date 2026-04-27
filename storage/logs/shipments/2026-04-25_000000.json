@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-04-26T10:34:46-05:00",
+    "shipment_date": "2026-04-25",
+    "shipment": {
+        "id": 496,
+        "tracking_number": "4Q1-86401241",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-25",
+        "expected_delivery": "2026-04-25",
+        "status": "pending",
+        "total_packages": 236,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 25,
+                "received_amount": 13
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 9,
+                "received_amount": 1
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 45,
+                "received_amount": 23
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 9,
+                "received_amount": 4
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 13,
+                "received_amount": 11
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 36,
+                "received_amount": 25
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 31,
+                "received_amount": 19
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 29,
+                "received_amount": 23
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 38,
+                "received_amount": 20
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 1,
+                "received_amount": 1
+            }
+        ]
+    }
+}
