@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-04-28T01:00:02-05:00",
+    "shipment_date": "2026-04-28",
+    "shipment": {
+        "id": 499,
+        "tracking_number": "FBJ-71895996",
+        "supplier": "Supplier",
+        "shipment_date": "2026-04-28",
+        "expected_delivery": "2026-04-28",
+        "status": "pending",
+        "total_packages": 274,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 33,
+                "received_amount": 12
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 39,
+                "received_amount": 15
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 44,
+                "received_amount": 38
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 41,
+                "received_amount": 19
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 33,
+                "received_amount": 23
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 48,
+                "received_amount": 39
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 36,
+                "received_amount": 14
+            }
+        ]
+    }
+}
