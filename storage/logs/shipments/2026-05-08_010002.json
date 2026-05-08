@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-05-08T01:00:02-05:00",
+    "shipment_date": "2026-05-08",
+    "shipment": {
+        "id": 509,
+        "tracking_number": "RPQ-80468371",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-08",
+        "expected_delivery": "2026-05-08",
+        "status": "pending",
+        "total_packages": 193,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 42,
+                "received_amount": 36
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 46,
+                "received_amount": 4
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 18,
+                "received_amount": 13
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 18,
+                "received_amount": 7
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 18,
+                "received_amount": 18
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 30,
+                "received_amount": 17
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 21,
+                "received_amount": 7
+            }
+        ]
+    }
+}
