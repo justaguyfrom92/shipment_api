@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-05-13T01:00:02-05:00",
+    "shipment_date": "2026-05-13",
+    "shipment": {
+        "id": 514,
+        "tracking_number": "QUB-34724798",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-13",
+        "expected_delivery": "2026-05-13",
+        "status": "pending",
+        "total_packages": 123,
+        "notes": "Tenetur et consequatur accusantium nulla sed cum ipsam quod vero possimus in itaque.",
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 36,
+                "received_amount": 19
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 5,
+                "received_amount": 2
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 35,
+                "received_amount": 27
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 23,
+                "received_amount": 16
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 24,
+                "received_amount": 18
+            }
+        ]
+    }
+}
