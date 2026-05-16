@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-05-16T01:00:01-05:00",
+    "shipment_date": "2026-05-16",
+    "shipment": {
+        "id": 517,
+        "tracking_number": "OOO-15346600",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-16",
+        "expected_delivery": "2026-05-16",
+        "status": "pending",
+        "total_packages": 137,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 19,
+                "received_amount": 6
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 29,
+                "received_amount": 17
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 21,
+                "received_amount": 11
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 18,
+                "received_amount": 11
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 44,
+                "received_amount": 16
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 3,
+                "received_amount": 2
+            }
+        ]
+    }
+}
