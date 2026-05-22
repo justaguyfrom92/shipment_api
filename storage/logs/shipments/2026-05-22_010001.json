@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-05-22T01:00:02-05:00",
+    "shipment_date": "2026-05-22",
+    "shipment": {
+        "id": 523,
+        "tracking_number": "FDO-54932772",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-22",
+        "expected_delivery": "2026-05-22",
+        "status": "pending",
+        "total_packages": 217,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 42,
+                "received_amount": 20
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 35,
+                "received_amount": 32
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 22,
+                "received_amount": 13
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 43,
+                "received_amount": 16
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 16,
+                "received_amount": 12
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 17,
+                "received_amount": 14
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 39,
+                "received_amount": 22
+            }
+        ]
+    }
+}
