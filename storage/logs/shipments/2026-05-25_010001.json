@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-05-25T01:00:01-05:00",
+    "shipment_date": "2026-05-25",
+    "shipment": {
+        "id": 526,
+        "tracking_number": "K4P-20273601",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-25",
+        "expected_delivery": "2026-05-25",
+        "status": "pending",
+        "total_packages": 103,
+        "notes": "Voluptas et magnam dolore quis expedita amet.",
+        "inventory": [
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 20,
+                "received_amount": 7
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 20,
+                "received_amount": 18
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 28,
+                "received_amount": 4
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 14,
+                "received_amount": 11
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 15,
+                "received_amount": 14
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 6,
+                "received_amount": 4
+            }
+        ]
+    }
+}
