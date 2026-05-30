@@ -36,6 +36,7 @@ class ShipmentExportService
 			];
 		}
 
+		$date->setTime(0, 0, 0);
 		$timestamp = $date->format('Y-m-d_His');
 		$filename = "{$shipmentsDir}/{$timestamp}.json";
 

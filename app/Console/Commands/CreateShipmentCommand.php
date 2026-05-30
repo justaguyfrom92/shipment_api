@@ -11,13 +11,15 @@ use Illuminate\Support\Str;
 
 class CreateShipmentCommand extends Command
 {
-	protected $signature = 'shipment:create {--start-date=} {--end-date=}';
+	protected $signature = 'shipment:create {--start-date=} {--end-date=} {--override=}';
 	protected $description = 'Create shipments for specific date or date range';
 
 	public function handle(ShipmentExportService $exportService): int
 	{
 		$startDate = $this->option('start-date');
 		$endDate = $this->option('end-date');
+		$override = (string) $this->option('override');
+		$override = Str::contains(strtolower($override), ['y', 'true']);
 
 		if (!$startDate)
 		{
@@ -25,6 +27,7 @@ class CreateShipmentCommand extends Command
 			echo('Examples:');
 			echo('  php artisan shipment:create --start-date=2026-01-15');
 			echo('  php artisan shipment:create --start-date=2026-01-01 --end-date=2026-01-31');
+			echo('  php artisan shipment:create --start-date=2026-01-01 --end-date=2026-01-31 --override=true|false');
 			return self::FAILURE;
 		}
 
@@ -50,11 +53,11 @@ class CreateShipmentCommand extends Command
 
 			if ($start->equalTo($end))
 			{
-				echo("Creating shipment for {$start->format('Y-m-d')}...");
+				echo("Creating shipment for {$start->format('Y-m-d')}...\n");
 			}
 			else
 			{
-				echo("Creating shipments from {$start->format('Y-m-d')} to {$end->format('Y-m-d')}...");
+				echo("Creating shipments from {$start->format('Y-m-d')} to {$end->format('Y-m-d')}...\n");
 			}
 
 			$created = 0;
@@ -65,33 +68,34 @@ class CreateShipmentCommand extends Command
 			{
 				$existingShipment = Shipment::whereDate('shipment_date', $current->toDateString())->first();
 
-				if ($existingShipment)
+				if ($existingShipment && !$override)
 				{
-					echo("  Skipped {$current->format('Y-m-d')} - already exists");
+					echo("  Skipped {$current->format('Y-m-d')} - already exists\n");
 					$skipped++;
 					$current->addDay();
 					continue;
 				}
 
 				$shipment = $this->createShipmentForDate($current);
-				echo("  ✓ Created shipment for {$current->format('Y-m-d')} - {$shipment->tracking_number}");
+				echo("  ✓ Created shipment for {$current->format('Y-m-d')} - {$shipment->tracking_number}\n");
 
 				// Export shipment log
 				$exportResult = $exportService->exportShipmentForDate($current);
 				if ($exportResult['success'])
 				{
-					echo("    ✓ Exported log: {$exportResult['filename']}");
+					echo("    ✓ Exported log: {$exportResult['filename']}\n");
+					$shipment->filename = $exportResult['filename'] ?? 'FILENAME';
 				}
 
 				$created++;
 				$current->addDay();
 			}
 
-			echo("\nSummary:");
-			echo("  Created: {$created}");
+			echo("\nSummary:\n");
+			echo("  Created: {$created}\n");
 			if ($skipped > 0)
 			{
-				echo("  Skipped: {$skipped}");
+				echo("  Skipped: {$skipped}\n");
 			}
 
 			return self::SUCCESS;

@@ -17,7 +17,8 @@ class Shipment extends Model
 		'expected_delivery',
 		'status',
 		'total_packages',
-		'notes'
+		'notes',
+		'filename'
 	];
 
 	protected $casts = [

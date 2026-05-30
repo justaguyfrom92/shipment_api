@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-05-30T16:57:47-05:00",
+    "shipment_date": "2026-05-30",
+    "shipment": {
+        "id": 539,
+        "tracking_number": "Y6H-63453975",
+        "supplier": "Supplier",
+        "shipment_date": "2026-05-30",
+        "expected_delivery": "2026-05-30",
+        "status": "pending",
+        "total_packages": 174,
+        "notes": "Harum eos distinctio exercitationem dolores provident non quas maxime earum laudantium necessitatibus ullam iure officiis quibusdam sunt sequi autem rerum est et qui exercitationem.",
+        "inventory": [
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 30,
+                "received_amount": 2
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 39,
+                "received_amount": 28
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 50,
+                "received_amount": 16
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 39,
+                "received_amount": 2
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 5,
+                "received_amount": 3
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 11,
+                "received_amount": 7
+            }
+        ]
+    }
+}
