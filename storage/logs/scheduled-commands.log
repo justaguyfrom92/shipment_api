@@ -380,3 +380,10 @@ Creating shipment for 2026-05-29...Error creating shipments: SQLSTATE[HY000]: Ge
 ✓ Successfully uploaded to GitHub
 Creating shipment for 2026-05-30...Error creating shipments: SQLSTATE[HY000]: General error: 1021 Disk got full writing '.(temporary)' (Errcode: 28 "No space left on device") (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: shipment, SQL: select * from `products` order by RAND() limit 12)Starting daily upload to GitHub...
 ✓ Successfully uploaded to GitHub
+Creating shipment for 2026-05-31...
+  ✓ Created shipment for 2026-05-31 - JQR-27307682
+    ✓ Exported log: /var/www/html/php/laravel/laravel12/shipment_api/storage/logs/shipments/2026-05-31_000000.json
+
+Summary:
+  Created: 1
+Starting daily upload to GitHub...
