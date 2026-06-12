@@ -1,0 +1,120 @@
+{
+    "generated_at": "2026-06-12T01:00:02-05:00",
+    "shipment_date": "2026-06-12",
+    "shipment": {
+        "id": 551,
+        "tracking_number": "L5U-80260956",
+        "supplier": "Supplier",
+        "shipment_date": "2026-06-12",
+        "expected_delivery": "2026-06-12",
+        "status": "pending",
+        "total_packages": 336,
+        "notes": "Nemo accusantium eos iste odio dolorum nostrum perferendis.",
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 34,
+                "received_amount": 2
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 25,
+                "received_amount": 7
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 46,
+                "received_amount": 38
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 14,
+                "received_amount": 11
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 20,
+                "received_amount": 19
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 3,
+                "received_amount": 2
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 22,
+                "received_amount": 7
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 39,
+                "received_amount": 10
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 41,
+                "received_amount": 19
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 13,
+                "received_amount": 2
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 26,
+                "received_amount": 25
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 50,
+                "received_amount": 4
+            }
+        ]
+    }
+}
