@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-06-15T01:00:01-05:00",
+    "shipment_date": "2026-06-15",
+    "shipment": {
+        "id": 554,
+        "tracking_number": "OJL-43010586",
+        "supplier": "Supplier",
+        "shipment_date": "2026-06-15",
+        "expected_delivery": "2026-06-15",
+        "status": "pending",
+        "total_packages": 137,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 26,
+                "received_amount": 24
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 22,
+                "received_amount": 21
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 40,
+                "received_amount": 34
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 27,
+                "received_amount": 19
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 22,
+                "received_amount": 16
+            }
+        ]
+    }
+}
