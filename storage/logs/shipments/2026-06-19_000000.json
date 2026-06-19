@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-06-19T01:00:01-05:00",
+    "shipment_date": "2026-06-19",
+    "shipment": {
+        "id": 558,
+        "tracking_number": "Z4P-60703112",
+        "supplier": "Supplier",
+        "shipment_date": "2026-06-19",
+        "expected_delivery": "2026-06-19",
+        "status": "pending",
+        "total_packages": 318,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 46,
+                "received_amount": 18
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 48,
+                "received_amount": 16
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 9,
+                "received_amount": 3
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 28,
+                "received_amount": 8
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 2,
+                "received_amount": 2
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 35,
+                "received_amount": 26
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 39,
+                "received_amount": 2
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 49,
+                "received_amount": 5
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 26,
+                "received_amount": 9
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 35,
+                "received_amount": 26
+            }
+        ]
+    }
+}
