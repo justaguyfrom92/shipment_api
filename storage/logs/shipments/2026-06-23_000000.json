@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-06-25T22:17:06-05:00",
+    "shipment_date": "2026-06-23",
+    "shipment": {
+        "id": 562,
+        "tracking_number": "UFD-43967983",
+        "supplier": "Supplier",
+        "shipment_date": "2026-06-23",
+        "expected_delivery": "2026-06-23",
+        "status": "pending",
+        "total_packages": 153,
+        "notes": "Fugiat ut illum eos esse id dolore eum odio alias velit impedit et.",
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 47,
+                "received_amount": 7
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 44,
+                "received_amount": 23
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 32,
+                "received_amount": 9
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 12,
+                "received_amount": 12
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 18,
+                "received_amount": 11
+            }
+        ]
+    }
+}
