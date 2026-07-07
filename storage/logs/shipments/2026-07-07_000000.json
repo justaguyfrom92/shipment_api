@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-07-07T01:00:03-05:00",
+    "shipment_date": "2026-07-07",
+    "shipment": {
+        "id": 576,
+        "tracking_number": "6WL-16908227",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-07",
+        "expected_delivery": "2026-07-07",
+        "status": "pending",
+        "total_packages": 156,
+        "notes": "Porro non et sunt rerum harum et impedit quae quos corporis minima atque possimus voluptatum optio est dolorem iusto autem.",
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 25,
+                "received_amount": 4
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 28,
+                "received_amount": 25
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 14,
+                "received_amount": 1
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 14,
+                "received_amount": 11
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 36,
+                "received_amount": 19
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 27,
+                "received_amount": 10
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 7,
+                "received_amount": 1
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 5,
+                "received_amount": 3
+            }
+        ]
+    }
+}
