@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-07-08T01:00:02-05:00",
+    "shipment_date": "2026-07-08",
+    "shipment": {
+        "id": 577,
+        "tracking_number": "QR3-32542915",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-08",
+        "expected_delivery": "2026-07-08",
+        "status": "pending",
+        "total_packages": 237,
+        "notes": "Non enim natus temporibus aut quasi similique ratione optio voluptates.",
+        "inventory": [
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 26,
+                "received_amount": 19
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 14,
+                "received_amount": 14
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 41,
+                "received_amount": 38
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 17,
+                "received_amount": 2
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 6,
+                "received_amount": 1
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 44,
+                "received_amount": 27
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 34,
+                "received_amount": 18
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 49,
+                "received_amount": 11
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 6,
+                "received_amount": 4
+            }
+        ]
+    }
+}
