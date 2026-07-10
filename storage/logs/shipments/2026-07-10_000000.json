@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-07-10T01:00:01-05:00",
+    "shipment_date": "2026-07-10",
+    "shipment": {
+        "id": 579,
+        "tracking_number": "NLC-32763605",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-10",
+        "expected_delivery": "2026-07-10",
+        "status": "pending",
+        "total_packages": 197,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 37,
+                "received_amount": 22
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 3,
+                "received_amount": 1
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 33,
+                "received_amount": 18
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 32,
+                "received_amount": 8
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 38,
+                "received_amount": 33
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 11,
+                "received_amount": 2
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 42,
+                "received_amount": 19
+            }
+        ]
+    }
+}
