@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-07-12T01:00:01-05:00",
+    "shipment_date": "2026-07-12",
+    "shipment": {
+        "id": 581,
+        "tracking_number": "CHA-38663922",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-12",
+        "expected_delivery": "2026-07-12",
+        "status": "pending",
+        "total_packages": 76,
+        "notes": "At nemo est itaque voluptatem minus aliquid eius laborum magnam dolor ex magni inventore et natus.",
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 13,
+                "received_amount": 6
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 25,
+                "received_amount": 15
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 11,
+                "received_amount": 9
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 26,
+                "received_amount": 18
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 1,
+                "received_amount": 1
+            }
+        ]
+    }
+}
