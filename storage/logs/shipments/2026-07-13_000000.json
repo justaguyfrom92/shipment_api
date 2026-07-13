@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-07-13T01:00:02-05:00",
+    "shipment_date": "2026-07-13",
+    "shipment": {
+        "id": 582,
+        "tracking_number": "NJ6-85836549",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-13",
+        "expected_delivery": "2026-07-13",
+        "status": "pending",
+        "total_packages": 160,
+        "notes": "Magni corporis ipsam nesciunt voluptates et autem et facilis voluptas eveniet aut architecto.",
+        "inventory": [
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 12,
+                "received_amount": 8
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 42,
+                "received_amount": 21
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 30,
+                "received_amount": 15
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 33,
+                "received_amount": 8
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 10,
+                "received_amount": 6
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 33,
+                "received_amount": 31
+            }
+        ]
+    }
+}
