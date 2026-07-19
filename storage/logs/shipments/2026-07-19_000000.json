@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-07-19T01:00:01-05:00",
+    "shipment_date": "2026-07-19",
+    "shipment": {
+        "id": 588,
+        "tracking_number": "L32-46445066",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-19",
+        "expected_delivery": "2026-07-19",
+        "status": "pending",
+        "total_packages": 287,
+        "notes": "Doloremque necessitatibus tempore pariatur rerum unde perspiciatis aut quasi sunt enim molestias asperiores commodi est.",
+        "inventory": [
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 22,
+                "received_amount": 5
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 12,
+                "received_amount": 4
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 12,
+                "received_amount": 11
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 43,
+                "received_amount": 14
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 41,
+                "received_amount": 35
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 34,
+                "received_amount": 2
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 42,
+                "received_amount": 30
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 18,
+                "received_amount": 13
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 35,
+                "received_amount": 6
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 28,
+                "received_amount": 6
+            }
+        ]
+    }
+}
