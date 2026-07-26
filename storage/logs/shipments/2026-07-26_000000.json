@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-07-26T01:00:01-05:00",
+    "shipment_date": "2026-07-26",
+    "shipment": {
+        "id": 595,
+        "tracking_number": "MFF-89513360",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-26",
+        "expected_delivery": "2026-07-26",
+        "status": "pending",
+        "total_packages": 123,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 24,
+                "received_amount": 3
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 21,
+                "received_amount": 10
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 17,
+                "received_amount": 3
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 10,
+                "received_amount": 4
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 6,
+                "received_amount": 6
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 44,
+                "received_amount": 11
+            }
+        ]
+    }
+}
