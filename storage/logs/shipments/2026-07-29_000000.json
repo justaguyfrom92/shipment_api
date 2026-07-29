@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-07-29T01:00:01-05:00",
+    "shipment_date": "2026-07-29",
+    "shipment": {
+        "id": 598,
+        "tracking_number": "SVF-82450932",
+        "supplier": "Supplier",
+        "shipment_date": "2026-07-29",
+        "expected_delivery": "2026-07-29",
+        "status": "pending",
+        "total_packages": 213,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 42,
+                "received_amount": 4
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 12,
+                "received_amount": 10
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 38,
+                "received_amount": 19
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 46,
+                "received_amount": 8
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 38,
+                "received_amount": 13
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 37,
+                "received_amount": 32
+            }
+        ]
+    }
+}
