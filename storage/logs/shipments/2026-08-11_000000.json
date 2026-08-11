@@ -1,0 +1,112 @@
+{
+    "generated_at": "2026-08-11T01:00:01-05:00",
+    "shipment_date": "2026-08-11",
+    "shipment": {
+        "id": 610,
+        "tracking_number": "BXA-42359282",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-11",
+        "expected_delivery": "2026-08-11",
+        "status": "pending",
+        "total_packages": 313,
+        "notes": "Quibusdam blanditiis nemo velit perferendis voluptatem quis nihil minima omnis natus eaque ex alias in aut eligendi.",
+        "inventory": [
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 27,
+                "received_amount": 1
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 21,
+                "received_amount": 10
+            },
+            {
+                "product_id": 19,
+                "product_name": "Lucifer Series",
+                "sku": "EFV-8027",
+                "unit_price": "4418.27",
+                "requested_amount": 42,
+                "received_amount": 13
+            },
+            {
+                "product_id": 9,
+                "product_name": "Playmobil City Bus",
+                "sku": "VZX-1241",
+                "unit_price": "2672.66",
+                "requested_amount": 39,
+                "received_amount": 6
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 30,
+                "received_amount": 10
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 44,
+                "received_amount": 44
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 44,
+                "received_amount": 22
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 23,
+                "received_amount": 5
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 23,
+                "received_amount": 22
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 7,
+                "received_amount": 6
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 12,
+                "received_amount": 3
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 1,
+                "received_amount": 1
+            }
+        ]
+    }
+}
