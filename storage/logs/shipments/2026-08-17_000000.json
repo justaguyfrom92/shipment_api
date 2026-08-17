@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-08-17T01:00:01-05:00",
+    "shipment_date": "2026-08-17",
+    "shipment": {
+        "id": 618,
+        "tracking_number": "JFL-94823613",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-17",
+        "expected_delivery": "2026-08-17",
+        "status": "pending",
+        "total_packages": 110,
+        "notes": "Maiores eum sequi sapiente ullam commodi et in sit temporibus officiis provident nemo ut.",
+        "inventory": [
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 20,
+                "received_amount": 2
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 32,
+                "received_amount": 5
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 10,
+                "received_amount": 2
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 9,
+                "received_amount": 8
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 15,
+                "received_amount": 11
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 20,
+                "received_amount": 12
+            }
+        ]
+    }
+}
