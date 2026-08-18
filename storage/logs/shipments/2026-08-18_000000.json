@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-08-18T01:00:01-05:00",
+    "shipment_date": "2026-08-18",
+    "shipment": {
+        "id": 619,
+        "tracking_number": "LGJ-61640569",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-18",
+        "expected_delivery": "2026-08-18",
+        "status": "pending",
+        "total_packages": 108,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 28,
+                "received_amount": 23
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 27,
+                "received_amount": 1
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 14,
+                "received_amount": 13
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 12,
+                "received_amount": 2
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 27,
+                "received_amount": 14
+            }
+        ]
+    }
+}
