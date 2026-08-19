@@ -1,0 +1,72 @@
+{
+    "generated_at": "2026-08-19T01:00:02-05:00",
+    "shipment_date": "2026-08-19",
+    "shipment": {
+        "id": 620,
+        "tracking_number": "LGR-26105034",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-19",
+        "expected_delivery": "2026-08-19",
+        "status": "pending",
+        "total_packages": 167,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 29,
+                "received_amount": 2
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 13,
+                "received_amount": 1
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 47,
+                "received_amount": 1
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 29,
+                "received_amount": 18
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 35,
+                "received_amount": 9
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 10,
+                "received_amount": 7
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 4,
+                "received_amount": 3
+            }
+        ]
+    }
+}
