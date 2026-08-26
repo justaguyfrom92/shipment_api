@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-08-26T01:00:01-05:00",
+    "shipment_date": "2026-08-26",
+    "shipment": {
+        "id": 627,
+        "tracking_number": "CEI-77495328",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-26",
+        "expected_delivery": "2026-08-26",
+        "status": "pending",
+        "total_packages": 258,
+        "notes": "Officiis sint praesentium ut quia repellat et qui unde.",
+        "inventory": [
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 45,
+                "received_amount": 30
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 31,
+                "received_amount": 21
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 46,
+                "received_amount": 4
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 17,
+                "received_amount": 16
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 18,
+                "received_amount": 4
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 11,
+                "received_amount": 3
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 17,
+                "received_amount": 17
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 27,
+                "received_amount": 24
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 25,
+                "received_amount": 6
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 21,
+                "received_amount": 2
+            }
+        ]
+    }
+}
