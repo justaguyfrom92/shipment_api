@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-08-30T01:00:01-05:00",
+    "shipment_date": "2026-08-30",
+    "shipment": {
+        "id": 631,
+        "tracking_number": "EVP-68363251",
+        "supplier": "Supplier",
+        "shipment_date": "2026-08-30",
+        "expected_delivery": "2026-08-30",
+        "status": "pending",
+        "total_packages": 321,
+        "notes": "Sed vel quaerat sequi enim sapiente autem nam neque id aliquid aspernatur voluptatem.",
+        "inventory": [
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 16,
+                "received_amount": 4
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 4,
+                "received_amount": 1
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 50,
+                "received_amount": 44
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 36,
+                "received_amount": 17
+            },
+            {
+                "product_id": 15,
+                "product_name": "Fisher-Price Little People Friends",
+                "sku": "JVB-0893",
+                "unit_price": "3903.06",
+                "requested_amount": 40,
+                "received_amount": 19
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 43,
+                "received_amount": 41
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 42,
+                "received_amount": 3
+            },
+            {
+                "product_id": 12,
+                "product_name": "Cross Trainers",
+                "sku": "IZX-3114",
+                "unit_price": "3294.66",
+                "requested_amount": 10,
+                "received_amount": 1
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 45,
+                "received_amount": 28
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 35,
+                "received_amount": 25
+            }
+        ]
+    }
+}
