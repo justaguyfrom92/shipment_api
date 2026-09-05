@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-09-05T01:00:02-05:00",
+    "shipment_date": "2026-09-05",
+    "shipment": {
+        "id": 637,
+        "tracking_number": "9BJ-96603142",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-05",
+        "expected_delivery": "2026-09-05",
+        "status": "pending",
+        "total_packages": 120,
+        "notes": null,
+        "inventory": [
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 14,
+                "received_amount": 1
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 15,
+                "received_amount": 5
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 48,
+                "received_amount": 40
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 26,
+                "received_amount": 17
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 17,
+                "received_amount": 6
+            }
+        ]
+    }
+}
