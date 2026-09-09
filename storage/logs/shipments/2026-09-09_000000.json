@@ -1,0 +1,104 @@
+{
+    "generated_at": "2026-09-09T01:00:01-05:00",
+    "shipment_date": "2026-09-09",
+    "shipment": {
+        "id": 641,
+        "tracking_number": "7YG-81638718",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-09",
+        "expected_delivery": "2026-09-09",
+        "status": "pending",
+        "total_packages": 227,
+        "notes": "Aspernatur numquam nihil dicta rerum ipsa quia excepturi ut omnis nihil.",
+        "inventory": [
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 2,
+                "received_amount": 1
+            },
+            {
+                "product_id": 14,
+                "product_name": "Stuffed Giraffe",
+                "sku": "HPF-7031",
+                "unit_price": "4551.54",
+                "requested_amount": 14,
+                "received_amount": 3
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 18,
+                "received_amount": 9
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 12,
+                "received_amount": 8
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 12,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 15,
+                "received_amount": 15
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 22,
+                "received_amount": 4
+            },
+            {
+                "product_id": 1,
+                "product_name": "Garden Pruning Shears",
+                "sku": "ZYZ-7506",
+                "unit_price": "3730.81",
+                "requested_amount": 29,
+                "received_amount": 17
+            },
+            {
+                "product_id": 2,
+                "product_name": "Toy Beading Kit",
+                "sku": "GJD-0143",
+                "unit_price": "3426.37",
+                "requested_amount": 13,
+                "received_amount": 11
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 40,
+                "received_amount": 35
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 50,
+                "received_amount": 50
+            }
+        ]
+    }
+}
