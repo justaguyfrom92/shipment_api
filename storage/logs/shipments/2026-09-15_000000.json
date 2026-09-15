@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-09-15T01:00:02-05:00",
+    "shipment_date": "2026-09-15",
+    "shipment": {
+        "id": 647,
+        "tracking_number": "6BE-27845210",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-15",
+        "expected_delivery": "2026-09-15",
+        "status": "pending",
+        "total_packages": 134,
+        "notes": "Error odit nihil voluptatem quam recusandae quo similique in nisi delectus sit.",
+        "inventory": [
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 49,
+                "received_amount": 8
+            },
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 16,
+                "received_amount": 14
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 8,
+                "received_amount": 2
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 20,
+                "received_amount": 3
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 41,
+                "received_amount": 28
+            }
+        ]
+    }
+}
