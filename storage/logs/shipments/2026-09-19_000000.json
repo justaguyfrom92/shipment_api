@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-09-19T01:00:01-05:00",
+    "shipment_date": "2026-09-19",
+    "shipment": {
+        "id": 651,
+        "tracking_number": "42E-46561431",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-19",
+        "expected_delivery": "2026-09-19",
+        "status": "pending",
+        "total_packages": 171,
+        "notes": "Autem dolores debitis voluptas autem sint temporibus est aut.",
+        "inventory": [
+            {
+                "product_id": 27,
+                "product_name": "Smart Window Sensor",
+                "sku": "IGC-6397",
+                "unit_price": "2095.19",
+                "requested_amount": 4,
+                "received_amount": 4
+            },
+            {
+                "product_id": 30,
+                "product_name": "Pasta Sauce",
+                "sku": "YOU-4011",
+                "unit_price": "3356.53",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 30,
+                "received_amount": 7
+            },
+            {
+                "product_id": 16,
+                "product_name": "LEGO Harry Potter Set",
+                "sku": "XFV-8160",
+                "unit_price": "4782.14",
+                "requested_amount": 47,
+                "received_amount": 22
+            },
+            {
+                "product_id": 26,
+                "product_name": "Grey's Anatomy DVD",
+                "sku": "JZQ-9889",
+                "unit_price": "152.10",
+                "requested_amount": 15,
+                "received_amount": 9
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 25,
+                "received_amount": 24
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 1,
+                "received_amount": 1
+            },
+            {
+                "product_id": 22,
+                "product_name": "Canned Spaghetti",
+                "sku": "LMR-1687",
+                "unit_price": "350.11",
+                "requested_amount": 20,
+                "received_amount": 8
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 14,
+                "received_amount": 3
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 14,
+                "received_amount": 11
+            }
+        ]
+    }
+}
