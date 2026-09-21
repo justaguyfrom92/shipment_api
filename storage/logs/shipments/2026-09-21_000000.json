@@ -1,0 +1,88 @@
+{
+    "generated_at": "2026-09-21T01:00:02-05:00",
+    "shipment_date": "2026-09-21",
+    "shipment": {
+        "id": 653,
+        "tracking_number": "JGD-26711477",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-21",
+        "expected_delivery": "2026-09-21",
+        "status": "pending",
+        "total_packages": 227,
+        "notes": "Tenetur corporis rerum recusandae iste rerum repellendus corporis quia voluptate non doloremque alias saepe consectetur explicabo totam rerum ad assumenda vero sed perspiciatis ipsa distinctio aperiam nobis.",
+        "inventory": [
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 41,
+                "received_amount": 36
+            },
+            {
+                "product_id": 21,
+                "product_name": "Dog Training Clicker",
+                "sku": "HSB-8186",
+                "unit_price": "3810.30",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 31,
+                "received_amount": 6
+            },
+            {
+                "product_id": 13,
+                "product_name": "Mulan Series",
+                "sku": "SYT-6340",
+                "unit_price": "81.04",
+                "requested_amount": 31,
+                "received_amount": 2
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 18,
+                "received_amount": 2
+            },
+            {
+                "product_id": 5,
+                "product_name": "USB Desk Fan",
+                "sku": "WDD-0492",
+                "unit_price": "602.46",
+                "requested_amount": 41,
+                "received_amount": 12
+            },
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 34,
+                "received_amount": 27
+            },
+            {
+                "product_id": 23,
+                "product_name": "Bluetooth Barcode Reader",
+                "sku": "ZFH-0281",
+                "unit_price": "3076.03",
+                "requested_amount": 21,
+                "received_amount": 2
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 3,
+                "received_amount": 3
+            }
+        ]
+    }
+}
