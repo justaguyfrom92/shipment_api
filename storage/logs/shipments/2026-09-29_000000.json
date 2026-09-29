@@ -1,0 +1,56 @@
+{
+    "generated_at": "2026-09-29T01:00:01-05:00",
+    "shipment_date": "2026-09-29",
+    "shipment": {
+        "id": 659,
+        "tracking_number": "YQL-14216835",
+        "supplier": "Supplier",
+        "shipment_date": "2026-09-29",
+        "expected_delivery": "2026-09-29",
+        "status": "pending",
+        "total_packages": 165,
+        "notes": "Voluptatem suscipit velit eum in laborum repellendus.",
+        "inventory": [
+            {
+                "product_id": 3,
+                "product_name": "Play-Doh Monster Set",
+                "sku": "NYL-7778",
+                "unit_price": "481.52",
+                "requested_amount": 25,
+                "received_amount": 22
+            },
+            {
+                "product_id": 10,
+                "product_name": "Canned Mexican Style Beans",
+                "sku": "PEC-1292",
+                "unit_price": "2726.19",
+                "requested_amount": 24,
+                "received_amount": 18
+            },
+            {
+                "product_id": 17,
+                "product_name": "Toy Xylophone",
+                "sku": "PPJ-1576",
+                "unit_price": "4061.54",
+                "requested_amount": 31,
+                "received_amount": 20
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 38,
+                "received_amount": 1
+            },
+            {
+                "product_id": 8,
+                "product_name": "Yoga Resistance Ring",
+                "sku": "ERB-8856",
+                "unit_price": "3067.25",
+                "requested_amount": 47,
+                "received_amount": 1
+            }
+        ]
+    }
+}
