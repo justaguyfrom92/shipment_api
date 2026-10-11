@@ -1,0 +1,96 @@
+{
+    "generated_at": "2026-10-11T01:00:01-05:00",
+    "shipment_date": "2026-10-11",
+    "shipment": {
+        "id": 670,
+        "tracking_number": "RUE-61217004",
+        "supplier": "Supplier",
+        "shipment_date": "2026-10-11",
+        "expected_delivery": "2026-10-11",
+        "status": "pending",
+        "total_packages": 207,
+        "notes": "Eos officia aperiam voluptatem quibusdam nobis non nihil ratione et doloremque ut rem quis voluptatibus qui recusandae deserunt molestias et deleniti voluptas.",
+        "inventory": [
+            {
+                "product_id": 24,
+                "product_name": "Memory Foam Seat Cushion",
+                "sku": "YSX-0658",
+                "unit_price": "2586.92",
+                "requested_amount": 30,
+                "received_amount": 4
+            },
+            {
+                "product_id": 11,
+                "product_name": "Bird Water Dispenser",
+                "sku": "BJT-9599",
+                "unit_price": "2835.50",
+                "requested_amount": 21,
+                "received_amount": 19
+            },
+            {
+                "product_id": 25,
+                "product_name": "Aladdin DVD",
+                "sku": "RCV-0224",
+                "unit_price": "2321.56",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 7,
+                "product_name": "Crayola Coloring Set",
+                "sku": "ZAQ-9459",
+                "unit_price": "4512.13",
+                "requested_amount": 7,
+                "received_amount": 5
+            },
+            {
+                "product_id": 18,
+                "product_name": "Waist Running Pouch",
+                "sku": "AIR-8927",
+                "unit_price": "4900.66",
+                "requested_amount": 27,
+                "received_amount": 23
+            },
+            {
+                "product_id": 4,
+                "product_name": "Frozen II DVD",
+                "sku": "AJH-9955",
+                "unit_price": "500.38",
+                "requested_amount": 29,
+                "received_amount": 2
+            },
+            {
+                "product_id": 28,
+                "product_name": "Canned Sweet Potatoes",
+                "sku": "YDU-6006",
+                "unit_price": "4836.99",
+                "requested_amount": 19,
+                "received_amount": 17
+            },
+            {
+                "product_id": 20,
+                "product_name": "USB Car Charger",
+                "sku": "PZV-3431",
+                "unit_price": "1248.56",
+                "requested_amount": 35,
+                "received_amount": 31
+            },
+            {
+                "product_id": 6,
+                "product_name": "Cars Collection Set",
+                "sku": "BTC-0324",
+                "unit_price": "4559.88",
+                "requested_amount": 15,
+                "received_amount": 2
+            },
+            {
+                "product_id": 29,
+                "product_name": "Retro Keyboard",
+                "sku": "IAE-2197",
+                "unit_price": "900.64",
+                "requested_amount": 17,
+                "received_amount": 12
+            }
+        ]
+    }
+}
